@@ -121,9 +121,9 @@ reddit = "carlignn"
 [params.giscus]
 enable = true
 repo = "carlignn/carlgaspar-puppet"
-repo_id = "R_kgDOHuvyhw"
-category = "General"
-category_id = "DIC_kwDOHuvyh84CQjDo"
+repo_id = "R_kgDOIDV8GA"
+category = "Announcements"
+category_id = "DIC_kwDOIDV8GM4CRlxF"
 input_position = "top"
 theme = "light_tritanopia"
 lang = "en"
