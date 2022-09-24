@@ -64,7 +64,8 @@ weight = 10
 [[menu.main]]
 identifier = "minimal"
 name = "Minimal"
-url = "https://carlgaspar-nostyleplease.netlify.app"
+# url = "https://carlgaspar-nostyleplease.netlify.app"
+url = "https://minimal.carlgaspar.com"
 weight = 50
 [[menu.main]]
 identifier = "about"
