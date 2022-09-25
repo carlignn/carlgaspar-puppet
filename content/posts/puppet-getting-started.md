@@ -13,7 +13,7 @@ title = "Puppet - Getting Started"
 toc = true
 
 +++
-Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io).
+Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io). 
 
 <!--more-->
 
@@ -23,30 +23,39 @@ Make sure you have installed the lastest version of [Hugo-extented](https://gohu
 
 ## Create a New Site
 
-    hugo new site mysite
+```
+hugo new site mysite
+```
 
 ## Add the Theme
 
 You can download and unpack the theme manually from Github or use git to clone the theme into your site's `themes` directory.
 
-    cd mysite
-    git init
-    git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
+```bash
+cd mysite
+git init
+git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
+```
 
 Or you can add the theme as a submodule.
 
-    cd mysite
-    git init
-    git submodule add https://github.com/roninro/hugo-theme-puppet.git themes/puppet
-    git submodule update --init --recursive
+```bash
+cd mysite
+git init
+git submodule add https://github.com/roninro/hugo-theme-puppet.git themes/puppet
+git submodule update --init --recursive
+```
 
 That’s all, Puppet is ready to be used.
+
 
 ## Add Config Files
 
 For getting started, you can copy the `config.toml` file from the theme's exampleSite directory to the root directory of your site.
 
-    cp themes/puppet/exampleSite/config.toml .
+```bash
+cp themes/puppet/exampleSite/config.toml .
+```
 
 > Note: You may need to delete the `themesDir` line in the config file.
 
@@ -54,25 +63,29 @@ For getting started, you can copy the `config.toml` file from the theme's exampl
 
 Create a new post with the following command.
 
-    hugo new posts/my-first-post.md
+```bash
+hugo new posts/my-first-post.md
+```
 
 Edit the content of the post.
 
-    +++
-    title = "{{ replace .Name "-" " " | title }}"
-    date = {{ .Date }}
-    description = ""
-    draft = true
-    subtitle = ""
-    header_img = ""
-    toc = true
-    tags = []
-    categories = []
-    series = []
-    comment = true
-    +++
-    
-    Your content here...
+```markdown
++++
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
+description = ""
+draft = true
+subtitle = ""
+header_img = ""
+toc = true
+tags = []
+categories = []
+series = []
+comment = true
++++
+
+Your content here...
+```
 
 Some front-matter used for SEO, others used for displaying contents, configuration, etc.
 
@@ -80,4 +93,6 @@ Some front-matter used for SEO, others used for displaying contents, configurati
 
 From the root of themes/puppet/exampleSite:
 
-    hugo server --themesDir ../..
+```bash
+hugo server --themesDir ../..
+```
