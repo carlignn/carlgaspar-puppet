@@ -60,6 +60,7 @@ fields:
   label: short
 pages:
 - content/posts/emoji-support.md
+- content/posts/guide-on-nesting-headings.md
 - content/posts/markdown-syntax-guide.md
 - content/posts/math-typesetting-1.md
 - content/posts/placeholder-text-1.md
