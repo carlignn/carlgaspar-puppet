@@ -29,7 +29,7 @@ sections:
   label: About
   create: all
   match: "**/*"
-upload_dir: ''
+upload_dir: themes/puppet/static/img
 public_path: ''
 front_matter_path: themes/puppet/static/img
 use_front_matter_path: false
