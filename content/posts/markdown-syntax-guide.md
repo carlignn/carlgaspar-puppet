@@ -2,11 +2,12 @@
 aliases = ["migrate-from-jekyl"]
 author = ""
 categories = ["themes", "syntax"]
-date = 2022-09-20T16:00:00Z
+date = 2019-03-10T16:00:00Z
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 header_img = ""
 math = false
 series = ["Themes Guide"]
+short = false
 subtitle = ""
 tags = ["markdown", "css", "html"]
 title = "Markdown Syntax Guide"
