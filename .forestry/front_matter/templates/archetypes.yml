@@ -44,6 +44,7 @@ fields:
     use_select: false
     source:
       type: simple
+  description: Just tags.
 - type: list
   name: categories
   label: categories
