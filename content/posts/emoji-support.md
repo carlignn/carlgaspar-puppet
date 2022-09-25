@@ -4,7 +4,6 @@ author = ""
 categories = []
 date = 2022-09-16T16:00:00Z
 description = "Guide to emoji usage in Hugo"
-draft = true
 header_img = ""
 math = false
 series = []
