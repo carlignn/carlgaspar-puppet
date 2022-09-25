@@ -16,4 +16,6 @@ toc = false
 +++
 Twitter
 
-    {{< tweet id="1332331305154076678" user="isjwuk" >}}
+https://www.instagram.com/p/Cfa-6Ihrlul/
+
+    {{< instagram Cfa-6Ihrlul hidecaption >}}
