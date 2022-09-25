@@ -60,6 +60,7 @@ fields:
   label: short
 pages:
 - content/posts/emoji-support.md
+- content/posts/it-s-more-find-in-the-philippines.md
 - content/posts/markdown-syntax-guide.md
 - content/posts/math-typesetting-1.md
 - content/posts/pesofolio-philippine-stock-exchange-portfolio-tracker.md
