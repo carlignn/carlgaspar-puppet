@@ -2,11 +2,12 @@
 aliases = []
 author = ""
 categories = []
-date = 2022-09-16T16:00:00Z
+date = 2019-03-04T16:00:00Z
 description = "Guide to emoji usage in Hugo"
 header_img = ""
 math = false
 series = []
+short = false
 subtitle = ""
 tags = ["emoji"]
 title = "Emoji Support"
