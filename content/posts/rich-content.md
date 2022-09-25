@@ -1,6 +1,6 @@
 +++
 aliases = []
-author = ""
+author = "Hugo"
 categories = []
 date = 2022-09-20T00:00:00Z
 description = "A brief description of Hugo Shortcodes"
