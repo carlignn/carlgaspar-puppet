@@ -14,7 +14,7 @@ title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
-![](https://elaborate.netlify.app/upload/dsc_0179.JPG)
+![](https://elaborate.netlify.app/upload/my-art.png)
 
 ## Threat Modeling, The What, Why, Who And When
 
