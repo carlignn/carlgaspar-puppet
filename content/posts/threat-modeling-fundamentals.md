@@ -14,7 +14,7 @@ title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
-![](/my-art.png "ff")
+![](https://i.imgur.com/YFpqc1F.png)
 
 ## Threat Modeling, The What, Why, Who And When
 
