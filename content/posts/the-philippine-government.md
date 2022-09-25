@@ -43,14 +43,12 @@ Has the authority to make laws, alter, and repeal them through the power vested 
   Congress of the Philippines is responsible for making enabling laws to make sure the spirit of the constitution is upheld in the country and, at times, amend or change the constitution itself. In order to craft laws, the legislative body comes out with two main documents: **bills** and **resolutions**.
 
   #### Resolutions
-
   Convey principles and sentiments of the Senate or the House of Representatives. These resolutions can further be divided into three different elements:
   * Joint resolutions - require the approval of both chambers of Congress and the signature of the President, and have the force and effect of a law if approved.
   * Concurrent resolutions - used for matters affecting the operations of both chambers of Congress and must be approved in the same form by both houses, but are not transmitted to the President for his signature and therefore have no force and effect of a law.
   * Simple resolutions - deal with matters entirely within the prerogative of one chamber of Congress, are not referred to the President for his signature, and therefore have no force and effect of a law.
 
   #### Bills
-
   Bills are laws in the making. They pass into law when they are approved by both houses and the President of the Philippines. A bill may be vetoed by the President, but the House of Representatives may overturn a presidential veto by garnering a 2/3rds vote. If the President does not act on a proposed law submitted by Congress, it will lapse into law after 30 days of receipt.
 
 ## Executive
