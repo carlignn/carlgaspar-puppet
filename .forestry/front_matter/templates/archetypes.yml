@@ -5,12 +5,28 @@ fields:
 - type: text
   name: title
   label: title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
 - type: text
   name: description
   label: description
 - type: datetime
   name: date
   label: date
+- name: header_img
+  type: text
+  config:
+    required: false
+  label: header_img
+- type: boolean
+  name: toc
+  label: toc
+- name: math
+  type: boolean
+  label: math
 - type: list
   name: tags
   label: tags
@@ -23,14 +39,3 @@ fields:
 - type: list
   name: aliases
   label: aliases
-- type: boolean
-  name: toc
-  label: toc
-- name: header_img
-  type: text
-  config:
-    required: false
-  label: header_img
-- name: math
-  type: boolean
-  label: math
