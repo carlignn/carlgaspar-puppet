@@ -1,0 +1,30 @@
++++
+author = ""
+date = 2022-09-20T00:00:00Z
+description = "A brief description of Hugo Shortcodes"
+draft = true
+header_img = "/img/404-bg.jpg"
+subtitle = "A brief description of Hugo Shortcodes"
+tags = ["shortcodes", "privacy", "MarkDown"]
+title = "Rich Content-(copy)"
+
++++
+Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+<!--more-->
+---
+
+## YouTube Privacy Enhanced Shortcode
+
+{{< youtube ZJthWmvUzzc >}}
+<br>
+
+---
+
+## Twitter Simple Shortcode
+
+
+<br>
+
+---
+
+## Vimeo Simple Shortcode
