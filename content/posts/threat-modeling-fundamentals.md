@@ -14,8 +14,6 @@ title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
-![](https://i.imgur.com/YFpqc1F.png)
-
 ## Threat Modeling, The What, Why, Who And When
 
 ### What Is Threat Modeling
