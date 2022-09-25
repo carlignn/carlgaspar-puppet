@@ -16,6 +16,8 @@ toc = true
 +++
 The only portfolio tracker that tracks the Philippine Stock Exchange with the option of multiple accounts to manage your assets simpler, better and easier. Sophisticated enough for professional investors but simple enough to use for enthusiastic first timers. Just browse for your stock of choice and Pesofolio will track that for you: gaining value, losing value, total net worth, percent increase, etc..
 
+![](/pesofolio.jpg)
+
 [Link to Google Play Store](https://play.google.com/store/apps/details?id=com.galoreentertainment.pesofolio)
 
 ## Stock Portfolio Tracking
@@ -38,7 +40,7 @@ The only portfolio tracker that tracks the Philippine Stock Exchange with the op
 
 ## Screenshots
 
-Application screenshots uploaded from Imgur.
+Application screenshots uploaded to Imgur.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/RV2Mpka"><a href="//imgur.com/a/RV2Mpka">Pesofolio</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
@@ -52,11 +54,3 @@ Application screenshots uploaded from Imgur.
   * Lambda
   * CloudWatch
   * API Gateway
-
-## Discussions
-
-* [Twitter](https://twitter.com/carlignnn/status/1444986830504353792)
-* [Facebook (1)](https://www.facebook.com/carlignn/posts/417961916342250)
-* [Facebook (2)](https://www.facebook.com/411314775926112/posts/1767308420326734/)
-* [Linkedin](https://www.linkedin.com/posts/carlignn_track-your-stock-net-worth-with-over-300-activity-6850758389144940544-bZpP)
-* [Reddit](https://www.reddit.com/user/carlignn/comments/q32h2a/pesofolio_philippine_stock_exchange_portfolio/)
