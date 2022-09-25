@@ -22,12 +22,12 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 * Looking at attacks - actively looking at what can be abused
 * Probable threat scenarios - list of threats
 
-  #### Definitions
-  * Weakness - software defect, bug
-  * Vulnerability - weakness that can be exploited
-  * Attack/Incident - target, attack vector, threat actor
-  * Attack surface - anything that can be obtained, used, or attacked by a threat actor
-  * Risk = Impact * Likelihood
+#### Definitions
+* Weakness - software defect, bug
+* Vulnerability - weakness that can be exploited
+* Attack/Incident - target, attack vector, threat actor
+* Attack surface - anything that can be obtained, used, or attacked by a threat actor
+* Risk = Impact * Likelihood
 
 ### Why Should One Perform Threat Modeling
 * Pro-active approach - security upfront
@@ -37,11 +37,11 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 
 _The ultimate objective of threat modeling is risk reduction._
 
-  #### Other methodologies that can perform risk reduction aside from Threat Modeling
-  * Architectural analysis
-  * Source code analysis
-  * Vulnerability scanning
-  * Penetration testing
+#### Other methodologies that can perform risk reduction aside from Threat Modeling
+* Architectural analysis
+* Source code analysis
+* Vulnerability scanning
+* Penetration testing
 
 _Threat modeling is a collaborative and repeatable process._
 
