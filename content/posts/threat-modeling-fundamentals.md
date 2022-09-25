@@ -4,7 +4,7 @@ author = ""
 categories = []
 date = 2022-09-15T09:25:00Z
 description = "Threat Modeling is a process of systematically listing all potential ways one can attack an application."
-header_img = "/img/my-art.png"
+header_img = "/img/home-bg.jpg"
 math = false
 series = []
 short = false
@@ -14,7 +14,7 @@ title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
-![](https://elaborate.netlify.app/upload/my-art.png)
+![](/themes/puppet/static/img/my-art.png)
 
 ## Threat Modeling, The What, Why, Who And When
 
