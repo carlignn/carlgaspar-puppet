@@ -14,15 +14,20 @@ title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
+![](https://elaborate.netlify.app/upload/dsc_0179.JPG)
+
 ## Threat Modeling, The What, Why, Who And When
 
 ### What Is Threat Modeling
+
 Threat Modeling is a process of systematically listing all potential ways one can attack an application.
+
 * Systematic approach - repeatable and consistent process during the whole development lifecycle
 * Looking at attacks - actively looking at what can be abused
 * Probable threat scenarios - list of threats
 
 #### Definitions
+
 * Weakness - software defect, bug
 * Vulnerability - weakness that can be exploited
 * Attack/Incident - target, attack vector, threat actor
@@ -30,6 +35,7 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 * Risk = Impact * Likelihood
 
 ### Why Should One Perform Threat Modeling
+
 * Pro-active approach - security upfront
 * Efficient - the sooner a bug or a vulnerability is discovered in the SDLC, the cheaper it is
 * Prioritize bugs - the outcome is the list of potential threats and/or risks of the application, which is used to determine further mitigation strategies that will allow to prioritize the workload
@@ -38,6 +44,7 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 _The ultimate objective of threat modeling is risk reduction._
 
 #### Other methodologies that can perform risk reduction aside from Threat Modeling
+
 * Architectural analysis
 * Source code analysis
 * Vulnerability scanning
