@@ -26,3 +26,6 @@ fields:
 - type: boolean
   name: toc
   label: toc
+- name: math
+  type: boolean
+  label: math
