@@ -2,11 +2,12 @@
 aliases = []
 author = ""
 categories = []
-date = 2022-09-22T00:00:00Z
+date = 2022-08-09T00:00:00Z
 description = ""
 header_img = ""
 math = false
 series = ["Themes Guide"]
+short = false
 subtitle = ""
 tags = ["documentation", "guide"]
 title = "Puppet - Getting Started"
