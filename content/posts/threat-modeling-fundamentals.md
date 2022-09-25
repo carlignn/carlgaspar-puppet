@@ -14,7 +14,7 @@ title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
-![](/themes/puppet/static/img/my-art.png)
+![](/my-art.png "ff")
 
 ## Threat Modeling, The What, Why, Who And When
 
