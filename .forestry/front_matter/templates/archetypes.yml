@@ -54,6 +54,9 @@ fields:
 - type: list
   name: aliases
   label: aliases
+- name: short
+  type: boolean
+  label: short
 pages:
 - content/posts/emoji-support.md
 - content/posts/markdown-syntax-guide.md
