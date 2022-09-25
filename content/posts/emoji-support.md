@@ -1,13 +1,19 @@
 +++
+aliases = []
 author = ""
-title = "Emoji Support"
-date = "2022-09-17"
+categories = []
+date = 2022-09-16T16:00:00Z
 description = "Guide to emoji usage in Hugo"
-tags = [
-    "emoji",
-]
-+++
+draft = true
+header_img = ""
+math = false
+series = []
+subtitle = ""
+tags = ["emoji"]
+title = "Emoji Support"
+toc = false
 
++++
 Emoji can be enabled in a Hugo project in a number of ways. 
 <!--more-->
 The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes). 
