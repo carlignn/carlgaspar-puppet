@@ -55,6 +55,7 @@ fields:
   name: aliases
   label: aliases
 pages:
+- content/posts/markdown-syntax-guide.md
 - content/posts/math-typesetting-1.md
 - content/posts/placeholder-text-1.md
 - content/posts/puppet-getting-started.md
