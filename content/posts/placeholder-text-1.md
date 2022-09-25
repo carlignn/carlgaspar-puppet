@@ -2,11 +2,12 @@
 aliases = []
 author = ""
 categories = []
-date = 2022-09-18T16:00:00Z
+date = 2019-03-08T16:00:00Z
 description = "Lorem Ipsum Dolor Si Amet"
 header_img = ""
 math = false
 series = []
+short = false
 subtitle = ""
 tags = ["text", "markdown"]
 title = "Placeholder Text"
