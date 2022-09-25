@@ -2,6 +2,11 @@
 label: archetypes
 hide_body: false
 fields:
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
 - type: text
   name: title
   label: title
