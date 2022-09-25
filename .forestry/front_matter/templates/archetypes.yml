@@ -26,6 +26,8 @@ fields:
 - type: boolean
   name: toc
   label: toc
-- name: math
-  type: boolean
-  label: math
+- name: header_img
+  type: text
+  config:
+    required: false
+  label: header_img
