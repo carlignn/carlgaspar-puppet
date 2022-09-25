@@ -60,6 +60,7 @@ fields:
   label: short
 pages:
 - content/posts/emoji-support.md
+- content/posts/i-pinned-this-tweet-to-remind-me-of-my-procrastination.md
 - content/posts/markdown-syntax-guide.md
 - content/posts/math-typesetting-1.md
 - content/posts/placeholder-text-1.md
