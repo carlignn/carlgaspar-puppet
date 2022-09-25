@@ -29,8 +29,8 @@ sections:
   label: About
   create: all
   match: "**/*"
-upload_dir: static
-public_path: "/static"
+upload_dir: themes/puppet/static/img
+public_path: "/themes/puppet/static/img"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
