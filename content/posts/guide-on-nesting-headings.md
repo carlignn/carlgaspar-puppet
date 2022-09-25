@@ -15,6 +15,15 @@ title = "Guide On Nesting Headings"
 toc = false
 
 +++
-No space - ##
-Single space - ###
-Double space - ####
+Double Pound - ##
+
+* No space
+
+Triple Pound - ###
+
+* Single space
+
+Quadruple Pound - ####
+
+* Double space
+* Texts below should not contain line break
