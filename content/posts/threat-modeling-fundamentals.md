@@ -16,24 +16,20 @@ toc = true
 +++
 ## Threat Modeling, The What, Why, Who And When
 
- ### What Is Threat Modeling
-
+### What Is Threat Modeling
 Threat Modeling is a process of systematically listing all potential ways one can attack an application.
-
 * Systematic approach - repeatable and consistent process during the whole development lifecycle
 * Looking at attacks - actively looking at what can be abused
 * Probable threat scenarios - list of threats
 
   #### Definitions
+  * Weakness - software defect, bug
+  * Vulnerability - weakness that can be exploited
+  * Attack/Incident - target, attack vector, threat actor
+  * Attack surface - anything that can be obtained, used, or attacked by a threat actor
+  * Risk = Impact * Likelihood
 
-* Weakness - software defect, bug
-* Vulnerability - weakness that can be exploited
-* Attack/Incident - target, attack vector, threat actor
-* Attack surface - anything that can be obtained, used, or attacked by a threat actor
-* Risk = Impact * Likelihood
-
- ### Why Should One Perform Threat Modeling
-
+### Why Should One Perform Threat Modeling
 * Pro-active approach - security upfront
 * Efficient - the sooner a bug or a vulnerability is discovered in the SDLC, the cheaper it is
 * Prioritize bugs - the outcome is the list of potential threats and/or risks of the application, which is used to determine further mitigation strategies that will allow to prioritize the workload
@@ -42,15 +38,14 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 _The ultimate objective of threat modeling is risk reduction._
 
   #### Other methodologies that can perform risk reduction aside from Threat Modeling
-
-* Architectural analysis
-* Source code analysis
-* Vulnerability scanning
-* Penetration testing
+  * Architectural analysis
+  * Source code analysis
+  * Vulnerability scanning
+  * Penetration testing
 
 _Threat modeling is a collaborative and repeatable process._
 
- ### Who Should Perform Threat Modeling
+### Who Should Perform Threat Modeling
 
 * System Architect - somebody who knows how the system ha been designed and how the data flows across
 * Developer - somebody who knows the intricate details on how the application was built and the detailed interactions between components
@@ -59,7 +54,7 @@ _Threat modeling is a collaborative and repeatable process._
 
 _The best way to implement threat modeling is to make as little changes to the process as possible._
 
- ### When Should One Perform Threat Modeling
+### When Should One Perform Threat Modeling
 
 * As early as possible
 * Requirements phase
@@ -69,7 +64,7 @@ _In general, early on in the process._
 
 ## Choosing The Right Approach
 
- ### Asset-centric Approach
+### Asset-centric Approach
 
 Also called **Risk-centric Approach.**
 
@@ -84,7 +79,7 @@ Examples:
 
 > If you don't know what to protect, how do you know you're protecting it?
 
- ### Attacker-centric Approach
+### Attacker-centric Approach
 
 1. Create a list of threat actors
    1. Motive
@@ -92,7 +87,7 @@ Examples:
    3. Opportunity
 2. Create a list of threats
 
- ### Application-centric Approach
+### Application-centric Approach
 
 1. Draw a diagram of the application
    * For example a Data Flow Diagram
@@ -105,7 +100,7 @@ _Choose approach based on skillset._
 
 ## Choosing The Right Methodology
 
- ### PASTA
+### PASTA
 
 _Process for Attack Simulation and Threat Analysis_
 
@@ -117,7 +112,7 @@ _Process for Attack Simulation and Threat Analysis_
 6. Enumerate Attacks
 7. Perform Impact Analysis
 
- ### Microsoft Threat Modeling
+### Microsoft Threat Modeling
 
 * Threat modeling framework
 * Sometimes incorrectly named STRIDE
@@ -128,7 +123,7 @@ _Process for Attack Simulation and Threat Analysis_
 
 **Steps**: Identify Assets > Create Architecture Overview > Decompose Application > Identify Threats > Document Threats > Rate Threats
 
- ### OCTAVE
+### OCTAVE
 
 _Operationally Critical Threat, Asset and Vulnerability Evaluation_
 
@@ -142,7 +137,7 @@ _Operationally Critical Threat, Asset and Vulnerability Evaluation_
 
 **Process**: Establish Drivers > Profile Assets > Identifying Threats > Mitigate Risks
 
- ### TRIKE
+### TRIKE
 
 * Methodology as well as tool
 * High levels of automation are possible
@@ -156,7 +151,7 @@ _Operationally Critical Threat, Asset and Vulnerability Evaluation_
 
 **Process**: Identify Threats > Investigate Threats > Identify Mitigations > Investigate Mitigations
 
- ### VAST
+### VAST
 
 _Visual Agile Simple Threat Modeling_
 
