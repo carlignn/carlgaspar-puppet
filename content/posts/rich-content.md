@@ -2,11 +2,12 @@
 aliases = []
 author = "Hugo"
 categories = []
-date = 2022-09-20T00:00:00Z
+date = 2019-03-10T00:00:00Z
 description = "A brief description of Hugo Shortcodes"
 header_img = "/img/home-bg.jpg"
 math = false
 series = []
+short = false
 subtitle = "A brief description of Hugo Shortcodes"
 tags = ["markdown", "privacy", "shortcodes"]
 title = "Rich Content"
