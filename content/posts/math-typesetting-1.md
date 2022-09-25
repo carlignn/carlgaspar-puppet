@@ -2,11 +2,12 @@
 aliases = []
 author = ""
 categories = []
-date = 2022-09-17T16:00:00Z
+date = 2019-03-07T16:00:00Z
 description = "A brief guide to setup KaTeX"
 header_img = ""
 math = true
 series = []
+short = false
 subtitle = ""
 tags = []
 title = "Math Typesetting"
