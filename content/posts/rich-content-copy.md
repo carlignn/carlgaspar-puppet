@@ -2,7 +2,7 @@
 author = ""
 date = 2022-09-15T09:25:00Z
 description = "Threat Modeling is a process of systematically listing all potential ways one can attack an application."
-header_img = ""
+header_img = "/img/home-bg.jpg"
 subtitle = "Write-up of the Threat Modeling Fundamentals by Peter Mosmans"
 tags = ["security", "devsecops", "blueteam", "write-up"]
 title = "Threat Modeling Fundamentals"
