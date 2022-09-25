@@ -8,12 +8,12 @@ header_img = "/img/home-bg.jpg"
 math = false
 series = []
 subtitle = "Write-up of the Threat Modeling Fundamentals by Peter Mosmans"
-tags = ["write-up", "blueteam", "devsecops", "security"]
+tags = ["security", "devsecops", "blueteam", "write-up"]
 title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
-## Threat Modeling, the What, Why, Who and When
+## Threat Modeling, The What, Why, Who And When
 
 ### What Is Threat Modeling
 
@@ -38,7 +38,7 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 * Prioritize bugs - the outcome is the list of potential threats and/or risks of the application, which is used to determine further mitigation strategies that will allow to prioritize the workload
 * Better understanding - will give the developers a whole overview of the system
 
-The ultimate objective of threat modeling is risk reduction.
+_The ultimate objective of threat modeling is risk reduction._
 
 #### Other methodologies that can perform risk reduction aside from Threat Modeling
 
@@ -47,7 +47,7 @@ The ultimate objective of threat modeling is risk reduction.
 * Vulnerability scanning
 * Penetration testing
 
-\* Threat modeling is a collaborative and repeatable process.
+_Threat modeling is a collaborative and repeatable process._
 
 ### Who Should Perform Threat Modeling
 
@@ -56,7 +56,7 @@ The ultimate objective of threat modeling is risk reduction.
 * Tester - somebody who knows the requirements and what the application is expected to do
 * Security Professional - somebody who knows specific attack factors and think like an attacked
 
-\* The best way to implement threat modeling is to make as little changes to the process as possible.
+_The best way to implement threat modeling is to make as little changes to the process as possible._
 
 ### When Should One Perform Threat Modeling
 
@@ -64,9 +64,9 @@ The ultimate objective of threat modeling is risk reduction.
 * Requirements phase
 * Design phase
 
-\* In general, early on in the process.
+_In general, early on in the process._
 
-## Choosing the Right Approach
+## Choosing The Right Approach
 
 ### Asset-centric Approach
 
@@ -100,9 +100,9 @@ Examples:
    * OWASP Top 10
 3. Rank threats using classification model
 
-\* Choose approach based on skillset.
+_Choose approach based on skillset._
 
-## Choosing the Right Methodology
+## Choosing The Right Methodology
 
 ### PASTA
 
