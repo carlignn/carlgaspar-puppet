@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: author
-  description: Blank will default to Carl Gaspar.
+  description: Leaving it blank will default to "Carl Gaspar".
 - type: text
   name: title
   label: title
@@ -29,14 +29,15 @@ fields:
   config:
     required: false
   label: header_img
-  description: Can be none, can be /img/home-bg.jpg.
+  description: Leave it blank, "/img/home-bg.jpg" or custom image.
 - type: boolean
   name: toc
   label: toc
-  description: Catalog view.
+  description: Enable or disable catalog view.
 - name: math
   type: boolean
   label: math
+  description: Enable or disable mathematical view.
 - type: list
   name: tags
   label: tags
@@ -44,7 +45,6 @@ fields:
     use_select: false
     source:
       type: simple
-  description: Just tags.
 - type: list
   name: categories
   label: categories
