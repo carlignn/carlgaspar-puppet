@@ -173,4 +173,4 @@ _Visual Agile Simple Threat Modeling_
 
 ## References
 
-* \[Threat Modeling Fundamentals by Peter Mosmans on Pluralsight\](<* [https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents](https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents "https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents")>)
+* [Threat Modeling Fundamentals by Peter Mosmans on Pluralsight](https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents)
