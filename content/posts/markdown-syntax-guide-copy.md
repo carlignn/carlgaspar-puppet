@@ -1,142 +1,172 @@
 +++
 aliases = ["migrate-from-jekyl"]
-categories = ["themes", "syntax"]
-date = 2022-09-21T00:00:00Z
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-draft = true
+categories = []
+date = 2022-09-15T09:25:00Z
+description = "Threat Modeling is a process of systematically listing all potential ways one can attack an application."
 series = ["Themes Guide"]
-tags = ["markdown", "css", "html"]
-title = "Markdown Syntax Guide-(copy)"
+tags = ["security", "devsecops", "blueteam", "write-up"]
+title = "Threat Modeling Fundamentals"
 toc = true
 
 +++
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+## Threat Modeling, the What, Why, Who and When
 
-## Headings
+### What Is Threat Modeling
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Threat Modeling is a process of systematically listing all potential ways one can attack an application.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+* Systematic approach - repeatable and consistent process during the whole development lifecycle
+* Looking at attacks - actively looking at what can be abused
+* Probable threat scenarios - list of threats
 
-## Paragraph
+#### Definitions
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+* Weakness - software defect, bug
+* Vulnerability - weakness that can be exploited
+* Attack/Incident - target, attack vector, threat actor
+* Attack surface - anything that can be obtained, used, or attacked by a threat actor
+* Risk = Impact * Likelihood
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+### Why Should One Perform Threat Modeling
 
-## Blockquotes
+* Pro-active approach - security upfront
+* Efficient - the sooner a bug or a vulnerability is discovered in the SDLC, the cheaper it is
+* Prioritize bugs - the outcome is the list of potential threats and/or risks of the application, which is used to determine further mitigation strategies that will allow to prioritize the workload
+* Better understanding - will give the developers a whole overview of the system
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+The ultimate objective of threat modeling is risk reduction.
 
-#### Blockquote without attribution
+#### Other methodologies that can perform risk reduction aside from Threat Modeling
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+* Architectural analysis
+* Source code analysis
+* Vulnerability scanning
+* Penetration testing
 
-#### Blockquote with attribution
+\* Threat modeling is a collaborative and repeatable process.
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+### Who Should Perform Threat Modeling
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+* System Architect - somebody who knows how the system ha been designed and how the data flows across
+* Developer - somebody who knows the intricate details on how the application was built and the detailed interactions between components
+* Tester - somebody who knows the requirements and what the application is expected to do
+* Security Professional - somebody who knows specific attack factors and think like an attacked
 
-## Tables
+\* The best way to implement threat modeling is to make as little changes to the process as possible.
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+### When Should One Perform Threat Modeling
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+* As early as possible
+* Requirements phase
+* Design phase
 
-#### Inline Markdown within tables
+\* In general, early on in the process.
 
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
+## Choosing the Right Approach
 
-## Code Blocks
+### Asset-centric Approach
 
-#### Code block with backticks
+Also called **Risk-centric Approach.**
 
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
+1. Create lists of assets
+2. Draw assets, components and data flows
+3. For each element, check for threats
 
-#### Code block indented with four spaces
+Examples:
 
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
+* PASTA - Process for Attack Simulation and Threat Analysis
+* TRIKE - dated threat modeling technology with accompanying tool
 
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
+> If you don't know what to protect, how do you know you're protecting it?
 
-## List Types
+### Attacker-centric Approach
 
-#### Ordered List
+1. Create a list of threat actors
+   1. Motive
+   2. Means
+   3. Opportunity
+2. Create a list of threats
 
-1. First item
-2. Second item
-3. Third item
+### Application-centric Approach
 
-#### Unordered List
+1. Draw a diagram of the application
+   * For example a Data Flow Diagram
+2. List threats for each elements
+   * STRIDE
+   * OWASP Top 10
+3. Rank threats using classification model
 
-* List item
-* Another item
-* And another item
+\* Choose approach based on skillset.
 
-#### Nested list
+## Choosing the Right Methodology
 
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
+### PASTA
 
-## Other Elements — abbr, sub, sup, kbd, mark
+_Process for Attack Simulation and Threat Analysis_
 
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
+1. Define Business Objectives
+2. Define Technical Scope
+3. Decompose Application
+4. Analyze Threats
+5. Identify Vulnerabilities
+6. Enumerate Attacks
+7. Perform Impact Analysis
 
-H<sub>2</sub>O
+### Microsoft Threat Modeling
 
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+* Threat modeling framework
+* Sometimes incorrectly named STRIDE
+  * STRIDE is a threat classification system used within the Microsoft threat modeling methodology
+* Focuses on technical risk
+* Developer-driven
+* Application-centric approach
 
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
+**Steps**: Identify Assets > Create Architecture Overview > Decompose Application > Identify Threats > Document Threats > Rate Threats
 
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+### OCTAVE
+
+_Operationally Critical Threat, Asset and Vulnerability Evaluation_
+
+* Risk analysis framework
+* Evaluates organization (as opposed to an application)
+* Different versions
+  * OCTAVE (large companies)
+  * OCTAVE-S (less than 100 employees)
+  * OCTAVE Allegro (asset-centric approach)
+* Focus on security practices
+
+**Process**: Establish Drivers > Profile Assets > Identifying Threats > Mitigate Risks
+
+### TRIKE
+
+* Methodology as well as tool
+* High levels of automation are possible
+* Asset-centric approach
+* Focus on defensive side
+* Trageted towards security auditing teams
+* Three models
+  * Requirements model
+  * Implementation model
+  * Risk model
+
+**Process**: Identify Threats > Investigate Threats > Identify Mitigations > Investigate Mitigations
+
+### VAST
+
+_Visual Agile Simple Threat Modeling_
+
+* Two threat model types
+  * Application Threat Model
+  * Operational Threat Model
+* Uses process flow diagram
+* Targeted towards agile companies
+* Scalable
+
+## Notes
+
+* Best methodology depends on team, organization and goal
+* Recommendations: Asset-centric: PASTA && Application-centric: Microsoft Threat Modeling
+
+## References
+
+* \[Threat Modeling Fundamentals by Peter Mosmans on Pluralsight\](<* [https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents](https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents "https://app.pluralsight.com/library/courses/threat-modeling-fundamentals/table-of-contents")>)
