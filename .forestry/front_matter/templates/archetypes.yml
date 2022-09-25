@@ -7,6 +7,7 @@ fields:
   config:
     required: false
   label: author
+  description: Blank will default to Carl Gaspar.
 - type: text
   name: title
   label: title
@@ -15,9 +16,11 @@ fields:
   config:
     required: false
   label: subtitle
+  description: Text below the title.
 - type: text
   name: description
   label: description
+  description: Text below the subtitle on the posts page.
 - type: datetime
   name: date
   label: date
@@ -26,15 +29,21 @@ fields:
   config:
     required: false
   label: header_img
+  description: Can be none, can be /img/home-bg.jpg.
 - type: boolean
   name: toc
   label: toc
+  description: Catalog view.
 - name: math
   type: boolean
   label: math
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
+    source:
+      type: simple
 - type: list
   name: categories
   label: categories
