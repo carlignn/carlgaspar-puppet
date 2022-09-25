@@ -16,7 +16,7 @@ toc = true
 +++
 The only portfolio tracker that tracks the Philippine Stock Exchange with the option of multiple accounts to manage your assets simpler, better and easier. Sophisticated enough for professional investors but simple enough to use for enthusiastic first timers. Just browse for your stock of choice and Pesofolio will track that for you: gaining value, losing value, total net worth, percent increase, etc..
 
-[DW9O2jC](https://imgur.com/DW9O2jC "DW9O2jC")
+<blockquote class="imgur-embed-pub" lang="en" data-id="DW9O2jC"><a href="[https://imgur.com/DW9O2jC](https://imgur.com/DW9O2jC "https://imgur.com/DW9O2jC")">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 [Link to Google Play Store](https://play.google.com/store/apps/details?id=com.galoreentertainment.pesofolio)
 
