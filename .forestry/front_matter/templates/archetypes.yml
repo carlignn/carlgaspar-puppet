@@ -45,6 +45,7 @@ fields:
     use_select: false
     source:
       type: simple
+  description: Use lowercase.
 - type: list
   name: categories
   label: categories
