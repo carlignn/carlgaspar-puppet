@@ -5,12 +5,12 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: description
   label: description
+- type: datetime
+  name: date
+  label: date
 - type: list
   name: tags
   label: tags
@@ -31,3 +31,6 @@ fields:
   config:
     required: false
   label: header_img
+- name: math
+  type: boolean
+  label: math
