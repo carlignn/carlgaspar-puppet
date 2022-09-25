@@ -55,5 +55,6 @@ fields:
   name: aliases
   label: aliases
 pages:
+- content/posts/puppet-getting-started.md
 - content/posts/rich-content.md
 - content/posts/threat-modeling-fundamentals.md
