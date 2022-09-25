@@ -16,7 +16,7 @@ fields:
   config:
     required: false
   label: subtitle
-  description: Text below the title.
+  description: Text below the title. Don't put period in the end.
 - type: text
   name: description
   label: description
