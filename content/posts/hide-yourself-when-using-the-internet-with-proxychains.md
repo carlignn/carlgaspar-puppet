@@ -8,7 +8,7 @@ header_img = ""
 math = false
 series = []
 short = false
-subtitle = "There are times that you wish you are anonymous browsing the internet."
+subtitle = "Anonymous browsing"
 tags = ["security", "hacking"]
 title = "Hide Yourself When Using the Internet With ProxyChains"
 toc = true
@@ -17,8 +17,6 @@ toc = true
 ## Configuring ProxyChains
 
 ProxyChains come preinstalled in Kali Linux. All you have to do is find it. I wasn't able to make the locate command work, but I found it in /etc directory.
-
-#### ﻿ 
 
 #### Step 1
 
@@ -194,7 +192,7 @@ tcp_connect_time_out 8000
 socks4         127.0.0.1 9050
 ```
 
-You'll see all the chains that you can select from, how they works are described and explained properly. 
+You'll see all the chains that you can select from, how they works are described and explained properly.
 
 #### Step 2
 
