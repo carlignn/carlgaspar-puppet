@@ -59,6 +59,7 @@ fields:
   type: boolean
   label: short
 pages:
+- content/posts/cybersecurity-interview-answers.md
 - content/posts/emoji-support.md
 - content/posts/hide-yourself-when-using-the-internet-with-proxychains.md
 - content/posts/incident-response.md
