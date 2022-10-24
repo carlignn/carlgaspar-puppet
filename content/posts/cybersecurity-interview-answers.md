@@ -11,7 +11,7 @@ series = []
 short = false
 subtitle = "My answers to the 60 Cybersecurity Interview Questions of Daniel Miessler"
 tags = ["security"]
-title = "Cybersecurity Interview (Answers)"
+title = "Cybersecurity Interview \"Answers\""
 toc = true
 
 +++
