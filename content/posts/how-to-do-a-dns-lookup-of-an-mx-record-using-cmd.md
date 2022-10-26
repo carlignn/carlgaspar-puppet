@@ -14,7 +14,7 @@ title = "How To Do a DNS Lookup Of An MX Record Using CMD"
 toc = false
 
 +++
-Related: [What is an MX Record](/ "What is an MX Record")
+Related: [What is an MX Record](/posts/incident-response-tools "What is an MX Record")
 
 `nslookup` is a command-line tool used for testing and troubleshooting DNS servers. Basically, just as its name says, it will lookup for the name server of any domain.
 
