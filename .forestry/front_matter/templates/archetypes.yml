@@ -63,7 +63,6 @@ pages:
 - content/posts/cybersecurity-interview-answers.md
 - content/posts/emoji-support.md
 - content/posts/hide-yourself-when-using-the-internet-with-proxychains.md
-- content/posts/how-to-do-a-dns-lookup-of-an-mx-record-using-cmd.md
 - content/posts/incident-response-tools.md
 - content/posts/incident-response.md
 - content/posts/information-security-governance-for-cism.md
@@ -71,6 +70,7 @@ pages:
 - content/posts/markdown-syntax-guide.md
 - content/posts/math-typesetting-1.md
 - content/posts/moisturizers-for-your-lips-the-truth-about-petroleum-jelly.md
+- content/posts/mx-record-primer.md
 - content/posts/nslookup-primer.md
 - content/posts/pesofolio-philippine-stock-exchange-portfolio-tracker.md
 - content/posts/placeholder-text-1.md
