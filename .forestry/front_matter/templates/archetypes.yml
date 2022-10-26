@@ -61,6 +61,7 @@ fields:
   label: short
 pages:
 - content/posts/cybersecurity-interview-answers.md
+- content/posts/dns-record-types-primer.md
 - content/posts/emoji-support.md
 - content/posts/hide-yourself-when-using-the-internet-with-proxychains.md
 - content/posts/incident-response-tools.md
