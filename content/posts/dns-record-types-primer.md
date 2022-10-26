@@ -18,7 +18,7 @@ When you start trying to manage your domain’s DNS for the first time, everythi
 
 ## A Records
 
-These are also called Address Records or sometimes **Host Records**. A record only resolves to IP addresses. These records point your domain to the IP address of your website or hosting. Let’s say that you own the domain name name.com which is hosted with us and the IP address of your hosting server is 127.0.0.1. Usually you would have two DNS records to point your domain to the hosting that look like this:
+These are also called Address Records or sometimes **Host Records**. A record only resolves to IP addresses. These records point your domain to the IP address of your website or hosting. Let’s say that you own the domain name name.com and the IP address of your hosting server is 127.0.0.1. Usually you would have two DNS records to point your domain to the hosting that look like this:
 
 * `A name.com 127.0.0.1`
 * `A *.name.com 127.0.0.1`
