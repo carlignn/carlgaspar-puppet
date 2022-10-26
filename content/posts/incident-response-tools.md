@@ -3,15 +3,15 @@ aliases = []
 author = ""
 categories = []
 date = 2022-10-24T16:00:00Z
-description = "Tools that I use for Reconnaissance and Incident Response."
+description = ""
 draft = true
 header_img = ""
 math = false
 series = []
 short = false
 subtitle = ""
-tags = ["security"]
-title = "Incident Response Tools"
+tags = ["write-up", "security"]
+title = "Incident Response: Detection and Analysis"
 toc = true
 
 +++
@@ -32,3 +32,5 @@ If an organization is compromised by an actor who is then leveraging that compro
 ### [Have I Been Pwned](https://haveibeenpwned.com/ "Have I Been Pwned")
 
 Used to Identify credentials if they have been stolen.
+
+## Preparation
