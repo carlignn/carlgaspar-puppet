@@ -24,6 +24,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  description: Not putting date will default to "Mon, Jan 1, 0001".
 - name: header_img
   type: text
   config:
