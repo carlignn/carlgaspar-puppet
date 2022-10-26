@@ -2,7 +2,7 @@
 aliases = []
 author = ""
 categories = []
-date = ""
+date = 2022-10-25T16:00:00Z
 description = ""
 header_img = ""
 math = false
