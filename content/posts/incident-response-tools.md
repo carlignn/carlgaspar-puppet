@@ -15,15 +15,6 @@ title = "Incident Response Tools"
 toc = true
 
 +++
-[https://dnsdumpster.com/](https://dnsdumpster.com/ "https://dnsdumpster.com/")
+## Research The Domain
 
-Research the domain
-
-Results
-
-DNS Servers - is a computer server that contains a database of public IP addresses and their associated hostnames. Basically, translating names into IP addresses so that network communications can occur.  
-MX Records - "Mail Exchanger" - a type of DNS record. specifies the mail server responsible for accepting email messages on behalf of a domain name.
-
-How to find MX Records using cmd:
-
-Do an nslookup
+Doing a research on the domain using [DNS Dumpster](https://dnsdumpster.com/ "DNS Dumpster") will provide details such as information listed in [DNS Record Types Primer](/posts/dns-record-types-primer "DNS Record Types Primer") (i.e. GeoIP of Host Locations, DNS Servers, Records of MX, TXT and Host, and Domain Map).
