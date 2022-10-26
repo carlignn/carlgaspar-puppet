@@ -4,6 +4,7 @@ author = ""
 categories = []
 date = 2022-10-10T16:00:00Z
 description = ""
+draft = true
 header_img = "/img/home-bg.jpg"
 math = false
 series = []
@@ -60,6 +61,12 @@ _Governance and strategy should be in concert with the culture of the organizati
 >
 > \- Verizon Data Breach Investigations Report 2021
 
+#### Levels of Culture
+
+* Leadership
+* Group
+* Individual
+
 ### Management
 
 ### Risk appetite
@@ -67,5 +74,3 @@ _Governance and strategy should be in concert with the culture of the organizati
 ### Laws and regulations
 
 ### Contracts
-
-### 
