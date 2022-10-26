@@ -9,14 +9,16 @@ math = false
 series = []
 short = false
 subtitle = ""
-tags = []
-title = "How To Do a DNS Lookup Of An MX Record Using CMD"
+tags = ["primer", "tutorial"]
+title = "MX Record Primer"
 toc = false
 
 +++
-Related: [What is an MX Record](/posts/incident-response-tools "What is an MX Record")
+MX Records (Mail Exchanger) - is a type of DNS record. specifies the mail server responsible for accepting email messages on behalf of a domain name.
 
-`nslookup` is a command-line tool used for testing and troubleshooting DNS servers. Basically, just as its name says, it will lookup for the name server of any domain.
+## How To Do A DNS Lookup Of An MX Record Using CMD
+
+Related: [NSLookup Primer](/posts/nslookup-primer "NSLookup Primer")
 
 `nslookup` can be used in two modes: interactive and non-interactive. to initiate interactive mode, type the command name only: `nslookup`
 
