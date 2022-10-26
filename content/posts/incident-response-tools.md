@@ -26,8 +26,4 @@ MX Records - "Mail Exchanger" - a type of DNS record. specifies the mail server 
 
 How to find MX Records using cmd:
 
-    > nslookup
-    Default Server: example.com
-    Address: 1.1.1.1
-
 Do an nslookup
