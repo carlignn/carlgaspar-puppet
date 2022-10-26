@@ -18,4 +18,4 @@ toc = true
 
 `nslookup` can be used in two modes: interactive and non-interactive. to initiate interactive mode, type the command name only: `nslookup`
 
-Related: [MX Record Primer](/posts/mx-record-primer "MC Record Primer")
+Related: [MX Record Primer](/posts/mx-record-primer "MX Record Primer")
