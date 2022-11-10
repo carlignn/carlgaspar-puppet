@@ -3,13 +3,12 @@ aliases = []
 author = ""
 categories = []
 date = 2022-10-24T16:00:00Z
-description = ""
-draft = true
+description = "Write up from Aaron Rosenmund's lecture in PluralSite."
 header_img = ""
 math = false
 series = []
 short = false
-subtitle = ""
+subtitle = "The primary example is ransomware"
 tags = ["write-up", "security"]
 title = "Incident Response: Detection and Analysis"
 toc = true
@@ -34,3 +33,30 @@ If an organization is compromised by an actor who is then leveraging that compro
 Used to Identify credentials if they have been stolen.
 
 ## Preparation
+
+### [Github / WinPmem](https://github.com/Velocidex/WinPmem "WinPmem")
+
+* Memory acquisition driver and userspace.
+* Best way is to attach directly to removable media.
+
+## Detection and Analysis
+
+Used the code on Run-Initial-Triage.ps1.
+
+## Intel
+
+[CyberChef](https://gchq.github.io/CyberChef/ "CyberChef") - Common tool used for decoding things.
+
+[URLhaus -](https://urlhaus.abuse.ch/ "URLhaus") Tool for sharing malicious URLs that are being used for malware distribution.
+
+[VirusTotal ](https://www.virustotal.com/gui/home/upload "VirusTotal")- Used the graph feature for better analysis and allows to view it as a node.
+
+## Collect Host Data
+
+Collect by order of volatility.
+
+IOC - Indicators of Compromise
+
+## Reference
+
+[Pluralsight](https://app.pluralsight.com/course-player?courseId=54e73c9c-ca9e-43db-ad50-1cd272a13f78 "PluralSight")
