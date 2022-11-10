@@ -2,7 +2,7 @@
 aliases = []
 author = ""
 categories = []
-date = 2022-10-24T16:00:00Z
+date = 2022-11-09T16:00:00Z
 description = "Write up from Aaron Rosenmund's lecture in PluralSite."
 header_img = ""
 math = false
