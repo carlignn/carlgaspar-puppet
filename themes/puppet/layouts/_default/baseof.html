@@ -11,6 +11,8 @@
     {{ $title = printf "%s | %s" .Title .Site.Title }}
   {{ end }}
 
+  {{ template "_internal/google_analytics.html" . }}
+  
   <title>{{ $title }}</title>
 
   {{ with .Site.Params.author }}
