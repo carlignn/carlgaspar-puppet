@@ -5,6 +5,7 @@ author: ""
 categories: []
 date: 2022-11-09T16:00:00Z
 description: "The primary example is ransomware."
+draft: false
 header_img: ""
 math: false
 series: []
