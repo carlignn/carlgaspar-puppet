@@ -1,18 +1,21 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2021-11-04T00:48:00Z
-description: "Taking and seizing an opportunity and at the same time trying to limit the loss."
+date: 2021-11-04T00:48:00.000Z
+description: >-
+  Taking and seizing an opportunity and at the same time trying to limit the
+  loss.
 draft: false
-header_img: ""
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: ""
-tags: ["security", "management"]
-title: "Risk Assessment and Management"
+subtitle: Write-up from Aaron Rosenmund's lecture in PluralSite
+tags:
+  - security
+  - management
+title: Risk Assessment and Management
 toc: true
 ---
 
@@ -40,7 +43,7 @@ For many of us that works in Information Security, many of us sees risk as a neg
 
 **Information Security Risk** is a potential that a given threat will exploit vulnerabilities of an asset or group of assets and thereby cause harm to the organization.
 
-Strategic risk <-> Business risk <-> Information system (3)
+Strategic risk \<-> Business risk \<-> Information system (3)
 
 ## Implementation of Risk Management
 
@@ -79,7 +82,6 @@ Strategic risk <-> Business risk <-> Information system (3)
   * individuals,
   * other organizations, or
   * the Nation
-
   through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service
 * **Threat Source** - element which alone, or in combination, has the potential to give rise to risk
 * **Vulnerability** - weakness in:
@@ -87,7 +89,6 @@ Strategic risk <-> Business risk <-> Information system (3)
   * system security procedures
   * internal controls
   * implementation
-
   that could be exploited by a threat source
 * **Impact** - outcome of an event
 * **Likelihood** - chance of something happening
