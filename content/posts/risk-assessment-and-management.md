@@ -5,6 +5,7 @@ author: ""
 categories: []
 date: 2021-11-04T00:48:00Z
 description: "Taking and seizing an opportunity and at the same time trying to limit the loss."
+draft: false
 header_img: ""
 math: false
 series: []
