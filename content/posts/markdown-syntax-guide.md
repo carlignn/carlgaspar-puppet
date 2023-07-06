@@ -5,6 +5,7 @@ author: ""
 categories: ["themes", "syntax"]
 date: 2019-03-10T16:00:00Z
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+draft: false
 header_img: ""
 math: false
 series: ["Themes Guide"]
