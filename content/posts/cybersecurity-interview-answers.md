@@ -9,9 +9,8 @@ header_img: ''
 math: false
 series: []
 short: false
-subtitle: My answers to the 60 Cybersecurity Interview Questions by Daniel Miessler
-tags:
-  - security
+subtitle: "My answers to the 60 Cybersecurity Interview Questions by Daniel Miessler"
+tags: ["security"]
 title: Cybersecurity Interview "Answers"
 toc: true
 ---
