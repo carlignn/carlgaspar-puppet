@@ -4,7 +4,7 @@ author: ''
 categories: []
 date: 2019-03-07T16:00:00.000Z
 description: A brief guide to setup KaTeX
-draft: false
+draft: true
 header_img: ''
 math: true
 series: []
