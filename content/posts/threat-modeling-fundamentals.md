@@ -1,18 +1,23 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2022-09-15T09:25:00Z
-description: "Threat Modeling is a process of systematically listing all potential ways one can attack an application."
+date: 2022-09-15T09:25:00.000Z
+description: >-
+  Threat Modeling is a process of systematically listing all potential ways one
+  can attack an application.
 draft: false
-header_img: "/img/home-bg.jpg"
+header_img: /img/home-bg.jpg
 math: false
 series: []
 short: false
-subtitle: "Write-up of the Threat Modeling Fundamentals by Peter Mosmans"
-tags: ["security", "devsecops", "blueteam", "write-up"]
-title: "Threat Modeling Fundamentals"
+subtitle: Write-up from Peter Mosmans' Threat Modeling Fundamentals in Pluralsight
+tags:
+  - security
+  - devsecops
+  - blueteam
+  - write-up
+title: Threat Modeling Fundamentals
 toc: true
 ---
 
@@ -32,7 +37,7 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 * Vulnerability - weakness that can be exploited
 * Attack/Incident - target, attack vector, threat actor
 * Attack surface - anything that can be obtained, used, or attacked by a threat actor
-* Risk = Impact * Likelihood
+* Risk = Impact \* Likelihood
 
 ### Why Should One Perform Threat Modeling
 
@@ -41,7 +46,7 @@ Threat Modeling is a process of systematically listing all potential ways one ca
 * Prioritize bugs - the outcome is the list of potential threats and/or risks of the application, which is used to determine further mitigation strategies that will allow to prioritize the workload
 * Better understanding - will give the developers a whole overview of the system
 
-_The ultimate objective of threat modeling is risk reduction._
+*The ultimate objective of threat modeling is risk reduction.*
 
 #### Other methodologies that can perform risk reduction aside from Threat Modeling
 
@@ -50,7 +55,7 @@ _The ultimate objective of threat modeling is risk reduction._
 * Vulnerability scanning
 * Penetration testing
 
-_Threat modeling is a collaborative and repeatable process._
+*Threat modeling is a collaborative and repeatable process.*
 
 ### Who Should Perform Threat Modeling
 
@@ -59,7 +64,7 @@ _Threat modeling is a collaborative and repeatable process._
 * Tester - somebody who knows the requirements and what the application is expected to do
 * Security Professional - somebody who knows specific attack factors and think like an attacked
 
-_The best way to implement threat modeling is to make as little changes to the process as possible._
+*The best way to implement threat modeling is to make as little changes to the process as possible.*
 
 ### When Should One Perform Threat Modeling
 
@@ -67,7 +72,7 @@ _The best way to implement threat modeling is to make as little changes to the p
 * Requirements phase
 * Design phase
 
-_In general, early on in the process._
+*In general, early on in the process.*
 
 ## Choosing The Right Approach
 
@@ -103,13 +108,13 @@ Examples:
    * OWASP Top 10
 3. Rank threats using classification model
 
-_Choose approach based on skillset._
+*Choose approach based on skillset.*
 
 ## Choosing The Right Methodology
 
 ### PASTA
 
-_Process for Attack Simulation and Threat Analysis_
+*Process for Attack Simulation and Threat Analysis*
 
 1. Define Business Objectives
 2. Define Technical Scope
@@ -132,7 +137,7 @@ _Process for Attack Simulation and Threat Analysis_
 
 ### OCTAVE
 
-_Operationally Critical Threat, Asset and Vulnerability Evaluation_
+*Operationally Critical Threat, Asset and Vulnerability Evaluation*
 
 * Risk analysis framework
 * Evaluates organization (as opposed to an application)
@@ -160,7 +165,7 @@ _Operationally Critical Threat, Asset and Vulnerability Evaluation_
 
 ### VAST
 
-_Visual Agile Simple Threat Modeling_
+*Visual Agile Simple Threat Modeling*
 
 * Two threat model types
   * Application Threat Model
