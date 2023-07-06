@@ -65,4 +65,4 @@ IOC - Indicators of Compromise
 
 ## Reference
 
-[Pluralsight](https://app.pluralsight.com/course-player?courseId=54e73c9c-ca9e-43db-ad50-1cd272a13f78 "Incident Response: Detection and Analysis by Aaron Rosenmund on PluralSight")
+* [Incident Response: Detection and Analysis by Aaron Rosenmund on PluralSight](https://app.pluralsight.com/course-player?courseId=54e73c9c-ca9e-43db-ad50-1cd272a13f78 "Incident Response: Detection and Analysis by Aaron Rosenmund on PluralSight")
