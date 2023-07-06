@@ -11,7 +11,7 @@ header_img: ''
 math: false
 series: []
 short: false
-subtitle: Write-up from Aaron Rosenmund's lecture in PluralSite
+subtitle: Write-up from Kevin Henry's Risk Assessment and Management in Pluralsight
 tags:
   - security
   - management
