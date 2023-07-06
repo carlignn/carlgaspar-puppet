@@ -1,18 +1,19 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2022-09-19T06:11:00Z
-description: ""
+date: 2022-09-19T06:11:00.000Z
+description: Anonymous browsing
 draft: false
-header_img: ""
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: "Anonymous browsing"
-tags: ["security", "hacking"]
-title: "Hide Yourself When Using the Internet With ProxyChains"
+subtitle: ''
+tags:
+  - security
+  - hacking
+title: Hide Yourself When Using the Internet With ProxyChains
 toc: true
 ---
 
