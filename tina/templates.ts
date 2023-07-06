@@ -37,6 +37,27 @@ export function archetypesFields() {
       label: "Body",
       description: "This is the markdown body",
       isBody: true,
+      templates: [
+          {
+            name: 'WarningCallout',
+            label: 'WarningCallout',
+            match: {
+              start: '{{',
+              end: '}}',
+            },
+            fields: [
+              {
+                name: 'content',
+                label: 'Content',
+                type: 'string',
+                required: true,
+                ui: {
+                  component: 'textarea',
+                },
+              },
+            ],
+          },
+        ],
       },
     {
       type: "string",
