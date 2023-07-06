@@ -1,19 +1,21 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2022-09-19T06:11:00Z
-description = ""
-header_img = ""
-math = false
-series = []
-short = false
-subtitle = "Anonymous browsing"
-tags = ["security", "hacking"]
-title = "Hide Yourself When Using the Internet With ProxyChains"
-toc = true
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2022-09-19T06:11:00Z
+description: ""
+draft: false
+header_img: ""
+math: false
+series: []
+short: false
+subtitle: "Anonymous browsing"
+tags: ["security", "hacking"]
+title: "Hide Yourself When Using the Internet With ProxyChains"
+toc: true
+---
 
-+++
 ## Configuring ProxyChains
 
 ProxyChains come preinstalled in Kali Linux. All you have to do is find it. I wasn't able to make the locate command work, but I found it in /etc directory.

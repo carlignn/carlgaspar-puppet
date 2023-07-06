@@ -1,20 +1,21 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2022-10-10T16:00:00Z
-description = ""
-draft = true
-header_img = "/img/home-bg.jpg"
-math = false
-series = []
-short = false
-subtitle = ""
-tags = ["write-up"]
-title = "Information Security Governance for CISM®"
-toc = true
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2022-10-10T16:00:00Z
+description: ""
+draft: false
+header_img: "/img/home-bg.jpg"
+math: false
+series: []
+short: false
+subtitle: ""
+tags: ["write-up"]
+title: "Information Security Governance for CISM®"
+toc: true
+---
 
-+++
 Enterprise Governance
 
 Information Security Governance

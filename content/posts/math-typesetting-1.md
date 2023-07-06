@@ -1,19 +1,20 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2019-03-07T16:00:00Z
-description = "A brief guide to setup KaTeX"
-header_img = ""
-math = true
-series = []
-short = false
-subtitle = ""
-tags = []
-title = "Math Typesetting"
-toc = false
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2019-03-07T16:00:00Z
+description: "A brief guide to setup KaTeX"
+header_img: ""
+math: true
+series: []
+short: false
+subtitle: ""
+tags: []
+title: "Math Typesetting"
+toc: false
+---
 
-+++
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
 
 <!--more-->

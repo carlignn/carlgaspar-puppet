@@ -1,19 +1,20 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2021-11-04T00:48:00Z
-description = "Taking and seizing an opportunity and at the same time trying to limit the loss."
-header_img = ""
-math = false
-series = []
-short = false
-subtitle = ""
-tags = ["security", "management"]
-title = "Risk Assessment and Management"
-toc = true
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2021-11-04T00:48:00Z
+description: "Taking and seizing an opportunity and at the same time trying to limit the loss."
+header_img: ""
+math: false
+series: []
+short: false
+subtitle: ""
+tags: ["security", "management"]
+title: "Risk Assessment and Management"
+toc: true
+---
 
-+++
 For many of us that works in Information Security, many of us sees risk as a negative thing. But risk is an essential part of a business. From **ISO/IEC 31000** - Risk is the effect of uncertainty on an objective. An effect is a deviation from the expected - positive and/negative.
 
 ## Risk Standards

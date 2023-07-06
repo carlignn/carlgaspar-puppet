@@ -1,19 +1,20 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2022-11-09T16:00:00Z
-description = "The primary example is ransomware."
-header_img = ""
-math = false
-series = []
-short = false
-subtitle = "Write up from Aaron Rosenmund's lecture in PluralSite"
-tags = ["write-up", "security"]
-title = "Incident Response: Detection and Analysis"
-toc = true
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2022-11-09T16:00:00Z
+description: "The primary example is ransomware."
+header_img: ""
+math: false
+series: []
+short: false
+subtitle: "Write up from Aaron Rosenmund's lecture in PluralSite"
+tags: ["write-up", "security"]
+title: "Incident Response: Detection and Analysis"
+toc: true
+---
 
-+++
 ## Research The Domain
 
 ### [DNS Dumpster](https://dnsdumpster.com/ "DNS Dumpster")

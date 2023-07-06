@@ -1,19 +1,20 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2021-09-25T06:42:00Z
-description = "A game developed by university students... Is now again LIVE on Google Play Store!"
-header_img = "/img/it-s-more-find-in-the-philippines.jpg"
-math = false
-series = []
-short = false
-subtitle = ""
-tags = ["philippines", "project", "game"]
-title = "It's More Find in the Philippines"
-toc = true
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2021-09-25T06:42:00Z
+description: "A game developed by university students... Is now again LIVE on Google Play Store!"
+header_img: "/img/it-s-more-find-in-the-philippines.jpg"
+math: false
+series: []
+short: false
+subtitle: ""
+tags: ["philippines", "project", "game"]
+title: "It's More Find in the Philippines"
+toc: true
+---
 
-+++
 [It's More Find in the Philippines](https://play.google.com/store/apps/details?id=com.galore.imfitphilippines) is a 2D android-based find the hidden object game. Over a hundred objects are hidden in the different regions of the Philippines. It features most of the known objects from every region which lets you explore the country as well as learn trivia provided by the game. It's More find in the Philippines lets you explore the country. Users will be asked to look for precious objects related to certain places. Users will consume energy to play a level or a stage.
 
 The main mission of the game is to find all the hidden objects in each stage and beat the timer to earn more stars. Stars are obtained depends on how much time is left after discovering all the hidden objects. This will determine if the player can proceed to the next stage. Items that are found will be saved on the diary in the menu together with their descriptions. Cheat codes are also provided that might help you throughout the game.

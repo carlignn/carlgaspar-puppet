@@ -1,19 +1,20 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2019-03-08T16:00:00Z
-description = "Lorem Ipsum Dolor Si Amet"
-header_img = ""
-math = false
-series = []
-short = false
-subtitle = ""
-tags = ["text", "markdown"]
-title = "Placeholder Text"
-toc = false
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2019-03-08T16:00:00Z
+description: "Lorem Ipsum Dolor Si Amet"
+header_img: ""
+math: false
+series: []
+short: false
+subtitle: ""
+tags: ["text", "markdown"]
+title: "Placeholder Text"
+toc: false
+---
 
-+++
 Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
 1. Exierant elisi ambit vivere dedere

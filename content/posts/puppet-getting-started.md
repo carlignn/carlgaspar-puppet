@@ -1,19 +1,20 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2022-08-09T00:00:00Z
-description = ""
-header_img = ""
-math = false
-series = ["Themes Guide"]
-short = false
-subtitle = ""
-tags = ["documentation", "guide"]
-title = "Puppet - Getting Started"
-toc = true
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2022-08-09T00:00:00Z
+description: ""
+header_img: ""
+math: false
+series: ["Themes Guide"]
+short: false
+subtitle: ""
+tags: ["documentation", "guide"]
+title: "Puppet - Getting Started"
+toc: true
+---
 
-+++
 Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io). 
 
 <!--more-->

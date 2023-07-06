@@ -1,19 +1,21 @@
-+++
-aliases = []
-author = ""
-categories = []
-date = 2022-10-25T16:00:00Z
-description = ""
-header_img = ""
-math = false
-series = []
-short = false
-subtitle = ""
-tags = ["primer", "tutorial"]
-title = "DNS Record Types Primer"
-toc = true
+---
+_template: archetypes
+aliases: []
+author: ""
+categories: []
+date: 2022-10-25T16:00:00.000Z
+description: ""
+draft: false
+header_img: ""
+math: false
+series: []
+short: false
+subtitle: "My answers to the 60 Cybersecurity Interview Questions of Daniel Miessler"
+tags: ["tutorial", primer]
+title: "DNS Record Types Primer"
+toc: true
+---
 
-+++
 When you start trying to manage your domain’s DNS for the first time, everything can seem very confusing. Don’t panic! DNS records can be intimidating, but they’re not so hard once you get a feel for them. Below are explanations of the more common types.
 
 ## A Records
@@ -45,30 +47,36 @@ Related: [NSLookup Primer](/posts/nslookup-primer "NSLookup Primer")
 
 `nslookup` can be used in two modes: interactive and non-interactive. to initiate interactive mode, type the command name only: `nslookup`
 
-    C:\>nslookup
-    Default Server:  UnKnown
-    Address:  10.0.1.9
+```
+C:\>nslookup
+Default Server:  UnKnown
+Address:  10.0.1.9
+```
 
 Set the type to `mx`
 
-    > set type=mx
+```
+> set type=mx
+```
 
 Put your target, in this case it is `google.com`
 
-    > google.com
-    Server:  UnKnown
-    Address:  10.0.1.9
-    
-    Non-authoritative answer:
-    google.com      MX preference = 30, mail exchanger = alt2.aspmx.l.google.com
-    google.com      MX preference = 50, mail exchanger = alt4.aspmx.l.google.com
-    google.com      MX preference = 40, mail exchanger = alt3.aspmx.l.google.com
-    google.com      MX preference = 20, mail exchanger = alt1.aspmx.l.google.com
-    google.com      MX preference = 10, mail exchanger = aspmx.l.google.com
-    
-    alt2.aspmx.l.google.com internet address = 74.125.115.27
-    alt1.aspmx.l.google.com internet address = 74.125.91.27
-    aspmx.l.google.com      internet address = 74.125.157.27
+```
+> google.com
+Server:  UnKnown
+Address:  10.0.1.9
+
+Non-authoritative answer:
+google.com      MX preference = 30, mail exchanger = alt2.aspmx.l.google.com
+google.com      MX preference = 50, mail exchanger = alt4.aspmx.l.google.com
+google.com      MX preference = 40, mail exchanger = alt3.aspmx.l.google.com
+google.com      MX preference = 20, mail exchanger = alt1.aspmx.l.google.com
+google.com      MX preference = 10, mail exchanger = aspmx.l.google.com
+
+alt2.aspmx.l.google.com internet address = 74.125.115.27
+alt1.aspmx.l.google.com internet address = 74.125.91.27
+aspmx.l.google.com      internet address = 74.125.157.27
+```
 
 Notice that there are multiple MX records each with a different **preference value**. The preference is basically a way of setting the priority of each MX record. The lowest preference is the MX with the highest priority, is the one that a sending mail server should try first.
 
