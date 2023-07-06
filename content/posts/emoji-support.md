@@ -1,9 +1,19 @@
 ---
-title: Emoji Support
-description: Guide to emoji usage in Hugo
+_template: archetypes
+aliases: []
+author: ""
+categories: []
 date: 2019-03-04T16:00:00.000Z
-tags:
-  - emoji
+description: "Guide to emoji usage in Hugo"
+draft: false
+header_img: ""
+math: false
+series: []
+short: false
+subtitle: ""
+tags: ["emoji"]
+title: "Emoji Support"
+toc: false
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
