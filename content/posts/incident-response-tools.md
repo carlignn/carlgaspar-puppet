@@ -1,18 +1,20 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2022-11-09T16:00:00Z
-description: "The primary example is ransomware."
+date: 2022-11-09T16:00:00.000Z
+description: The primary example is ransomware.
 draft: false
-header_img: ""
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: "Write up from Aaron Rosenmund's lecture in PluralSite"
-tags: ["write-up", "security"]
-title: "Incident Response: Detection and Analysis"
+subtitle: (Draft) Write up from Aaron Rosenmund's lecture in PluralSite
+tags:
+  - draft
+  - write-up
+  - security
+title: 'Incident Response: Detection and Analysis'
 toc: true
 ---
 
