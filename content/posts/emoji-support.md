@@ -1,18 +1,18 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
 date: 2019-03-04T16:00:00.000Z
-description: "Guide to emoji usage in Hugo"
-draft: false
-header_img: ""
+description: Guide to emoji usage in Hugo
+draft: true
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: ""
-tags: ["emoji"]
-title: "Emoji Support"
+subtitle: ''
+tags:
+  - emoji
+title: Emoji Support
 toc: false
 ---
 
