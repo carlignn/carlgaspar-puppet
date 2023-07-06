@@ -5,6 +5,7 @@ author: ""
 categories: []
 date: 2021-09-25T06:42:00Z
 description: "A game developed by university students... Is now again LIVE on Google Play Store!"
+draft: false
 header_img: "/img/it-s-more-find-in-the-philippines.jpg"
 math: false
 series: []
