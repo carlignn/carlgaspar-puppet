@@ -1,18 +1,19 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2022-10-10T16:00:00Z
-description: ""
-draft: false
-header_img: "/img/home-bg.jpg"
+date: 2022-10-10T16:00:00.000Z
+description: I forgot what the reference is.
+draft: true
+header_img: /img/home-bg.jpg
 math: false
 series: []
 short: false
-subtitle: ""
-tags: ["write-up"]
-title: "Information Security Governance for CISM®"
+subtitle: (Draft)
+tags:
+  - draft
+  - write-up
+title: Information Security Governance for CISM®
 toc: true
 ---
 
@@ -48,7 +49,7 @@ Information security strategy must be aligned with organizational mission and go
   * Democratic - Everybody works together. Trusting people to make good decisions. (not very restrictive when implementing a security program)
   * Laissez-faire - Everybody do what they like.
 
-_Governance and strategy should be in concert with the culture of the organization._
+*Governance and strategy should be in concert with the culture of the organization.*
 
 #### Factors that Influence Culture
 
@@ -58,9 +59,7 @@ _Governance and strategy should be in concert with the culture of the organizati
 * Perceptions
 * Experiences
 
-> The human factor was involved in more than 85% of data breaches
->
-> \- Verizon Data Breach Investigations Report 2021
+> The human factor was involved in more than 85% of data breaches- Verizon Data Breach Investigations Report 2021
 
 #### Levels of Culture
 
