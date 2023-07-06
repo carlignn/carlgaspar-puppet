@@ -26,13 +26,15 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## YouTube Privacy Enhanced Shortcode
 
-{{< youtube ZJthWmvUzzc >}} <br>
+< youtube ZJthWmvUzzc >
+
+<br>
 
 ***
 
 ## Twitter Simple Shortcode
 
-{{< tweet user="carlignn_" id="1547406219609985025" >}}
+< tweet user="carlignn_" id="1547406219609985025" >
 
 <br>
 
@@ -40,4 +42,4 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Vimeo Simple Shortcode
 
-{{< vimeo 55073825 >}}
+< vimeo 55073825 >
