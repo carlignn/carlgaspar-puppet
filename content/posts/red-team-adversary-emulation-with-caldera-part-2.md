@@ -1,21 +1,25 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2022-09-15T06:09:00Z
-description: "This is my write up about the tutorial..."
+date: 2022-09-15T06:09:00.000Z
+description: >-
+  Write-up from HackerSploit's Red Team Adversary Emulation With Caldera in
+  YouTube
 draft: false
-header_img: ""
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: ""
-tags: ["security", "redteam", "write-up"]
-title: "Red Team Adversary Emulation With Caldera Part 2"
+subtitle: ''
+tags:
+  - security
+  - redteam
+  - write-up
+title: Red Team Adversary Emulation With Caldera Part 2
 toc: true
 ---
 
-how to use the Mitre ATT&CK.
+how to use the Mitre ATT\&CK.
 
 Source: https://youtu.be/EIHLXWnK1Dw
