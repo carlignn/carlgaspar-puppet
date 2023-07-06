@@ -93,13 +93,6 @@ Your content here...
 
 Some front-matter used for SEO, others used for displaying contents, configuration, etc.
 
-## How to Layout a Post
-
-```markdown
-The main title will only be H1
-Succeeding titles will be H2 and lower
-```
-
 ## Run Example Site
 
 From the root of themes/puppet/exampleSite:
@@ -108,6 +101,32 @@ From the root of themes/puppet/exampleSite:
 hugo server --themesDir ../..
 ```
 
-## Shortcodes
+## Rules
 
-Temporarily removed due to being unsupported in TinaCMS.
+### Layout a Post
+
+```markdown
+The main title will only be H1
+Succeeding titles will be H2 and lower
+```
+
+## Conditional Rules
+
+### Write-up
+
+Subtitle: Write-up from Kevin Henry's Risk Assessment and Management in Pluralsight
+
+### Draft
+
+Subtitle: (Draft) ...\
+Tags: draft
+
+### References
+
+Bulleted Links: Risk Assessment and Management by Kevin Henry on Pluralsight
+
+## Errors
+
+### Shortcodes
+
+Temporarily removed due to being unsupported in TinaCMS. So far, only the "Rich Content" is not working.
