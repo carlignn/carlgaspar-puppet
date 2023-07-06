@@ -1,18 +1,17 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2019-03-07T16:00:00Z
-description: "A brief guide to setup KaTeX"
+date: 2019-03-07T16:00:00.000Z
+description: A brief guide to setup KaTeX
 draft: false
-header_img: ""
+header_img: ''
 math: true
 series: []
 short: false
-subtitle: ""
+subtitle: ''
 tags: []
-title: "Math Typesetting"
+title: Math Typesetting
 toc: false
 ---
 
@@ -20,13 +19,13 @@ Mathematical notation in a Hugo project can be enabled by using third party Java
 
 <!--more-->
 
-In this example we will be using \[KaTeX\]([https://katex.org/](https://katex.org/ "https://katex.org/"))
+In this example we will be using [KaTeX](https://katex.org/)
 
 \- Create a partial under \`/layouts/partials/math.html\`
 
-\- Within this partial reference the \[Auto-render Extension\]([https://katex.org/docs/autorender.html](https://katex.org/docs/autorender.html "https://katex.org/docs/autorender.html")) or host these scripts locally.
+\- Within this partial reference the \[Auto-render Extension]\([https://katex.org/docs/autorender.html](https://katex.org/docs/autorender.html "https://katex.org/docs/autorender.html")) or host these scripts locally.
 
-\- Include the partial in your templates like so:  
+\- Include the partial in your templates like so:
 
 \`\`\`bash
 
@@ -42,9 +41,9 @@ In this example we will be using \[KaTeX\]([https://katex.org/](https://katex.or
 
 \- To enable KaTex on a per page basis include the parameter \`math: true\` in content files
 
-\**Note:** Use the online reference of \[Supported TeX Functions\]([https://katex.org/docs/supported.html](https://katex.org/docs/supported.html "https://katex.org/docs/supported.html"))
+\*\*Note:\*\* Use the online reference of \[Supported TeX Functions]\([https://katex.org/docs/supported.html](https://katex.org/docs/supported.html "https://katex.org/docs/supported.html"))
 
-{{< math.inline >}}
+{{\< math.inline >}}
 
 {{ if or .Page.Params.math .Site.Params.math }}
 
@@ -58,24 +57,24 @@ In this example we will be using \[KaTeX\]([https://katex.org/](https://katex.or
 
 {{ end }}
 
-{{</ math.inline >}}
+{{\</ math.inline >}}
 
 \### Examples
 
-{{< math.inline >}}
+{{\< math.inline >}}
 
 <p>
 
-Inline math: \\(\\varphi = \\dfrac{1+\\sqrt5}{2}= 1.6180339887…\\)
+Inline math: \\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)
 
 </p>
 
-{{</ math.inline >}}
+{{\</ math.inline >}}
 
 Block math:
 
 $$
 
- \\varphi = 1+\\frac{1} {1+\\frac{1} {1+\\frac{1} {1+\\cdots} } } 
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
 
 $$
