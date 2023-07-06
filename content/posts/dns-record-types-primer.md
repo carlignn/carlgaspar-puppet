@@ -9,10 +9,8 @@ header_img: ''
 math: false
 series: []
 short: false
-subtitle: My answers to the 60 Cybersecurity Interview Questions by Daniel Miessler
-tags:
-  - tutorial
-  - primer
+subtitle: "My answers to the 60 Cybersecurity Interview Questions by Daniel Miessler"
+tags: ["tutorial", "primer"]
 title: DNS Record Types Primer
 toc: true
 ---
