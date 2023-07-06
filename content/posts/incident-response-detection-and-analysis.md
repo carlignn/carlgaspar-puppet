@@ -2,14 +2,16 @@
 aliases: []
 author: ''
 categories: []
-date: '2022-11-09T16:00:00.000Z'
+date: 2022-11-09T16:00:00.000Z
 description: The primary example is ransomware.
 draft: false
 header_img: ''
 math: false
 series: []
 short: false
-subtitle: (Draft) Write up from Aaron Rosenmund's lecture in PluralSite
+subtitle: >-
+  (Draft) Write up from Aaron Rosenmund's Incident Response: Detection and
+  Analysis in PluralSite
 tags:
   - draft
   - write-up
@@ -17,7 +19,6 @@ tags:
 title: 'Incident Response: Detection and Analysis'
 toc: true
 ---
-
 
 ## Research The Domain
 
@@ -64,4 +65,4 @@ IOC - Indicators of Compromise
 
 ## Reference
 
-[Pluralsight](https://app.pluralsight.com/course-player?courseId=54e73c9c-ca9e-43db-ad50-1cd272a13f78 "PluralSight")
+[Pluralsight](https://app.pluralsight.com/course-player?courseId=54e73c9c-ca9e-43db-ad50-1cd272a13f78 "Incident Response: Detection and Analysis by Aaron Rosenmund on PluralSight")
