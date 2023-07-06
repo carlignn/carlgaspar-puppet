@@ -1,18 +1,19 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
 date: 2022-10-25T16:00:00.000Z
-description: ""
+description: ''
 draft: false
-header_img: ""
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: "My answers to the 60 Cybersecurity Interview Questions of Daniel Miessler"
-tags: ["tutorial", primer]
-title: "DNS Record Types Primer"
+subtitle: My answers to the 60 Cybersecurity Interview Questions by Daniel Miessler
+tags:
+  - tutorial
+  - primer
+title: DNS Record Types Primer
 toc: true
 ---
 
