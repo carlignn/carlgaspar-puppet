@@ -4,8 +4,8 @@ author: ''
 categories: []
 date: 2023-07-05T16:00:00.000Z
 description: >-
-  Write-up from HackerSploit's Red Team Adversary Emulation With Caldera in
-  YouTube
+  (Draft) Write-up from HackerSploit's Red Team Adversary Emulation With Caldera
+  in YouTube
 draft: false
 header_img: ''
 math: false
@@ -13,6 +13,7 @@ series: []
 short: false
 subtitle: ''
 tags:
+  - draft
   - security
   - redteam
   - write-up
