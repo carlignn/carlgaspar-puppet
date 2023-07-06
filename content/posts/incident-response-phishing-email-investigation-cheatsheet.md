@@ -1,18 +1,20 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2022-12-08T16:00:00Z
-description: ""
+date: 2022-12-08T16:00:00.000Z
+description: ''
 draft: false
-header_img: ""
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: ""
-tags: ["cheatsheet", "security"]
-title: "Incident Response: Phishing Email Investigation Cheatsheet"
+subtitle: (Draft)
+tags:
+  - draft
+  - cheatsheet
+  - security
+title: 'Incident Response: Phishing Email Investigation Cheatsheet'
 toc: true
 ---
 
