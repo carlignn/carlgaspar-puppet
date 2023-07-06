@@ -11,6 +11,7 @@ header_img: ''
 toc: true
 math: false
 tags:
+  - draft
   - security
   - redteam
   - write-up
