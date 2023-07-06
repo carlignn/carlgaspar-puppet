@@ -42,8 +42,8 @@ export function archetypesFields() {
             name: 'WarningCallout',
             label: 'WarningCallout',
             match: {
-              start: '{{',
-              end: '}}',
+              start: '{{<',
+              end: '>}}',
             },
             fields: [
               {
