@@ -5,7 +5,7 @@ author: ""
 categories: []
 date: 2022-09-15T06:09:00Z
 description: "This is my write up about the tutorial..."
-draft: true
+draft: false
 header_img: ""
 math: false
 series: []
