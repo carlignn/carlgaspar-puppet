@@ -5,6 +5,7 @@ author: ""
 categories: []
 date: 2021-09-30T07:04:00Z
 description: "Track your stock net worth with over 300 listed stocks in the Philippine Stock Exchange, REAL TIME with this FREE tool! LIVE now on Google Play Store!"
+draft: false
 header_img: "/img/pesofolio.jpg"
 math: false
 series: []
