@@ -121,6 +121,10 @@ Subtitle: Write-up from Kevin Henry's Risk Assessment and Management in Pluralsi
 Subtitle: (Draft) ...\
 Tags: draft
 
+#### Search for Drafts
+
+Use search: (Draft)
+
 ### References
 
 Bulleted Links: Risk Assessment and Management by Kevin Henry on Pluralsight
