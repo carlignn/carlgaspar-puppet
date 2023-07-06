@@ -1,22 +1,24 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2022-08-09T00:00:00Z
-description: ""
+date: 2022-08-09T00:00:00.000Z
+description: ''
 draft: false
-header_img: ""
+header_img: ''
 math: false
-series: ["Themes Guide"]
+series:
+  - Themes Guide
 short: false
-subtitle: ""
-tags: ["documentation", "guide"]
-title: "Puppet - Getting Started"
+subtitle: ''
+tags:
+  - documentation
+  - guide
+title: Puppet - Getting Started
 toc: true
 ---
 
-Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io). 
+Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io).
 
 <!--more-->
 
@@ -50,7 +52,6 @@ git submodule update --init --recursive
 ```
 
 That’s all, Puppet is ready to be used.
-
 
 ## Add Config Files
 
@@ -92,10 +93,21 @@ Your content here...
 
 Some front-matter used for SEO, others used for displaying contents, configuration, etc.
 
-## Run example site
+## How to Layout a Post
+
+```markdown
+The main title will only be H1
+Succeeding titles will be H2 and lower
+```
+
+## Run Example Site
 
 From the root of themes/puppet/exampleSite:
 
 ```bash
 hugo server --themesDir ../..
 ```
+
+## Shortcodes
+
+Temporarily removed due to being unsupported in TinaCMS.
