@@ -45,7 +45,6 @@ class _ChildWidgetState extends State<ChildWidget> {
     );
   }
 }
-
 ```
 
 1. Pass the childKey to both parent widgets and store a reference to it:
@@ -76,7 +75,6 @@ class AnotherParentWidget extends StatelessWidget {
     );
   }
 }
-
 ```
 
 1. Now, both parent widgets have access to the child's functions through the childKey:
