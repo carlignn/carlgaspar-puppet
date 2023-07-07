@@ -17,13 +17,13 @@ export function archetypesFields() {
       type: "string",
       name: "subtitle",
       label: "Subtitle",
-      description: "Text below the title. Don't put period in the end.",
+      description: "Text below the title. Shown in the post. Don't put period at the end.",
     },
     {
       type: "string",
       name: "description",
       label: "Description",
-      description: "Text below the subtitle on the posts page.",
+      description: "Text below the subtitle on the posts page. Does not show in the post.",
     },
     {
       type: "datetime",
