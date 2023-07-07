@@ -51,9 +51,9 @@ class _ChildWidgetState extends State<ChildWidget> {
 
 ```dart
 class ParentWidget extends StatelessWidget {
-  final GlobalKey < _ChildWidgetState > childKey;
+  final GlobalKey<_ChildWidgetState> childKey;
 
-  const ParentWidget({ Key? key, required this.childKey }) : super(key: key);
+  const ParentWidget({Key? key, required this.childKey}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -66,15 +66,16 @@ class ParentWidget extends StatelessWidget {
 class AnotherParentWidget extends StatelessWidget {
   final GlobalKey<_ChildWidgetState> childKey;
 
-  const AnotherParentWidget({ Key? key, required this.childKey}) : super(key: key);
+  const AnotherParentWidget({Key? key, required this.childKey}) : super(key: key);
 
-@override
+  @override
   Widget build(BuildContext context) {
-  return SomeOtherWidget(
-    child: ChildWidget(key: childKey),
-  );
+    return SomeOtherWidget(
+      child: ChildWidget(key: childKey),
+    );
+  }
 }
-}
+
 ```
 
 1. Now, both parent widgets have access to the child's functions through the childKey:
@@ -86,7 +87,7 @@ childKey.currentState?.childFunction();
 
 By using the same GlobalKey in both parents, you can access the child widget's functions from either parent as needed.
 
-## Convert String Date 
+## Convert String Date
 
 ```dart
 import 'package:intl/intl.dart';
