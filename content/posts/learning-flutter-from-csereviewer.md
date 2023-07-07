@@ -2,16 +2,15 @@
 title: Learning Flutter From CSEReviewer
 draft: false
 subtitle: (Draft) Documentation for CSEReviewer
-date: '2023-07-07T16:00:00.000Z'
+date: 2023-07-07T16:00:00.000Z
 toc: true
 tags:
   - draft
   - documentation
   - application
   - project
-description: What are the codes that I learned and used in this project
+description: Codes that I learned and used in this project.
 ---
-
 
 ## Convert date String
 
