@@ -15,13 +15,13 @@ description: >-
   ChatGPT.
 ---
 
-## &#x20;Global Key
+## Global Key
 
-In Flutter, you can use a GlobalKey to access a child widget's functions from multiple parents. To achieve this, you can create a GlobalKey in the child widget and pass it to both parents.
+In Flutter, you can use a `GlobalKey` to access a child widget's functions from multiple parents. To achieve this, you can create a `GlobalKey` in the child widget and pass it to both parents.
 
-Here's an example of how you can use GlobalKey with two different parents and a single child:
+Here's an example of how you can use `GlobalKey` with two different parents and a single child:
 
-1. Create the child widget and define a GlobalKey inside it:
+1. Create the child widget and define a `GlobalKey` inside it:
 
 ```dart
 class ChildWidget extends StatefulWidget {
@@ -47,7 +47,7 @@ class _ChildWidgetState extends State<ChildWidget> {
 }
 ```
 
-1. Pass the childKey to both parent widgets and store a reference to it:
+1. Pass the `childKey` to both parent widgets and store a reference to it:
 
 ```dart
 class ParentWidget extends StatelessWidget {
@@ -84,7 +84,7 @@ class AnotherParentWidget extends StatelessWidget {
 childKey.currentState?.childFunction();
 ```
 
-By using the same GlobalKey in both parents, you can access the child widget's functions from either parent as needed.
+By using the same `GlobalKey` in both parents, you can access the child widget's functions from either parent as needed.
 
 ## Convert String Date
 
