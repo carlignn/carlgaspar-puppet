@@ -3,15 +3,15 @@ aliases: []
 author: ''
 categories: []
 date: 2023-07-05T16:00:00.000Z
-description: >-
-  (Draft) Write-up from HackerSploit's Red Team Adversary Emulation With Caldera
-  in YouTube
+description: ''
 draft: false
 header_img: ''
 math: false
 series: []
 short: false
-subtitle: ''
+subtitle: >-
+  (Draft) Write-up from HackerSploit's Red Team Adversary Emulation With Caldera
+  in YouTube
 tags:
   - draft
   - security
