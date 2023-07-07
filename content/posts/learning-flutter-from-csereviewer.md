@@ -6,6 +6,7 @@ date: 2023-07-07T16:00:00.000Z
 toc: true
 tags:
   - draft
+  - chatgpt
   - documentation
   - application
   - project
