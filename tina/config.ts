@@ -130,7 +130,7 @@ export default defineConfig({
   },
   search: {
     tina: {
-      indexerToken: '920ea4cc4d2ccd48a46c731cd62fb797d95e3342 ',
+      indexerToken: '920ea4cc4d2ccd48a46c731cd62fb797d95e3342',
       stopwordLanguages: ['eng']
     },
     indexBatchSize: 100,
