@@ -1,4 +1,4 @@
-## This is and should always be a copy of the "Puppet - Getting Started" post
+## This is and should always be a copy of the [Puppet - Getting Started](https://carlgaspar.com/posts/puppet-getting-started/) post
 
 Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io).
 
@@ -113,7 +113,7 @@ Screenshots: Uploaded to imgur, then coded
 
 ```html
 
-[Screenshots](imgur.com/a/2cHNX0i) of the game uploaded from Imgur.
+[Screenshots](imgur.com/a/2cHNX0i) of the game uploaded to Imgur.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"><a href="//imgur.com/a/2cHNX0i">It's More Find in the
     Philippines</a></blockquote>
