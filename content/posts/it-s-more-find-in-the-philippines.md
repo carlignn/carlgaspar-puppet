@@ -1,18 +1,22 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2021-09-25T06:42:00Z
-description: "A game developed by university students... Is now again LIVE on Google Play Store!"
+date: 2021-09-25T06:42:00.000Z
+description: >-
+  A game developed by university students... Is now again LIVE on Google Play
+  Store!
 draft: false
-header_img: "/img/it-s-more-find-in-the-philippines.jpg"
+header_img: /img/it-s-more-find-in-the-philippines.jpg
 math: false
 series: []
 short: false
-subtitle: ""
-tags: ["philippines", "project", "game"]
-title: "It's More Find in the Philippines"
+subtitle: ''
+tags:
+  - philippines
+  - project
+  - game
+title: It's More Find in the Philippines
 toc: true
 ---
 
@@ -30,7 +34,7 @@ The game was uploaded and last updated at the Google Play Store on Jan 14, 2018.
 
 ## Screenshots
 
-Screenshots of the game uploaded from Imgur.
+[Screenshots](imgur.com/a/2cHNX0i) of the game uploaded to Imgur.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"  ><a href="//imgur.com/a/2cHNX0i">It's More Find in the Philippines</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
