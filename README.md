@@ -1,4 +1,4 @@
-## This is and always will be a copy of "Puppet - Getting Started" post
+## This is and should always will be a copy of the "Puppet - Getting Started" post
 
 Puppet is a responsive, simple and clean [Hugo](https://gohugo.io/) theme based on the [Huxblog Jekyll theme](https://github.com/Huxpro/huxpro.github.io).
 
@@ -10,7 +10,7 @@ Make sure you have installed the latest version of [Hugo-extented](https://gohug
 
 ## Create a New Site
 
-```
+```shell
 hugo new site mysite
 ```
 
@@ -18,7 +18,7 @@ hugo new site mysite
 
 You can download and unpack the theme manually from Github or use git to clone the theme into your site's `themes` directory.
 
-```bash
+```shell
 cd mysite
 git init
 git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
@@ -26,7 +26,7 @@ git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
 
 Or you can add the theme as a submodule.
 
-```bash
+```shell
 cd mysite
 git init
 git submodule add https://github.com/roninro/hugo-theme-puppet.git themes/puppet
@@ -39,7 +39,7 @@ That’s all, Puppet is ready to be used.
 
 For getting started, you can copy the `config.toml` file from the theme's exampleSite directory to the root directory of your site.
 
-```bash
+```shell
 cp themes/puppet/exampleSite/config.toml .
 ```
 
@@ -49,7 +49,7 @@ cp themes/puppet/exampleSite/config.toml .
 
 Create a new post with the following command.
 
-```bash
+```shell
 hugo new posts/my-first-post.md
 ```
 
@@ -79,13 +79,15 @@ Some front-matter used for SEO, others used for displaying contents, configurati
 
 From the root of themes/puppet/exampleSite:
 
-```bash
+```shell
 hugo server --themesDir ../..
 ```
 
 ## Run Tina Locally
 
-npx tinacms dev -c "hugo server -D"
+```javascript
+npx tinacms dev - c "hugo server -D"
+```
 
 ## Rules
 
@@ -107,6 +109,10 @@ Subtitle: Write-up from Kevin Henry's Risk Assessment and Management in Pluralsi
 Subtitle: (Draft) ...\
 Tags: draft
 
+#### Search for Drafts
+
+Use search: (Draft)
+
 ### References
 
 Bulleted Links: Risk Assessment and Management by Kevin Henry on Pluralsight
@@ -115,4 +121,4 @@ Bulleted Links: Risk Assessment and Management by Kevin Henry on Pluralsight
 
 ### Shortcodes
 
-Temporarily removed due to being unsupported in TinaCMS. So far, only the "Rich Content" post is not working.
+Temporarily removed due to being unsupported in TinaCMS. So far, only the "Rich Content" is not working.
