@@ -100,6 +100,11 @@ Succeeding titles will be H2 and lower
 
 ## Conditional Rules
 
+### Images
+
+Inline images: Uploaded to imgur, then linked
+Header_img: Uploaded to tina media manager
+
 ### Write-up
 
 Subtitle: Write-up from Kevin Henry's Risk Assessment and Management in Pluralsight
