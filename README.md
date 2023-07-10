@@ -104,11 +104,20 @@ Succeeding titles will be H2 and lower
 
 Inline images: Uploaded to imgur, then linked\
 Header_img: Uploaded to tina media manager\
+
+```html
+![](https://imgur.com/SdQF4AX.jpg)
+```
+
 Screenshots: Uploaded to imgur, then coded
 
 ```html
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"  ><a href="//imgur.com/a/2cHNX0i">It's More Find in the Philippines</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Screenshots](imgur.com/a/2cHNX0i) of the game uploaded from Imgur.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"><a href="//imgur.com/a/2cHNX0i">It's More Find in the
+    Philippines</a></blockquote>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ```
 
