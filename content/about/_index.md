@@ -1,14 +1,15 @@
+
 +++
 title = "About"
 description = "The Cybersecurity Officer"
 date = "2022-09-23"
-aliases = ["about-us", "contact"]
+aliases = \["about-us", "contact"]
 author = "Carl Gaspar"
 +++
 
 # Cyber Security Specialist
 
-Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. With knowledge in risk management, viruses, and a wide range of vulnerabilities and threats. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. [Resume](https://drive.google.com/file/d/1zxxDDhL_w0Rqgkink0dVPc3kqtJW3HBE/view?usp=sharing).
+Persistent, detail-oriented Cyber Security and Information Security professional with 3+ years of progressive experience operating within the private domain, securing systems and data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. With knowledge in risk management, viruses, and a wide range of vulnerabilities and threats. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. [Resume](resume.pdf).
 
 # Core Competencies
 
