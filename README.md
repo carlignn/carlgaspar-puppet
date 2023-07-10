@@ -102,8 +102,15 @@ Succeeding titles will be H2 and lower
 
 ### Images
 
-Inline images: Uploaded to imgur, then linked
-Header_img: Uploaded to tina media manager
+Inline images: Uploaded to imgur, then linked\
+Header_img: Uploaded to tina media manager\
+Screenshots: Uploaded to imgur, then coded
+
+```html
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2cHNX0i"  ><a href="//imgur.com/a/2cHNX0i">It's More Find in the Philippines</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+```
 
 ### Write-up
 
