@@ -83,6 +83,10 @@ From the root of themes/puppet/exampleSite:
 hugo server --themesDir ../..
 ```
 
+## Run Tina Locally
+
+npx tinacms dev -c "hugo server -D"
+
 ## Rules
 
 ### Layout a Post
