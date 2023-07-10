@@ -1,22 +1,25 @@
 ---
-_template: archetypes
 aliases: []
-author: ""
+author: ''
 categories: []
-date: 2021-09-21T14:30:00Z
-description: "Ang Pamahalaan ng Pilipinas."
+date: 2021-09-21T14:30:00.000Z
+description: Ang Pamahalaan ng Pilipinas.
 draft: false
-header_img: ""
+header_img: ''
 math: false
 series: []
 short: false
-subtitle: ""
-tags: ["philippines", "government"]
-title: "The Philippine Government"
+subtitle: ''
+tags:
+  - philippines
+  - government
+title: The Philippine Government
 toc: true
 ---
 
 When we were young, there are times in our studies where there are topics or lessons that our brain can't comprehend. In this blog, I will discuss what I learned reviewing the really important topic - The Philippine Government. I learned that it is all based on the Philippine Constitution.
+
+\<a href="https://imgur.com/SdQF4AX">\<img src="https://i.imgur.com/SdQF4AX.jpg" title="source: imgur.com" />\</a>
 
 The Philippine Government (Filipino: Pamahalaan ng Pilipinas) is the national government of the Philippines. It is governed as unitary state under a presidential representative and democratic and a constitutional republic where the President function as both the head of state and the head of government of the country within a multiform multi-party system. The government has three (3) interdependent branches: the **legislative** branch, the **executive** branch and the **judicial** branch. The powers of the branches are vested by the Constitution of the Philippines.
 
@@ -29,6 +32,7 @@ Has the authority to make laws, alter, and repeal them through the power vested 
 (Filipino: Senado ng Pilipinas, also Mataas na Kapulungan ng Pilipinas or "upper chamber") Is the upper house of the bicameral legislature of the Philippines. The Senate consist of 24 Senators that serves six (6) years with a maximum of two (2) consecutive terms, with half of the senators elected every three (3) years to ensure that the Senate is maintained as a continuous body. Senate shall be elected at large by the qualified voters of the Philippines, as may be provided by law.
 
 #### Qualifications:
+
 * Natural-born citizen of the Philippines
 * On the day of the election, is at least 35 years of age
 * Able to read and write
@@ -44,24 +48,25 @@ The House of Representatives shall be composed of not more than 250 members, unl
 **Legislative process** - Congress of the Philippines is responsible for making enabling laws to make sure the spirit of the constitution is upheld in the country and, at times, amend or change the constitution itself. In order to craft laws, the legislative body comes out with two main documents: **bills** and **resolutions**.
 
 #### Resolutions
+
 Convey principles and sentiments of the Senate or the House of Representatives. These resolutions can further be divided into three different elements:
+
 * Joint resolutions - require the approval of both chambers of Congress and the signature of the President, and have the force and effect of a law if approved.
 * Concurrent resolutions - used for matters affecting the operations of both chambers of Congress and must be approved in the same form by both houses, but are not transmitted to the President for his signature and therefore have no force and effect of a law.
 * Simple resolutions - deal with matters entirely within the prerogative of one chamber of Congress, are not referred to the President for his signature, and therefore have no force and effect of a law.
 
 #### Bills
+
 Bills are laws in the making. They pass into law when they are approved by both houses and the President of the Philippines. A bill may be vetoed by the President, but the House of Representatives may overturn a presidential veto by garnering a 2/3rds vote. If the President does not act on a proposed law submitted by Congress, it will lapse into law after 30 days of receipt.
 
 ## Executive
 
-The highest official is elected separately from the **President** by popular vote. The **Vice President** is first in line to succession if the President resigns, is impeached or dies. _The Vice President is usually, though not always, a member of the president's cabinet._ If there is a vacancy in the position of vice-president, the President will appoint any member of Congress of the Philippines (usually a party member) as the new Vice President. The appointment must then be validated by a three-fourths vote of the Congress of the Philippines.
+The highest official is elected separately from the **President** by popular vote. The **Vice President** is first in line to succession if the President resigns, is impeached or dies. *The Vice President is usually, though not always, a member of the president's cabinet.* If there is a vacancy in the position of vice-president, the President will appoint any member of Congress of the Philippines (usually a party member) as the new Vice President. The appointment must then be validated by a three-fourths vote of the Congress of the Philippines.
 
 ### National government
 
 * **President** - The executive branch is headed by the President who functions as both the head of state and the head of government. The president is also the Commander-in-Chief of the Armed Forces of the Philippines. The president is elected by popular vote to a term of six years. The President may no longer run for re-election, unless he/she becomes president through constitutional succession and has served for no more than four years as president. The Constitution grants the President authority to appoint his Cabinet. These departments form a large portion of the country’s bureaucracy.
-
 * **Vice-President** - The second highest official, the vice-president is first in line to succession should the president resign, be impeached or die in office. The vice-president usually, though not always, may be a member of the president's cabinet. If there is a vacancy in the position of Vice President, the President will appoint any member of Congress (usually a party member) as new Vice President. The appointment will be validated by a three-fourths vote of Congress voting separately.
-
 * **Cabinet Secretaries** - Cabinet members serve as advisors to the President. Cabinet members are nominated by the President and must be confirmed by the Commission of Appointments.Muslim Courts
 
 ### Local government
@@ -95,7 +100,7 @@ It holds the power to settle controversies involving rights that are legally dem
   * Sharia District Courts
   * Sharia Circuit Courts
 
- ### Each branch of government can change acts of the other branches as follows:
+### Each branch of government can change acts of the other branches as follows:
 
 * The President can veto laws passed by the Congress of the Philippines.
 * Congress of the Philippines confirms or rejects the President's appointments and can remove the President from office in exceptional circumstances.
