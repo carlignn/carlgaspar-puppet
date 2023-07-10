@@ -1,11 +1,10 @@
-
-+++
-title = "About"
-description = "The Cybersecurity Officer"
-date = "2022-09-23"
-aliases = \["about-us", "contact"]
-author = "Carl Gaspar"
-+++
+---
+title: "About"
+description: "The Cybersecurity Officer"
+date: "2022-09-23"
+aliases: ["about-us", "contact"]
+author: "Carl Gaspar"
+---
 
 # Cyber Security Specialist
 

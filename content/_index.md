@@ -1,5 +1,5 @@
-+++
-author = "Carl Gaspar"
+---
+author: "Carl Gaspar"
 
-+++
+---
 Home Index Content
