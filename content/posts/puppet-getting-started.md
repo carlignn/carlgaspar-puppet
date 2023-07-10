@@ -10,7 +10,7 @@ math: false
 series:
   - Themes Guide
 short: false
-subtitle: This is and should always will be a copy of the "Readme.md" file
+subtitle: This is and should always be a copy of the "Readme.md" file
 tags:
   - documentation
   - guide
@@ -126,7 +126,6 @@ Header\_img: Uploaded to tina media manager
 ```html
 ![](https://imgur.com/SdQF4AX.jpg)
 ```
-
 
 Screenshots: Uploaded to imgur, then coded
 
