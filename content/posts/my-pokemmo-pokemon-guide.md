@@ -48,6 +48,8 @@ First, use Spinda and use Trick to swap the item to the enemy. Second, use Skill
 
 Second, use Breloom and use Substitute to protect from attacks. Second, Spore to sleep the enemy. Third, use False swipe to bring the enemy health to 1. Lastly, catch! Rinse and repeat.
 
+Optional, use Smeargle instead.
+
 Conditional, use Soak if attacks are not landing.
 
 1. Pokemon: Spinda
@@ -60,8 +62,15 @@ Conditional, use Soak if attacks are not landing.
 2. Pokemon: Breloom
    * Moves: `False Swipe`, `Spore`, `Soak`, `Substitute`
    * Nature: None (yet)
-   * IV Priority: HP, Defense, Special Defense
+   * IV Priority: Attack, Speed
+   * Gender: Female (for breeding)
+   * Hidden Ability: Yes (if the holder is poisoned, heal)
+   * Item: Toxic Orb (makes the holder always be poisoned)
+3. Pokemon: Smeargle
+   * Moves: `False Swipe`, `Spore`, `Soak`, `Sweet Scent` / `Substitute`
+   * Nature: None (yet)
+   * IV Priority: Speed, Attack
    * Gender: Female (for breeding)
    * Hidden Ability: Yes
-   * Item: Lagging Tail (makes the holder always play second turn)
-3.
+   * Item: Focus Band?
+4.
