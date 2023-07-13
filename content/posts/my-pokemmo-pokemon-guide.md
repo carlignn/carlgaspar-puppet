@@ -37,6 +37,16 @@ Gyarados' hidden ability (Moxie) is super strong. When you kill an enemy, Gyarad
    * Gender: Female (for breeding)
    * Hidden Ability: No (no HA available)
    * Item: None (yet)
+4. Pokemon: Wash Rotom
+5. Pokemon: Scizor
+6. Pokemon: Starmie
+   * Moves: `Trick`?, `Surf`, `Thunder`, `Ice Beam`
+   * Nature: Modest
+   * IV Priority: Special Attack
+   * Gender: No Gender
+   * Hidden Ability: Yes
+   * Item: None (yet)
+   * Note: Catch as Alpha (bonus if IV speed max) > Breed with Ditto that is Modest (bonus if has an IV max)
 
 ## Alpha Catching
 
