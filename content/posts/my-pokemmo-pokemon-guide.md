@@ -54,12 +54,9 @@ These are the Pokemons that I will use for Alpha catching.
 
 ### Guide
 
-First, use Spinda and use Trick to swap the item to the enemy. Second, use Skill Swap. Lastly, use anything else until death.
-
-Second, use Breloom and use Substitute to protect from attacks. Second, Spore to sleep the enemy. Third, use False swipe to bring the enemy health to 1. Lastly, catch! Rinse and repeat.
-
-Optional, use Smeargle instead.
-
+First, use Spinda and use Trick to swap the item to the enemy. Second, use Skill Swap. Lastly, use anything else until death.\
+Second, use Breloom and use Substitute to protect from attacks. Second, Spore to sleep the enemy. Third, use False swipe to bring the enemy health to 1. Lastly, catch! Rinse and repeat.\
+Optional, use Smeargle instead.\
 Conditional, use Soak if attacks are not landing.
 
 1. Pokemon: Spinda
@@ -83,4 +80,18 @@ Conditional, use Soak if attacks are not landing.
    * Gender: Female (for breeding)
    * Hidden Ability: Yes
    * Item: Focus Band?
-4.
+
+## EV Training
+
+These are the Pokemons that I will use for EV training. Can be used for sweeping as well.
+
+### Guide
+
+1. Pokemon: Spinda
+   * Moves: `Trick`, `Skill Swap`, `Encore`, Anything
+   * Nature: None (yet)
+   * IV Priority: HP, Defense, Special Defense (no attack needed)
+   * Gender: Female (for breeding)
+   * Hidden Ability: Yes
+   * Item: Lagging Tail (makes the holder always play second turn)
+2.
