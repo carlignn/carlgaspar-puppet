@@ -83,15 +83,53 @@ Conditional, use Soak if attacks are not landing.
 
 ## EV Training
 
-These are the Pokemons that I will use for EV training. Can be used for sweeping as well.
+These are the Pokemons that I will use for EV training. Can/Will be used for sweeping as well.
 
 ### Guide
 
-1. Pokemon: Spinda
-   * Moves: `Trick`, `Skill Swap`, `Encore`, Anything
-   * Nature: None (yet)
-   * IV Priority: HP, Defense, Special Defense (no attack needed)
+Go to the designated locations.\
+First, use sweet scent to lure the horde.\
+Second, use the appropriate Pokemon to sweep the horde.
+
+1. Pokemon: Dragonite
+   * Moves: `Earthquake`
+   * Nature: Adamant
+   * IV Priority: Attack
    * Gender: Female (for breeding)
    * Hidden Ability: Yes
-   * Item: Lagging Tail (makes the holder always play second turn)
-2.
+   * Item: None (yet)
+   * Note: `Earthquake` holder
+2. Pokemon: Starmie
+   * Note: `Surf` holder
+3. Pokemon: Ampharos
+   * Moves: `Discharge`
+   * Nature: Modest
+   * IV Priority: Special Attack
+   * Gender: Female (for breeding)
+   * Hidden Ability: Yes
+   * Item: None (yet)
+   * Note: `Discharge` holder
+
+## Money Making
+
+These are the Pokemons that I will use for money making.
+
+### Guide
+
+For Meowth: Kill wild Pokemons with Payday.\
+For Banette: First, use `Thief` to steal held item from enemy wild Pokemon. Then, kill.
+
+1. Pokemon: Meowth
+   * Moves: `Payday`
+   * Nature: Adamant
+   * IV Priority: Attack
+   * Gender: Female (for breeding)
+   * Hidden Ability: Yes
+   * Item: None (yet)
+2. Pokemon: Banette
+   * Moves: `Thief`
+   * Nature: Adamant
+   * IV Priority: Attack
+   * Gender: Female (for breeding)
+   * Hidden Ability: Yes
+   * Item: None (yet)
