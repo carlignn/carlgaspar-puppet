@@ -10,6 +10,7 @@ toc: false
 ## Questions
 
 * Who are the clients of the information security team?
+  * Answer: Internal Stakeholders
 * What are the drivers for security? This will include Business, Technical and Compliance aspects.
 * What are the business significant security objectives? Have these been agreed with the clients of the information security team?
 * How do you model your organization and the systems it relies on?
