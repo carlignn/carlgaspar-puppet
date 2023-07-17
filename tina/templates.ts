@@ -23,12 +23,13 @@ export function archetypesFields() {
       type: "string",
       name: "description",
       label: "Description",
-      description: "Text below the subtitle on the posts page. Does not show in the post.",
+      description: "Text below the subtitle on the posts page. Does not show in the post. Required if the body doesn't have an intro.",
     },
     {
       type: "datetime",
       name: "date",
       label: "Date",
+      required: true,
       description: "Not putting date will default to \"Mon, Jan 1, 0001\".",
     },
     {
