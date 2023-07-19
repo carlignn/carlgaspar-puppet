@@ -10,7 +10,7 @@ description: >-
   course, these answers will be compared to a ChatGPT assisted answers.
 ---
 
-I found this blog post on Reddit and I will try my best to answer them. I will answer them on my own, then I will answer from a different perspective after consulting ChatGPT.
+I found this blog post on Reddit and I will try my best to answer them. I will answer them on my own, then I will answer from a different perspective based on my research.
 
 ## Questions
 
@@ -19,7 +19,8 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 * **Answer**: Stakeholders.
 * **Research**: 
   * Stakeholder: A stakeholder is a party that has an interest in a company and can either affect or be affected by the business.
-* **ChatGPT Assisted Answer**:
+    * Can be internal or external.
+* **Revised Answer**:
 * **ChatGPT Answer**:
   * **Internal Stakeholders**: These include executives, senior management, department heads, and employees within the organization who rely on the information security team to protect sensitive data, systems, and resources.
   * **External Customers**: If the organization provides products or services to external customers, the information security team's clients also include these customers. They depend on the organization to safeguard their personal information and ensure the security of any transactions or interactions they have with the organization.
