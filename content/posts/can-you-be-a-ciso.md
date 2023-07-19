@@ -26,10 +26,9 @@ asdfsadf asdfsdfasdf asdfsadfasdf
   * Regulatory and Compliance Bodies: The information security team often serves as a point of contact for regulatory bodies, auditors, and compliance agencies. They collaborate to ensure the organization meets legal and industry-specific security requirements and standards.
   * Business Partners and Suppliers: In cases where the organization has business partnerships or relies on external suppliers, the information security team may work with these entities to establish secure communication channels, conduct security assessments, and ensure the protection of shared data and resources.
   * Board of Directors and Shareholders: The information security team may report directly to the board of directors or executive management. They provide regular updates on the organization's security posture, potential risks, and mitigation strategies to address concerns raised by stakeholders and shareholders.
+* Takeaway: With my answer, I was only thinking of the companies/stakeholders that I have worked for without realizing that there are other types of organization/stakeholders out there.
 
-> With my answer, I was only thinking of the companies/stakeholders that I have worked for without realizing that there are other types of organization/stakeholders out there.
-
-### What are the drivers for security? This will include Business, Technical and Compliance aspects.
+What are the drivers for security? This will include Business, Technical and Compliance aspects.
 
 * Answer: Profit.
 * ChatGPT Assisted Answer:
