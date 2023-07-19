@@ -70,19 +70,27 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 ### What are the business significant security objectives? Have these been agreed with the clients of the information security team?
 
 * **Answer**: To mitigate or avoid security incidents.
-* **Research**: N/A
+* **Research**: The clients that were indicated here are the stakeholders that were stated on the first question.
 * **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**
-  * Data Protection and Privacy: Ensuring the confidentiality, integrity, and availability of sensitive data and protecting the privacy of customers and employees are vital security objectives. Compliance with data protection laws and regulations is often a critical aspect of this objective.
-  * Risk Management: Identifying, assessing, and managing security risks is fundamental to safeguarding the organization from potential threats and vulnerabilities. This objective involves implementing security controls based on risk assessments.
-  * Incident Response and Business Continuity: Having a well-defined incident response plan and business continuity strategy helps minimize the impact of security incidents and ensures the organization can continue its operations even during disruptions.
-  * User Awareness and Training: Educating employees about security best practices and potential threats is essential to create a security-aware culture within the organization and reduce the risk of human-related security incidents.
-  * Secure Software Development and Deployment: Ensuring that software and applications are developed, tested, and deployed securely helps prevent vulnerabilities and weaknesses that attackers could exploit.
-  * Third-Party Risk Management: Managing the security risks associated with third-party vendors and service providers is critical, as they often have access to the organization's data and systems.
-  * Security Compliance and Governance: Meeting regulatory requirements, industry standards, and internal governance policies is a significant objective to avoid penalties, legal issues, and reputational damage.
-  * Security Incident Monitoring and Detection: Implementing systems for real-time monitoring and detection of security incidents helps identify and respond to threats promptly.
-  * Access Control and Identity Management: Controlling access to sensitive resources and managing user identities effectively are crucial objectives to prevent unauthorized access and data breaches.
-  * Security Awareness among Clients and Customers: For organizations that handle sensitive data from clients and customers, promoting security awareness among external stakeholders is essential to build trust and protect their information.
+  * RE: Business significant security objectives
+    * Protecting Customer Data: Ensuring the confidentiality, integrity, and availability of customer information, as well as complying with data protection regulations, to build and maintain customer trust.
+    * Safeguarding Intellectual Property: Implementing measures to protect intellectual property, trade secrets, and proprietary information from unauthorized access or theft.
+    * Ensuring Business Continuity: Establishing resilient systems and disaster recovery plans to minimize downtime and maintain critical operations during and after security incidents.
+    * Supporting Digital Transformation: Enabling the secure adoption of new technologies, cloud services, and mobile applications to facilitate digital initiatives and growth.
+    * Preventing Financial Loss: Mitigating the risk of financial loss due to cyberattacks, fraud, or other security incidents.
+    * Securing Supply Chain: Ensuring the security of the supply chain to prevent risks posed by third-party vendors and partners.
+    * Compliance and Regulatory Alignment: Adhering to relevant laws, regulations, and industry standards to avoid legal penalties and reputational damage.
+    * Security Awareness and Training: Promoting a strong security culture by providing regular training and awareness programs to all employees.
+    * Incident Response and Recovery: Establishing effective incident response plans to detect, respond to, and recover from security incidents promptly.
+    * Risk Management: Conducting regular risk assessments and implementing risk-based security measures to address the most critical threats.
+  * RE: Agreement with clients 
+    * Executive Leadership: The CISO should work closely with the executive leadership to align security objectives with the organization's overall business strategy and risk appetite.
+    * Board of Directors: Presenting the security objectives and strategies to the board for their oversight and approval, as they are ultimately responsible for governance and risk management.
+    * Department Heads and Business Unit Leaders: Collaborating with department heads and business unit leaders to understand their specific security needs and align security measures with their operations.
+    * IT Department: Engaging with the IT team to integrate security objectives into the organization's technology infrastructure and systems.
+    * Legal and Compliance Teams: Ensuring that the security objectives are in line with legal and regulatory requirements.
+    * External Auditors and Regulators: Sharing security objectives and demonstrating compliance during audits and regulatory inspections.
 * **Takeaway**: With ChatGPT's answer, I am surprised that the objectives are designed to protect critical assets. I realized that my mindset is from the view of a CISO looking only at the board members or the other part of the C-Suite. ChatGPT's answer seems to be looking as well at the people that they are handling.
 
 ### How do you model your organization and the systems it relies on?
