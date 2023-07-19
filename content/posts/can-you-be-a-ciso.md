@@ -116,18 +116,83 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 
 ### What are the third parties you exchange information with?
 
-* What is the list of assets that need to be protected? Who owns them? Who controls them?
-* What categories of assets need more protection and what less?
-* What are the threats or risks?
-* What
-  is the list of security controls or processes you have in place? What
-  is the success criteria for each? How frequently do you check that they
-  are not just effective but successful?
-* Where is the evidence of your security controls and processes necessary for compliance and the collation of management metrics?
-* What is the list of non-compliances that need to be remediated?
-* What is your level of compliance?
-* What is the list of vulnerabilities that need to be remediated?
-* What is your level of security (or risk)?
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1. ****
+
+### What is the list of assets that need to be protected? Who owns them? Who controls them?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### What categories of assets need more protection and what less?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### What are the threats or risks?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### What is the list of security controls or processes you have in place? What is the success criteria for each? How frequently do you check that they are not just effective but successful?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### Where is the evidence of your security controls and processes necessary for compliance and the collation of management metrics?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### What is the list of non-compliances that need to be remediated?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### What is your level of compliance?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### What is the list of vulnerabilities that need to be remediated?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
+
+### What is your level of security (or risk)?
+
+* **Answer**: 
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  1.
 
 ## References
 
