@@ -63,8 +63,20 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 * **Research**: N/A
 * **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**:
-  * ****
-* How do you model your organization and the systems it relies on?
+  * **Data Confidentiality**: Ensuring that sensitive and confidential data is accessible only to authorized individuals or systems, protecting it from unauthorized disclosure or exposure.
+  * **Data Integrity**: Guaranteeing the accuracy and consistency of data throughout its lifecycle, safeguarding it against unauthorized modification or tampering.
+  * **Availability**: Ensuring that critical systems, applications, and data are available and accessible to authorized users when needed, minimizing downtime and disruptions to business operations.
+  * **Business Continuity and Disaster Recovery**: Implementing measures to ensure business continuity in the face of disruptive incidents and disasters. This includes creating effective disaster recovery plans and backup strategies.
+  * **User Authentication and Access Control**: Implementing strong authentication mechanisms and access controls to ensure that only authorized users can access specific resources and data.
+  * **Incident Response and Management**: Establishing incident response plans and procedures to detect, respond to, and recover from security incidents effectively, minimizing the impact on the business.
+  * **Security Awareness and Training**: Raising security awareness among employees to foster a security-conscious culture and ensure they are well-informed about security best practices and potential risks.
+  * **Third-Party Risk Management**: Assessing and managing security risks associated with third-party vendors, suppliers, and business partners who have access to the organization's data or systems.
+  * **Regulatory Compliance**: Ensuring that the organization complies with relevant laws, regulations, and industry standards pertaining to data security and privacy.
+  * **Security Governance and Risk Management**: Establishing a robust security governance framework and risk management processes to identify, assess, and prioritize security risks and allocate resources effectively.
+* **Takeaway**: With ChatGPT's answer, I am surprised that the objectives are designed to protect critical assets. I realized that my mindset is from the view of a CISO looking only at the board members or the other part of the C-Suite. ChatGPT's answer seems to be looking as well at the people that they are handling.
+
+### How do you model your organization and the systems it relies on?
+
 * What are the third parties you exchange information with?
 * What is the list of assets that need to be protected? Who owns them? Who controls them?
 * What categories of assets need more protection and what less?
