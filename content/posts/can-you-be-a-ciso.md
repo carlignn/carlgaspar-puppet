@@ -17,19 +17,21 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 ### Who are the clients of the information security team?
 
 * **Answer**: Stakeholders.
-* ChatGPT Assisted Answer:
-* ChatGPT Answer:
-  * Internal Stakeholders: These include executives, senior management, department heads, and employees within the organization who rely on the information security team to protect sensitive data, systems, and resources.
-  * External Customers: If the organization provides products or services to external customers, the information security team's clients also include these customers. They depend on the organization to safeguard their personal information and ensure the security of any transactions or interactions they have with the organization.
-  * Regulatory and Compliance Bodies: The information security team often serves as a point of contact for regulatory bodies, auditors, and compliance agencies. They collaborate to ensure the organization meets legal and industry-specific security requirements and standards.
-  * Business Partners and Suppliers: In cases where the organization has business partnerships or relies on external suppliers, the information security team may work with these entities to establish secure communication channels, conduct security assessments, and ensure the protection of shared data and resources.
-  * Board of Directors and Shareholders: The information security team may report directly to the board of directors or executive management. They provide regular updates on the organization's security posture, potential risks, and mitigation strategies to address concerns raised by stakeholders and shareholders.
-* Takeaway: With my answer, I was only thinking of the companies/stakeholders that I have worked for without realizing that there are other types of organization/stakeholders out there.
+* **Research**: 
+  * Stakeholder: A stakeholder is a party that has an interest in a company and can either affect or be affected by the business.
+* **ChatGPT Assisted Answer**:
+* **ChatGPT Answer**:
+  * **Internal Stakeholders**: These include executives, senior management, department heads, and employees within the organization who rely on the information security team to protect sensitive data, systems, and resources.
+  * **External Customers**: If the organization provides products or services to external customers, the information security team's clients also include these customers. They depend on the organization to safeguard their personal information and ensure the security of any transactions or interactions they have with the organization.
+  * **Regulatory and Compliance Bodies**: The information security team often serves as a point of contact for regulatory bodies, auditors, and compliance agencies. They collaborate to ensure the organization meets legal and industry-specific security requirements and standards.
+  * **Business Partners and Suppliers**: In cases where the organization has business partnerships or relies on external suppliers, the information security team may work with these entities to establish secure communication channels, conduct security assessments, and ensure the protection of shared data and resources.
+  * **Board of Directors and Shareholders**: The information security team may report directly to the board of directors or executive management. They provide regular updates on the organization's security posture, potential risks, and mitigation strategies to address concerns raised by stakeholders and shareholders.
+* **Takeaway**: With my answer, I was only thinking of the companies/stakeholders that I have worked for without realizing that there are other types of organization/stakeholders out there.
 
-What are the drivers for security? This will include Business, Technical and Compliance aspects.
+### What are the drivers for security? This will include Business, Technical and Compliance aspects.
 
-* Answer: Profit.
-* ChatGPT Assisted Answer:
+* **Answer**: Profit.
+* **ChatGPT Assisted Answer**:
   * Business Drivers:
     * Protection of Assets: Businesses invest in security measures to protect their valuable assets, such as intellectual property, customer data, trade secrets, financial information, and brand reputation. Security helps safeguard these assets from unauthorized access, theft, or compromise.
     * Business Continuity: Security measures ensure the continuous operation of critical systems and processes, minimizing disruptions caused by security incidents or breaches. It helps maintain productivity, customer trust, and revenue generation.
@@ -66,3 +68,4 @@ What are the drivers for security? This will include Business, Technical and Com
 ## References
 
 * [Questions a CISO should be able to answer by Vicente Aceituno Canal on The CISO Den](https://medium.com/the-ciso-den/questions-a-ciso-should-be-able-to-answer-87cdc681f746)
+* [About Stakeholders](https://www.investopedia.com/terms/s/stakeholder.asp)
