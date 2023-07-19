@@ -17,9 +17,13 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 ### Who are the clients of the information security team?
 
 * **Answer**: Stakeholders.
-* **Research**: 
-  * Stakeholder: A stakeholder is a party that has an interest in a company and can either affect or be affected by the business.
+* **Research**
+  * Stakeholder
+    * A stakeholder is a party that has an interest in a company and can either affect or be affected by the business.
     * Can be internal or external.
+      * Internal: significantly impacted by the associated concern and its performance.
+      * External: unlike internal stakeholders, external stakeholders do not have a direct relationship with the
+         company. Instead, an external stakeholder is normally a person or organization affected by the operations of the business.
 * **Revised Answer**:
 * **ChatGPT Answer**:
   * **Internal Stakeholders**: These include executives, senior management, department heads, and employees within the organization who rely on the information security team to protect sensitive data, systems, and resources.
