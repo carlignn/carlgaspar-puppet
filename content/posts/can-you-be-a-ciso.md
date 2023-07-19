@@ -68,16 +68,16 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 * **Research**: N/A
 * **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**
-  * **Data Confidentiality**: Ensuring that sensitive and confidential data is accessible only to authorized individuals or systems, protecting it from unauthorized disclosure or exposure.
-  * **Data Integrity**: Guaranteeing the accuracy and consistency of data throughout its lifecycle, safeguarding it against unauthorized modification or tampering.
-  * **Availability**: Ensuring that critical systems, applications, and data are available and accessible to authorized users when needed, minimizing downtime and disruptions to business operations.
-  * **Business Continuity and Disaster Recovery**: Implementing measures to ensure business continuity in the face of disruptive incidents and disasters. This includes creating effective disaster recovery plans and backup strategies.
-  * **User Authentication and Access Control**: Implementing strong authentication mechanisms and access controls to ensure that only authorized users can access specific resources and data.
-  * **Incident Response and Management**: Establishing incident response plans and procedures to detect, respond to, and recover from security incidents effectively, minimizing the impact on the business.
-  * **Security Awareness and Training**: Raising security awareness among employees to foster a security-conscious culture and ensure they are well-informed about security best practices and potential risks.
-  * **Third-Party Risk Management**: Assessing and managing security risks associated with third-party vendors, suppliers, and business partners who have access to the organization's data or systems.
-  * **Regulatory Compliance**: Ensuring that the organization complies with relevant laws, regulations, and industry standards pertaining to data security and privacy.
-  * **Security Governance and Risk Management**: Establishing a robust security governance framework and risk management processes to identify, assess, and prioritize security risks and allocate resources effectively.
+  * Data Protection and Privacy: Ensuring the confidentiality, integrity, and availability of sensitive data and protecting the privacy of customers and employees are vital security objectives. Compliance with data protection laws and regulations is often a critical aspect of this objective.
+  * Risk Management: Identifying, assessing, and managing security risks is fundamental to safeguarding the organization from potential threats and vulnerabilities. This objective involves implementing security controls based on risk assessments.
+  * Incident Response and Business Continuity: Having a well-defined incident response plan and business continuity strategy helps minimize the impact of security incidents and ensures the organization can continue its operations even during disruptions.
+  * User Awareness and Training: Educating employees about security best practices and potential threats is essential to create a security-aware culture within the organization and reduce the risk of human-related security incidents.
+  * Secure Software Development and Deployment: Ensuring that software and applications are developed, tested, and deployed securely helps prevent vulnerabilities and weaknesses that attackers could exploit.
+  * Third-Party Risk Management: Managing the security risks associated with third-party vendors and service providers is critical, as they often have access to the organization's data and systems.
+  * Security Compliance and Governance: Meeting regulatory requirements, industry standards, and internal governance policies is a significant objective to avoid penalties, legal issues, and reputational damage.
+  * Security Incident Monitoring and Detection: Implementing systems for real-time monitoring and detection of security incidents helps identify and respond to threats promptly.
+  * Access Control and Identity Management: Controlling access to sensitive resources and managing user identities effectively are crucial objectives to prevent unauthorized access and data breaches.
+  * Security Awareness among Clients and Customers: For organizations that handle sensitive data from clients and customers, promoting security awareness among external stakeholders is essential to build trust and protect their information.
 * **Takeaway**: With ChatGPT's answer, I am surprised that the objectives are designed to protect critical assets. I realized that my mindset is from the view of a CISO looking only at the board members or the other part of the C-Suite. ChatGPT's answer seems to be looking as well at the people that they are handling.
 
 ### How do you model your organization and the systems it relies on?
