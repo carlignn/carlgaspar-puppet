@@ -16,9 +16,9 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 
 ### Who are the clients of the information security team?
 
-* Answer: Stakeholders.
-* ChatGPT Assisted Answer: 
-* ChatGPT Answer: 
+* **Answer**: Stakeholders.
+* ChatGPT Assisted Answer:
+* ChatGPT Answer:
   * Internal Stakeholders: These include executives, senior management, department heads, and employees within the organization who rely on the information security team to protect sensitive data, systems, and resources.
   * External Customers: If the organization provides products or services to external customers, the information security team's clients also include these customers. They depend on the organization to safeguard their personal information and ensure the security of any transactions or interactions they have with the organization.
   * Regulatory and Compliance Bodies: The information security team often serves as a point of contact for regulatory bodies, auditors, and compliance agencies. They collaborate to ensure the organization meets legal and industry-specific security requirements and standards.
