@@ -18,13 +18,13 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 
 * **Answer**: Stakeholders.
 * **Research**
-  * Stakeholder
+  * **Stakeholder**
     * A stakeholder is a party that has an interest in a company and can either affect or be affected by the business.
     * Can be internal or external.
-      * Internal: significantly impacted by the associated concern and its performance.
-      * External: unlike internal stakeholders, external stakeholders do not have a direct relationship with the
-         company. Instead, an external stakeholder is normally a person or organization affected by the operations of the business.
-* **Revised Answer**: The clients of an Information Security Team is the company's stakeholders. Stakeholders can be internal or external. Internal stakeholders are the parties that are **significantly **impacted by the company's performance. External stakeholders are the parties that do not have direct relationship with the company which are usually affected by the operations of the business.
+      * **Internal**: significantly impacted by the associated concern and its performance.
+      * **External**: unlike internal stakeholders, external stakeholders do not have a direct relationship with the
+        company. Instead, an external stakeholder is normally a person or organization affected by the operations of the business.
+* **Revised Answer**: The clients of an Information Security Team is the company's stakeholders. Stakeholders can be internal or external. Internal stakeholders are the parties that are significantly impacted by the company's performance. External stakeholders are the parties that do not have direct relationship with the company which are usually affected by the operations of the business.
 * **ChatGPT Answer**:
   * **Internal Stakeholders**: These include executives, senior management, department heads, and employees within the organization who rely on the information security team to protect sensitive data, systems, and resources.
   * **External Customers**: If the organization provides products or services to external customers, the information security team's clients also include these customers. They depend on the organization to safeguard their personal information and ensure the security of any transactions or interactions they have with the organization.
