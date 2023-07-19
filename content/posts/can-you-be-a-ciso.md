@@ -8,6 +8,8 @@ toc: true
 description: >-
   I found this blog post on Reddit and I will try my best to answer them. Of
   course, these answers will be compared to a ChatGPT assisted answers.
+tags:
+  - security
 ---
 
 I found this blog post on Reddit and I will try my best to answer them. I will answer them on my own, then I will answer from a different perspective based on my research.
@@ -36,8 +38,8 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
 ### What are the drivers for security? This will include Business, Technical and Compliance aspects.
 
 * **Answer**: Profit.
-* **Research**:
-* **Revised Answer**:
+* **Research**: N/A
+* **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**:
   * **Business Drivers**
     * **Protection of Assets**: Businesses invest in security measures to protect their valuable assets, such as intellectual property, customer data, trade secrets, financial information, and brand reputation. Security helps safeguard these assets from unauthorized access, theft, or compromise.
@@ -53,11 +55,15 @@ I found this blog post on Reddit and I will try my best to answer them. I will a
     * **Legal and Regulatory Requirements**: Compliance with industry-specific regulations, data protection laws, and privacy regulations is a crucial driver for security. Organizations must meet the mandated security standards and guidelines to avoid legal repercussions, penalties, and reputational damage.
     * **Industry Standards**: Adhering to widely recognized security frameworks and standards, such as ISO 27001, NIST Cybersecurity Framework, or PCI DSS, can be a compliance driver. These standards provide guidelines and best practices for implementing effective security controls and risk management processes.
     * **Contractual Obligations**: Organizations may have contractual obligations with clients, partners, or vendors that require meeting specific security requirements. Compliance with these obligations ensures business continuity, trust, and legal compliance.
-* **Takeaway**:
+* **Takeaway**: I really don't understand the question here. But the answer from ChatGPT kind of makes sense.
 
 ### What are the business significant security objectives? Have these been agreed with the clients of the information security team?
 
-* Answer:
+* **Answer**: To mitigate or avoid security incidents.
+* **Research**: N/A
+* **Revised Answer**: N/A
+* **ChatGPT Assisted Answer**:
+  * ****
 * How do you model your organization and the systems it relies on?
 * What are the third parties you exchange information with?
 * What is the list of assets that need to be protected? Who owns them? Who controls them?
