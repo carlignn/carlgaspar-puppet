@@ -5,9 +5,7 @@ subtitle: >-
   Aceituno Canal on The CISO Den
 date: 2023-07-19T16:00:00.000Z
 toc: true
-description: >-
-  I found this blog post on Reddit and I will try my best to answer them. Of
-  course, these answers will be compared to a ChatGPT assisted answers.
+description: ''
 tags:
   - security
 ---
