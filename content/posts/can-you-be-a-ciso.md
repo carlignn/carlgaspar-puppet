@@ -25,7 +25,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
       * **External**: unlike internal stakeholders, external stakeholders do not have a direct relationship with the
         company. Instead, an external stakeholder is normally a person or organization affected by the operations of the business.
 * **Revised Answer**: The clients of an Information Security Team is the company's stakeholders. Stakeholders can be internal or external. Internal stakeholders are the parties that are significantly impacted by the company's performance. External stakeholders are the parties that do not have direct relationship with the company which are usually affected by the operations of the business.
-* **ChatGPT Answer**
+* **ChatGPT Assisted Answer**
   1. **Executive Leadership**: This includes the CEO, CFO, COO, and other senior executives. They are responsible for making strategic decisions and need to be informed about the organization's cybersecurity posture and any potential risks or incidents.
   2. **Board of Directors**: The board is accountable for governance and oversight of the organization. They need to understand the security risks, compliance issues, and the impact of cybersecurity on the organization's overall risk management strategy.
   3. **IT Department**: The IT team works closely with the information security team to implement security measures, manage security infrastructure, and respond to incidents effectively.
@@ -44,7 +44,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
 * **Answer**: Profit.
 * **Research**: N/A
 * **Revised Answer**: N/A
-* **ChatGPT Answer**
+* **ChatGPT Assisted Answer**
   * **Business Drivers**
     1. **Protecting Reputation and Brand**: A security breach can lead to significant damage to an organization's reputation and brand, eroding customer trust and loyalty. Security measures are essential to safeguard the organization's image in the eyes of stakeholders.
     2. **Safeguarding Customer Trust**: Customers expect their data to be handled securely. Implementing strong security measures helps build and maintain customer trust, encouraging them to transact and interact with the organization.
@@ -68,7 +68,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
 ### What are the business significant security objectives? Have these been agreed with the clients of the information security team?
 
 * **Answer**: To mitigate or avoid security incidents.
-* **Research**: The clients that were indicated here are the stakeholders that were stated on the first question.
+* **Research**: The clients that were indicated here are the stakeholders that were stated in the first question.
 * **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**
   * **RE: Business significant security objectives**
@@ -89,7 +89,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
     4. **IT Department**: Engaging with the IT team to integrate security objectives into the organization's technology infrastructure and systems.
     5. **Legal and Compliance Teams**: Ensuring that the security objectives are in line with legal and regulatory requirements.
     6. **External Auditors and Regulators**: Sharing security objectives and demonstrating compliance during audits and regulatory inspections.
-* **Takeaway**: With ChatGPT's answer, I am surprised that the objectives are designed to protect critical assets. I realized that my mindset is from the view of a CISO looking only at the board members or the other part of the C-Suite. ChatGPT's answer seems to be looking as well at the people that they are handling.
+* **Takeaway**: With ChatGPT's answer, I am surprised that the objectives are designed to protect critical assets. I realized that my mindset is from the view of a CISO looking only at the board members or the other part of the C-Suite. Trying to make a quick answer that is easily digestible in not so technical terms. ChatGPT's answer seems to be looking as well at the people that the CISO is handling.
 
 ### How do you model your organization and the systems it relies on?
 
