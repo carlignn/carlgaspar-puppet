@@ -68,7 +68,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
     3. **Contractual Obligations**: Compliance with security requirements outlined in contracts with customers, partners, and vendors.
     4. **Internal Policies and Governance**: Compliance with the organization's own security policies, procedures, and governance guidelines.
     5. **Avoiding Penalties and Fines**: Non-compliance with regulations can lead to significant penalties and fines, which can be avoided through adherence to security requirements.
-* **Takeaway**: I really don't understand the question here regarding the aspects. But the answer from ChatGPT kind of makes sense.
+* **Takeaway**: I am really not familiar with these drivers. This is the first time that I've heard of Business, Technical and Compliance Drivers.
 
 ### What are the business significant security objectives? Have these been agreed with the clients of the information security team?
 
