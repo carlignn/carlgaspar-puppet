@@ -3,7 +3,7 @@ title: Can You Be A CISO?
 subtitle: >-
   (Draft) My answers to the Questions a CISO should be able to answer by Vicente
   Aceituno Canal on The CISO Den
-date: 2023-07-16T16:00:00.000Z
+date: 2023-07-19T16:00:00.000Z
 toc: true
 description: >-
   I found this blog post on Reddit and I will try my best to answer them. Of
