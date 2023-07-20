@@ -41,11 +41,9 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
 
 ### What are the drivers for security? This will include Business, Technical and Compliance aspects.
 
-**Answer**: Profit.
-
-**Research**: N/A\
-**Revised Answer**: N/A
-
+* **Answer**: Profit.
+* **Research**: N/A
+* **Revised Answer**: N/A
 * **ChatGPT Answer**
   * **Business Drivers**
     1. **Protecting Reputation and Brand**: A security breach can lead to significant damage to an organization's reputation and brand, eroding customer trust and loyalty. Security measures are essential to safeguard the organization's image in the eyes of stakeholders.
