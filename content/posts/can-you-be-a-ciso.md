@@ -114,7 +114,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
 
 ### What are the third parties you exchange information with?
 
-* **Answer**: I would only exchange information that agrees with documents such as NDA, SLA, etc.
+* **Answer**: I would only exchange information with clients that agrees with documents such as NDA, SLA, etc.
 * **Research**: N/A
 * **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**
@@ -128,7 +128,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
   8. **Auditors and Assessors**: External auditors and security assessors may evaluate your organization's security controls and practices. You'll need to collaborate with them by providing information, addressing findings, and improving security based on their recommendations.
   9. **Financial Institutions**: If your organization interacts with financial institutions, you may need to exchange security-related information to meet regulatory requirements and protect financial transactions.
   10. **Contractors and Temporary Staff**: Temporary staff or contractors may have access to sensitive systems and data. As a CISO, you may need to ensure that these individuals are aware of security policies and practices and comply with security requirements.
-* **Takeaway**: Of course this would include Government Agencies, Insurance Providers, etc. What I realize here is I don't have the bird's eye view of things.
+* **Takeaway**: Of course this would include Government Agencies, Insurance Providers, etc. What I realize here is I don't have the bird's eye view of the whole organization and the world around it.
 
 ### What is the list of assets that need to be protected? Who owns them? Who controls them?
 
@@ -183,9 +183,9 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
 
 ### What categories of assets need more protection and what less?
 
-* **Answer**:
+* **Answer**: More protection is required for Personally Identifiable Information and Personal Health Information. Confidential and Private company information should be protected more as well.
 * **Research**: N/A
-* **Revised Answer**: N/A
+* **Revised Answer**: Assets that need more protection are critical assets such as personally identifiable information (PII), user accounts such as IAM systems, critical infrastructure such as everything that defines the network diagram, regulated assets such as healthcare data (HIPAA), financial data (PCI DSS), or personal data (GDPR), and public facing systems. Assets that need less protection are publicly available information.
 * **ChatGPT Assisted Answer**:
   * **Assets that Need More Protection**
     1. **Critical Data**: Assets containing critical or sensitive data, such as personally identifiable information (PII), financial data, intellectual property, and trade secrets, require the highest level of protection. This data is a prime target for cybercriminals and can have severe consequences if exposed.
@@ -198,7 +198,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
     2. **Non-Critical Internal Documents**: While internal documents should still have appropriate access controls, less critical materials like company announcements or routine operational documents may need less stringent protection compared to sensitive data.
     3. **Obsolete Systems**: Legacy systems or retired assets that are no longer in use may require minimal protection. However, ensure that they are securely decommissioned to prevent unauthorized access.
     4. **General Office Equipment**: Assets like office furniture, printers, and non-critical hardware typically require minimal security measures as they do not directly contain sensitive information.
-* **Takeaway**:
+* **Takeaway**: I think I have the idea and I know what the answer is. I just failed to deliver it properly.
 
 ### What are the threats or risks?
 
