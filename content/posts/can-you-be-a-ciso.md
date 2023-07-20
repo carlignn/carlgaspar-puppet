@@ -110,11 +110,11 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
   11. **Business Processes**: Understand the organization's core business processes and their dependencies on IT systems. Identify critical processes and their resilience requirements to ensure business continuity.
   12. **Third-Party Risk Management**: Consider the security risks posed by third-party vendors and partners. Model the relationships and interactions with external entities and ensure they meet the organization's security standards.
   13. **Security Culture**: Evaluate the organization's security culture, including security awareness programs and employee training efforts. A strong security culture is crucial for the success of any security strategy.
-* **Takeaway**:
+* **Takeaway**: I am not sure where did ChatGPT took this model, but I am pretty sure that basing the organization's model to an already existing and widely used framework is easier to implement than creating that framework from scratch.
 
 ### What are the third parties you exchange information with?
 
-* **Answer**:
+* **Answer**: I would only exchange information that agrees with documents such as NDA, SLA, etc.
 * **Research**: N/A
 * **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**
@@ -128,11 +128,11 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
   8. **Auditors and Assessors**: External auditors and security assessors may evaluate your organization's security controls and practices. You'll need to collaborate with them by providing information, addressing findings, and improving security based on their recommendations.
   9. **Financial Institutions**: If your organization interacts with financial institutions, you may need to exchange security-related information to meet regulatory requirements and protect financial transactions.
   10. **Contractors and Temporary Staff**: Temporary staff or contractors may have access to sensitive systems and data. As a CISO, you may need to ensure that these individuals are aware of security policies and practices and comply with security requirements.
-* **Takeaway**:
+* **Takeaway**: Of course this would include Government Agencies, Insurance Providers, etc. What I realize here is I don't have the bird's eye view of things.
 
 ### What is the list of assets that need to be protected? Who owns them? Who controls them?
 
-* **Answer**:
+* **Answer**: An organization should have an Inventory Management System that is maintained and always up-to-date.
 * **Research**: N/A
 * **Revised Answer**: N/A
 * **ChatGPT Assisted Answer**
@@ -179,7 +179,7 @@ I found this blog on Reddit and I will try my best to answer them. I will answer
   6. **Brand and Reputation**
      * Ownership: Owned by the organization.
      * Control: Protected through public relations efforts, security measures, and crisis management plans.
-* **Takeaway**:
+* **Takeaway**: If you are going to ask me on the spot. I won't be able to enumerate the different types of assets as ChatGPT stated. It's good to know that there is a lot more assets than the physical and digital assets.
 
 ### What categories of assets need more protection and what less?
 
