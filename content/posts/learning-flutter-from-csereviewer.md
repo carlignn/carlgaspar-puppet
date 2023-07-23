@@ -103,6 +103,10 @@ void main() {
 }
 ```
 
+## Icon
+
+[https://www.geeksforgeeks.org/flutter-changing-app-icon/](https://www.geeksforgeeks.org/flutter-changing-app-icon/)
+
 ## Toast
 
 Missing
