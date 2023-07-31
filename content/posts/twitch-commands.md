@@ -7,10 +7,10 @@ tags:
   - twitch
 ---
 
-## !commands
+### !commands
 
 Will show the list of commands available for the channel.
 
-## !website
+### !website
 
 Will show the website for the channel.
