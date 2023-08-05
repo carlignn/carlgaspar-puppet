@@ -143,7 +143,7 @@ Bulleted Links: Risk Assessment and Management by Kevin Henry on Pluralsight
 Title: {title} Redirect
 Description: Redirect only.
 Date: Jan 01, 0001
-Body: {Link to redirect}
+Body: If you are not redirected automatically, click on this link: {link}
 Tags: redirect
 
 ## Errors
