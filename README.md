@@ -144,7 +144,7 @@ Title: {title} Redirect\
 Description: Redirect only.\
 Date: Jan 01, 0001\
 Body: If you are not redirected automatically, click on this link: {link}\
-Tags: redirect\
+Tags: redirect
 
 #### Update the netlify.toml
 
