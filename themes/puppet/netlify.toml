@@ -22,3 +22,8 @@
   for = "*.(css|js|woff|woff2|ttf|png|jpg|jpeg)"
   [headers.values]
     Cache-Control = "public, max-age=2592000"
+
+[[redirects]]
+  from = "/posts/johtomorrow-redirect/"
+  to = "https://forums.pokemmo.com/index.php?/topic/150498-heartgoldsoulsilver-coming-springish-2023/#comment-2019625"
+  force = true
