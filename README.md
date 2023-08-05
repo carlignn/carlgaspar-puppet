@@ -148,7 +148,10 @@ Tags: redirect\
 
 #### Update the netlify.toml
 
-Use search: (Draft)
+[[redirects]]\
+  from = "/posts/johtomorrow-redirect/"\
+  to = "https://forums.pokemmo.com/index.php?/topic/150498-heartgoldsoulsilver-coming-springish-2023/#comment-2019625" \
+  force = true
 
 ## Errors
 
