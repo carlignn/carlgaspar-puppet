@@ -140,7 +140,7 @@ Bulleted Links: Risk Assessment and Management by Kevin Henry on Pluralsight
 
 ### Redirect
 
-Title: {title} Redirect\
+Title: {title}\
 Description: Redirect only.\
 Date: Jan 01, 0001\
 Body: If you are not redirected automatically, click on this link: {link}\
