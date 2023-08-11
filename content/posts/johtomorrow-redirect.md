@@ -1,6 +1,6 @@
 ---
-title: Johtomorrow Redirect
-date: 0000-12-31T15:54:17.000Z
+title: Johtomorrow
+date: 1900-12-31T15:54:17.000Z
 tags:
   - redirect
 description: Redirect only.
