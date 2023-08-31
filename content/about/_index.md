@@ -86,10 +86,14 @@ Persistent, detail-oriented Cybersecurity and Information Security professional 
 
 * GWA – 1.68/5.0
 
-# Projects[](https://play.google.com/store/apps/details?id=com.galoreentertainment.pesofolio)
+# Projects
 
+* **[Personal Website](https://carlgaspar.com/)** - My personal website dedicated to documenting my personal experiences in fields of Cybersecurity, Software Development and beyond. [Minimal](https://min.carlgaspar.com/) version.
+  Technologies used: Hugo Framework (HTML and CSS), Google Analytics, Forestry/TinaCMS
+* **[CSE Reviewer](https://carlgaspar.com/)** - Android application created to help aspiring Civil Service Exam takers to pass the examination.
+  Technologies used: Flutter, Dart, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)
 * **[Pesofolio](https://play.google.com/store/apps/details?id=com.galoreentertainment.pesofolio)** - Android application created to simplify tracking of stocks in the Philippine Stock Market.
-  Technologies used: Kotlin, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)[](https://play.google.com/store/apps/details?id=com.galore.imfitphilippines)
+  Technologies used: Kotlin, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)
 * **[It’s More Find in the Philippines](https://play.google.com/store/apps/details?id=com.galore.imfitphilippines)** - Android game developed by my team and I as our final thesis
   at the University. I led the team of 5 people as the Project Manager and the Programmer.
   Technologies used: C#, Unity3D, Photoshop
