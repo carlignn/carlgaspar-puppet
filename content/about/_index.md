@@ -39,18 +39,18 @@ Persistent, detail-oriented Cybersecurity and Information Security professional 
 * Researched the appropriate security applications for the needs of the organization and developed a comprehensive plan for rolling out, including the documentations, timeline and communication plan to keep employees informed and trained throughout the process.
 * Researched and evaluated tools and software solutions for use by the business and other non-security related tasks.
 * Led the MFA (Multi-Factor Authentication), PAM (Privileged Access Management) and XDR (eXtended Detection and Response) solutions from inception to completion in order to meet the requirements for Cyber insurance,  overseeing all aspects of project management, vendor comparison, purchase order requirements, on-boarding, administration and maintenance.
-* **MFA (Multi-Factor Authentication)**
+  **MFA (Multi-Factor Authentication)**
 * Successfully on-boarded 400+ users to the MFA including procurement of user guide and manuals, proper advisory communications, and managed Service Desk responsibilities ensuring the completion of the on-boarding process ahead of the assigned schedule.
 * Coordinated with internal IT ensuring smooth integration of the MFA with our suite of tools.
 * Conducted regular security assessments and audits of the MFA and integrated systems to identify issues and recommend improvements.
 * Managed user provisioning and deprovisioning for MFA accounts, ensuring timely access for authorized users and revoking access for departing employees.
-* **PAM (Privileged Access Management)**
+  **PAM (Privileged Access Management)**
 * Facilitated the on-boarding of IT administrators and servers onto the Privileged Access Management (PAM) platform.
 * Implemented PAM policies tailored to seamlessly align with our existing infrastructure setup, with a key focus on safeguarding critical production servers to mitigate any potential downtime impact.
 * Collaborated with cross-functional teams to define PAM strategies, policies, and procedures, aligning with industry best practices.
 * Develop and deliver training sessions to educate employees on PAM policies, password management, and secure access practices.
 * Provide regular reports and updates to senior management regarding the status of the PAM program, including risk assessments and improvements.
-* **XDR (eXtended Detection and Response)**
+  **XDR (eXtended Detection and Response)**
 * Oversaw the on-boarding process of endpoints including network devices and servers onto the XDR (eXtended Detection and Response) platform.
 * Worked with the vendor with the baselining and behavioral analysis to spot potentially suspicious activity on endpoints.
 
@@ -90,7 +90,7 @@ Persistent, detail-oriented Cybersecurity and Information Security professional 
 
 * **[Personal Website](https://carlgaspar.com/)** - My personal website dedicated to documenting my personal experiences in fields of Cybersecurity, Software Development and beyond. [Minimal](https://min.carlgaspar.com/) version.
   Technologies used: Hugo Framework (HTML and CSS), Google Analytics, Forestry/TinaCMS
-* **[CSE Reviewer](https://carlgaspar.com/)** - Android application created to help aspiring Civil Service Exam takers to pass the examination.
+* **CSE Reviewer** - Android application created to help aspiring Civil Service Exam takers to pass the examination.
   Technologies used: Flutter, Dart, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)
 * **[Pesofolio](https://play.google.com/store/apps/details?id=com.galoreentertainment.pesofolio)** - Android application created to simplify tracking of stocks in the Philippine Stock Market.
   Technologies used: Kotlin, Python, AWS (IAM, DynamoDB, Lambda, CloudWatch, API Gateway)
