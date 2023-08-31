@@ -10,7 +10,7 @@ author: Carl Gaspar
 
 # Cybersecurity Officer
 
-Persistent, detail-oriented Cybersecurity and Information Security professional with over 5 years of progressive experience operating within the private domain, dedicated to managing and enhancing security systems including safeguarding data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. Proficient in contributing to the management of organizational digital frameworks and enhancing overall Cybersecurity measures. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. [Resume](/Resume.pdf).
+Persistent, detail-oriented Cybersecurity and Information Security professional with over 5 years of progressive experience operating within the private domain, dedicated to managing and enhancing security systems including safeguarding data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. Proficient in contributing to the management of organizational digital frameworks and enhancing overall Cybersecurity measures. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. [Resume](https://assets.tina.io/dc4c3ed0-11ea-4222-846f-d229fe8b3ba4/Resume.pdf).
 
 # Core Competencies
 
@@ -39,18 +39,21 @@ Persistent, detail-oriented Cybersecurity and Information Security professional 
 * Researched the appropriate security applications for the needs of the organization and developed a comprehensive plan for rolling out, including the documentations, timeline and communication plan to keep employees informed and trained throughout the process.
 * Researched and evaluated tools and software solutions for use by the business and other non-security related tasks.
 * Led the MFA (Multi-Factor Authentication), PAM (Privileged Access Management) and XDR (eXtended Detection and Response) solutions from inception to completion in order to meet the requirements for Cyber insurance,  overseeing all aspects of project management, vendor comparison, purchase order requirements, on-boarding, administration and maintenance.
-  **MFA (Multi-Factor Authentication)**
+* *
+* **MFA (Multi-Factor Authentication)**
 * Successfully on-boarded 400+ users to the MFA including procurement of user guide and manuals, proper advisory communications, and managed Service Desk responsibilities ensuring the completion of the on-boarding process ahead of the assigned schedule.
 * Coordinated with internal IT ensuring smooth integration of the MFA with our suite of tools.
 * Conducted regular security assessments and audits of the MFA and integrated systems to identify issues and recommend improvements.
 * Managed user provisioning and deprovisioning for MFA accounts, ensuring timely access for authorized users and revoking access for departing employees.
-  **PAM (Privileged Access Management)**
+* *
+* **PAM (Privileged Access Management)**
 * Facilitated the on-boarding of IT administrators and servers onto the Privileged Access Management (PAM) platform.
 * Implemented PAM policies tailored to seamlessly align with our existing infrastructure setup, with a key focus on safeguarding critical production servers to mitigate any potential downtime impact.
 * Collaborated with cross-functional teams to define PAM strategies, policies, and procedures, aligning with industry best practices.
 * Develop and deliver training sessions to educate employees on PAM policies, password management, and secure access practices.
 * Provide regular reports and updates to senior management regarding the status of the PAM program, including risk assessments and improvements.
-  **XDR (eXtended Detection and Response)**
+* *
+* **XDR (eXtended Detection and Response)**
 * Oversaw the on-boarding process of endpoints including network devices and servers onto the XDR (eXtended Detection and Response) platform.
 * Worked with the vendor with the baselining and behavioral analysis to spot potentially suspicious activity on endpoints.
 
