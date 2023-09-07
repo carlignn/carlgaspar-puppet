@@ -10,7 +10,7 @@ author: Carl Gaspar
 
 # Cybersecurity Officer
 
-Persistent, detail-oriented Cybersecurity and Information Security professional with over 5 years of progressive experience operating within the private domain, dedicated to managing and enhancing security systems including safeguarding data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. Proficient in contributing to the management of organizational digital frameworks and enhancing overall Cybersecurity measures. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. [Resume](https://assets.tina.io/dc4c3ed0-11ea-4222-846f-d229fe8b3ba4/Resume.pdf).
+Persistent, detail-oriented Cybersecurity and Information Security professional with over 5 years of progressive experience operating within the private domain, dedicated to managing and enhancing security systems including safeguarding data. Highly skilled in facilitating data loss prevention as part of strengthening the overall institutional e-infrastructure. Proficient in contributing to the management and enhancing overall Cybersecurity measures. Able to thrive in fast-paced and challenging environments where accuracy and efficiency matter. [Resume](https://assets.tina.io/dc4c3ed0-11ea-4222-846f-d229fe8b3ba4/Resume.pdf).
 
 # Core Competencies
 
