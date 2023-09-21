@@ -63,6 +63,15 @@ Consider turning on more logging sources, such as the following, plus any others
 * Load balancers
 * CloudFront
 
+### Stage 5: Secure IAM access
+
+1. Use SSO for access.
+2. Remove all IAM users.
+3. Remove all unused IAM roles.
+4. Reduce the privileges of service roles to necessary services.
+5. Implement pre-commit hooks for secret detection.
+6. Plan how accounts will be connected.
+
 ### References
 
 [AWS Security Maturity Roadmap by Scott Piper](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
