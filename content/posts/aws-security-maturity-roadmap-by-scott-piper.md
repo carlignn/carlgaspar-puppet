@@ -93,6 +93,12 @@ The SCPs to apply should include:
 9. Deny ability to disrupt CloudWatch Event collection or other aspects of your monitoring and alerting pipeline.
 10. Deny ability to modify important IAM roles, such as one used for Stack Sets, incident response, or vendors performing monitoring.
 
-### References
+### Stage 7: Reproducibility and ownership
+
+1. Use Infrastructure as Code.
+2. Control AMI and package sourcing.
+3. Apply tagging strategy
+
+## References
 
 [AWS Security Maturity Roadmap by Scott Piper](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
