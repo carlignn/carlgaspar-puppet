@@ -101,6 +101,25 @@ The SCPs to apply should include:
 
 Once you control infrastructure changes through code, you can also use two-person rule deployments, where one person proposes the changes and another signs off in order for the change to be implemented. You can also use tools to scan these proposed changes before they are deployed. Options for doing this are described [here](https://blog.christophetd.fr/shifting-cloud-security-left-scanning-infrastructure-as-code-for-security-issues/).
 
+With more people working in an AWS environment, you can lose track of what resources are associated with which applications or teams. When a problem is found with a resource, you want to be able to quickly identify who the owner is, without looking through the CloudTrail logs. This becomes especially important when a CI/CD system is solely responsible for creating resources, as you become less able to identify the owner. Therefore, you should have a tagging strategy. This can be enforced via SCPs or scanning or monitoring can be used to detect when required tags are not used
+
+### Stage 8: Enhance detection and least privilege refinement
+
+1. Implement real-time monitoring.
+2. Implement automated remediation.
+3. Refine IAM policies.
+4. Deploy honey tokens.
+
+### Stage 9: Secure network communications
+
+1. Move all non-public network resources into private subnets and proxy outbound requests so you can filter and block them.
+2. Restrict egress network traffic.
+
+### Stage 10: Incident preparation
+
+1. Limit the blast radius of incidents.
+2. Practice responding to incidents.
+
 ## References
 
 [AWS Security Maturity Roadmap by Scott Piper](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
