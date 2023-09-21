@@ -48,11 +48,20 @@ header_img: /img/home-bg.jpg
 
 > As a first step, most companies will create a CloudWatch Event rule that sends the alerts directly to an SNS that goes to email or Slack messages. They then quickly realize they need to filter this through a Lambda or something with logic in it in order to ignore certain types of alerts. As their alert response processes mature, they also find they need to send these to a ticketing system. This enables them to track metrics, have an audit history, and perform escalations.
 
-#### You want to ensure you can minimally do the following:
+You want to ensure you can minimally do the following:
 
 * Receive a notification about a GuardDuty alert from any of your accounts and any region you enabled it in.
 * Be able to alert on Access Denied errors from CloudTrail logs, specifically for your production accounts.
 * Be able to search through CloudTrail logs to see all of the actions performed by a principal during a time period.
+
+Consider turning on more logging sources, such as the following, plus any others you might be using (full list of known log sources on AWS is [here](https://matthewdf10.medium.com/how-to-enable-logging-on-every-aws-service-in-existence-circa-2021-5b9105b87c9)):
+
+* VPC DNS queries
+* VPC Flow Logs (These are not as useful as many assume)
+* CloudTrail S3 access and Lambda invokes
+* S3 access logs
+* Load balancers
+* CloudFront
 
 ### References
 
