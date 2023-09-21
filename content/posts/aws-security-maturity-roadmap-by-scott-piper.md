@@ -31,6 +31,16 @@ header_img: /img/home-bg.jpg
 
 > As you learn what data you have in AWS, you should ensure that data is backed up to a separate AWS account in a separate region from where the data comes from (or possibly even somewhere off of AWS)
 
-## References
+### Stage 3: Visibility and initial remediation
+
+1. Turn on CloudTrail, GuardDuty, and Access Analyzer for all accounts to send their logs and alerts to the Security account.
+2.  Create an IAM role in every account that grants view access into the account from the Security account.
+3.  Run a one-time scanning tool to identify tactical remediations.
+4.  Turn on S3 Public Block Access.
+5.  Develop an account initialization script and new account creation process.
+
+<!---->
+
+1. References
 
 [AWS Security Maturity Roadmap by Scott Piper](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
