@@ -72,6 +72,27 @@ Consider turning on more logging sources, such as the following, plus any others
 5. Implement pre-commit hooks for secret detection.
 6. Plan how accounts will be connected.
 
+### Stage 6: Reduce attack surface and mitigate compromises
+
+1. Apply SCPs.
+2. Have no publicly facing EC2s or S3 buckets.
+3. Enforce IMDSv2 on all EC2s.
+
+SCPs (Service Control Policies) can be used to restrict actions an account can perform. See examples in my post [AWS SCP Best Practices](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/). You can make exceptions so only a special IAM role, such as that used for Stack Set deployments, can bypass the restrictions. You can apply different SCPs to different accounts and these can ensure that no one, not even the root user, can perform certain actions.
+
+The SCPs to apply should include:
+
+1. Deny root user access.
+2. Allow only approved regions.
+3. Allow only approved services.
+4. Deny ability to create IAM access keys.
+5. Require the use of IMDSv2.
+6. Deny ability to leave Organization.
+7. Deny ability to make a VPC accessible from the Internet that isn’t already for specific accounts.
+8. Deny ability to disrupt GuardDuty, Access Analyzer, CloudTrail, S3 Public Block Access, and other security services.
+9. Deny ability to disrupt CloudWatch Event collection or other aspects of your monitoring and alerting pipeline.
+10. Deny ability to modify important IAM roles, such as one used for Stack Sets, incident response, or vendors performing monitoring.
+
 ### References
 
 [AWS Security Maturity Roadmap by Scott Piper](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
