@@ -120,6 +120,12 @@ With more people working in an AWS environment, you can lose track of what resou
 1. Limit the blast radius of incidents.
 2. Practice responding to incidents.
 
+> Consider breaking up services into pieces so that if one is compromised the blast radius is more limited.
+
+> Ensure there is a separation of duties so the security team can monitor the production accounts without being able to cause incidents there, and those with production access, cannot impact the security team.
+
+> If you are lucky enough to not have any security incidents, you should practice what happens when systems or IAM roles are compromised, either via a planned exercise, or red team engagement. How long does it take you to identify, understand, and react? Use the lessons learned to improve
+
 ## References
 
 [AWS Security Maturity Roadmap by Scott Piper](https://summitroute.com/downloads/aws_security_maturity_roadmap-Summit_Route.pdf)
