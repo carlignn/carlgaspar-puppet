@@ -13,16 +13,23 @@ header_img: /img/home-bg.jpg
 
 ## AWS Security Maturity Roadmap
 
-1. Stage 1: Inventory
-2. Identify all AWS accounts in the company and their points of contact.
-3. Integrate AWS accounts into AWS Organizations.
-4. Ensure all account root emails are on distribution lists.
-5. Opt-out of AI services using your data.
-6. Have an AWS account for Security.
-7. Create budget alarms.
-8. References
+### Stage 1: Inventory
+
+1. Identify all AWS accounts in the company and their points of contact.
+2. Integrate AWS accounts into AWS Organizations.
+3. Ensure all account root emails are on distribution lists.
+4. Opt-out of AI services using your data.
+5. Have an AWS account for Security.
+6. Create budget alarms.
+7. References
 
 > If you don’t already have lots of AWS accounts, recognize that at this point you now have a minimum of 3 AWS accounts (an account that has your business stuff in it, the AWS Organization root account with nothing in it, and the Security account).
+
+### Stage 2: Have backups
+
+1. Create regular backups.
+
+> As you learn what data you have in AWS, you should ensure that data is backed up to a separate AWS account in a separate region from where the data comes from (or possibly even somewhere off of AWS)
 
 ## References
 
