@@ -96,7 +96,7 @@ The SCPs to apply should include:
 ### Stage 7: Reproducibility and ownership
 
 1. Use Infrastructure as Code.
-2. Control AMI and package sourcing.
+2. Control AMI (Amazon Machine Images) and package sourcing.
 3. Apply tagging strategy
 
 Once you control infrastructure changes through code, you can also use two-person rule deployments, where one person proposes the changes and another signs off in order for the change to be implemented. You can also use tools to scan these proposed changes before they are deployed. Options for doing this are described [here](https://blog.christophetd.fr/shifting-cloud-security-left-scanning-infrastructure-as-code-for-security-issues/).
