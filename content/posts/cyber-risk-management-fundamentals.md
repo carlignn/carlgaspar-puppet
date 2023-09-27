@@ -231,7 +231,11 @@ toc: true
   * May result in loss of some tangible assets or resources
   * May noticeably affect an organization’s mission, reputation, or interest
 
-###### Another Way to Think About Impact Ratings Quantitative and Functional Risk Appetite Statement![](</img//Another Way to Think About Impact Ratings Quantitative and Functional Risk.png>)Step 7: Risk Determination
+###### Another Way to Think About Impact Ratings Quantitative and Functional Risk Appetite Statement
+
+![](</img/Another Way to Think About Impact Ratings Quantitative and Functional Risk.png>)
+
+###### Step 7: Risk Determination
 
 * Input
   * Likelihood of threat exploitation
