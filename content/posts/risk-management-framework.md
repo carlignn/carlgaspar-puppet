@@ -20,7 +20,7 @@ tags:
 #### NIST SP 800-30: Risk Management
 
 * At a high level, risk management encompasses three processes.
-  * \> Evaluation and Assessment > [Risk Assessment](https://carlgaspar.com/posts/risk-management-framework/#step-1-system-characterization) > [Risk Mitigation](https://carlgaspar.com/posts/risk-management-framework/#risk-mitigation--steps-1-and-2) >
+  * \> [Evaluation and Assessment](https://carlgaspar.com/posts/risk-management-framework/#evaluation-and-assessment) > [Risk Assessment](https://carlgaspar.com/posts/risk-management-framework/#step-1-system-characterization) > [Risk Mitigation](https://carlgaspar.com/posts/risk-management-framework/#risk-mitigation--steps-1-and-2) >
 
 #### Risk Assessment Steps Abstracted from SP 800-30
 
