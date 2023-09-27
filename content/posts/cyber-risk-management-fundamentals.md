@@ -102,6 +102,13 @@ IT Operations (Information Assurance, Network Security) + Security
 
 \= RESILIENCE
 
+##### Risk Management in a Nutshell
+
+* Identify assets, threats, and vulnerabilities
+* Determine “likely” threat scenarios
+* Create and implement an appropriate response to reduce exposure
+* Continually monitor, review, assess, evaluate, and update
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
