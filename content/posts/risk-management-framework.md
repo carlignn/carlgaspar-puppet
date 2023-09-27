@@ -4,6 +4,7 @@ subtitle: From My Write-up of FedVTE’s Fundamentals of Cyber Risk Management
 date: 2023-09-26T16:00:00.000Z
 toc: true
 tags:
+  - security
   - write-up
 ---
 
@@ -150,3 +151,14 @@ tags:
   * Vulnerabilities identified
   * Risks assessed
   * Recommended controls provided
+
+### -
+
+#### Risk Mitigation – Steps 1 and 2
+
+* Step 1: Prioritize Actions
+  *  Based on risk levels presented in the risk assessment report, implementation actions are prioritized.
+  * Top priority should be given to highest risk.
+* Step 2: Evaluate Recommended Control Options
+  * Feasibility (e.g., compatibility, user acceptance) and effectiveness (e.g., degree of protection and level of risk mitigation) of the recommended control options are analyzed.
+  * Objective is to select the most appropriate control option for minimizing risk.
