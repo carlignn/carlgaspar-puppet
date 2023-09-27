@@ -250,7 +250,18 @@ tags:
 
 ## Risk Management Framework
 
-![](</img//Risk Management Framework.png>)
+## ![](</img//Risk Management Framework.png>)OCTAVE ® (Operationally Critical Threat, Asset, and Vulnerability Evaluation)
+
+### OCTAVE
+
+* Risk-based strategic assessment
+* Operationally Critical Threat Asset and Vulnerability Evaluation
+* Self-directed
+  * Small internal teams draw on knowledge for analysis
+* Flexible
+  * Adaptable for the majority of operations and organizations
+* Focused on organizational risk
+  * Balance of organizational strategy, security practices, and technology
 
 ## References
 
