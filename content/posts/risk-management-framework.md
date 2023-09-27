@@ -333,6 +333,14 @@ description: >-
 * Step 4 – Identify Areas of Concern
   * Activity 1 - Identify areas of concern.
 
+#### OCTAVE Allegro – Steps 5 and 6
+
+* Step 5 – Identify Threat Scenarios
+  * Activity 1 - Identify additional threat scenarios not covered by areas of concern.
+  * Activity 2 - Identify information assets at risk for each of the generic threat scenarios identified for consideration.
+* Step 6 – Identify Risks
+  * Activity 1 - Determine how the threat scenarios recorded could impact your organization.
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
