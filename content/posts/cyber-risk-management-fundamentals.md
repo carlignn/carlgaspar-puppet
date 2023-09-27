@@ -24,6 +24,10 @@ toc: true
 
 ### Risk Management Overview
 
+* NIST SP 800-30
+  * Defines risk as “a measure of the extent to which an entity is threatened by a potential circumstance or event, and typically a function of: (i) the adverse impacts that would arise if the circumstance or event occurs; and (ii) the likelihood of occurrence”
+* At a high level, this is accomplished by balancing exposure to risks against cost of mitigation and implementing appropriate countermeasures/controls.
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
