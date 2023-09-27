@@ -220,6 +220,17 @@ tags:
   * Monitor risk
 * The risk management strategy makes explicit the specific assumptions, constraints, risk tolerances, and priorities/trade-offs used within organizations for making investment and operational decisions.
 
+#### NIST SP 800-39: Risk Monitoring
+
+* Provides organizations with the means to
+  * Verify compliance
+  * Determine the ongoing effectiveness of risk response measures
+  * Identify risk-impacting changes to organizational information systems and environments of operation
+* Analyzing monitoring results provides organizations the capability to
+  * Maintain awareness of the risk being incurred
+  * Highlight the need to revisit other steps in the risk management process
+  * Initiate process improvement activities as needed
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
