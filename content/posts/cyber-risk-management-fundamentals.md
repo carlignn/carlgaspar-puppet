@@ -185,6 +185,16 @@ toc: true
 * Output
   * List of current and planned controls
 
+##### Step 5: Likelihood Determination
+
+* Input
+  * Threat-source motivation
+  * Threat capacity
+  * Nature of vulnerability
+  * Current controls
+* Output
+  * Likelihood rating
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
