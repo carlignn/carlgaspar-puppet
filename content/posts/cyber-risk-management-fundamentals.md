@@ -44,6 +44,14 @@ toc: true
   * Business Impact Analysis (BIA)
   * Business Continuity Planning (BCP)
 
+##### The Risk Equation
+
+* Risk = Threat x (Likelihood x Vulnerability) x Impact
+
+##### Risk Assessment
+
+* A study of vulnerabilities, threats, likelihood, loss or impact, and theoretical effectiveness of security measures
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
