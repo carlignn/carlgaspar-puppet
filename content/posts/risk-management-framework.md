@@ -152,8 +152,6 @@ tags:
   * Risks assessed
   * Recommended controls provided
 
-### -
-
 #### Risk Mitigation – Steps 1 and 2
 
 * Step 1: Prioritize Actions
@@ -187,6 +185,15 @@ tags:
     * Target completion date for implementation
     * Maintenance requirements
 * Step 7: Implement Selected Control(s)
+
+#### Evaluation and Assessment
+
+* As business operations or technologies change, periodic reviews must be conducted to
+  * Analyze changes
+  * Account for new threats and vulnerabilities created by changes
+  * Determine effectiveness of existing controls
+* Continuous evaluation and assessment of risks is an important component of the risk management life cycle.
+* The result/status needs to be documented and reported to senior
 
 ## References
 
