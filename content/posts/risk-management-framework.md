@@ -187,3 +187,7 @@ tags:
     * Target completion date for implementation
     * Maintenance requirements
 * Step 7: Implement Selected Control(s)
+
+## References
+
+* [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
