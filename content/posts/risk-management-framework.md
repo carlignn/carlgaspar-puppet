@@ -21,6 +21,7 @@ tags:
 
 * At a high level, risk management encompasses three processes.
   * \> [Evaluation and Assessment](https://carlgaspar.com/posts/risk-management-framework/#evaluation-and-assessment) > [Risk Assessment](https://carlgaspar.com/posts/risk-management-framework/#step-1-system-characterization) > [Risk Mitigation](https://carlgaspar.com/posts/risk-management-framework/#risk-mitigation--steps-1-and-2) >
+  * ![](</img//NIST SP 800-30 Risk Management.png>)
 
 #### Risk Assessment Steps Abstracted from SP 800-30
 
