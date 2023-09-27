@@ -301,6 +301,28 @@ description: >-
   * Process 8: Develop Protection Strategy
     * Develop an organization-wide protection strategy to improve the organization’s security practices.
 
+### OCTAVE Allegro
+
+* Streamlined version of OCTAVE®
+
+#### OCTAVE Allegro – Step 1
+
+* Establish Risk Measurement Criteria
+  * Activity 1 - Define a qualitative set of measures (risk measurement criteria) to evaluate a risk’s effect on your organization’s mission and business objectives.
+  * Activity 2 Prioritize the impact areas from most important to least important.
+
+#### OCTAVE Allegro – Step 2
+
+* Develop an Information Asset Profile
+  * Activity 1 - Identify a collection of information assets on which an assessment might be performed.
+  * Activity 2 - Select those assets that are critical to accomplishing goals and achieving the organization’s mission, as well as those that are important because of such factors as regulatory compliance.
+  * Activity 3 - Gather information about your information asset that is necessary to begin the structured risk assessment process.
+  * Activity 4 - Document your rationale for selecting the critical information asset.
+  * Activity 5 - Record a description for the critical information asset.
+  * Activity 6 - Identify and document the owners of the critical information asset.
+  * Activity 7 - Determine the security requirements for confidentiality, integrity, and availability.
+  * Activity 8 - Identify the most important security requirement for the information asset.
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
