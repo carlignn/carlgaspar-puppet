@@ -65,6 +65,17 @@ toc: true
   * Risk = Threat x (Likelihood x Vulnerability) x Impact
 * Decide what to do about the risks.
 
+##### Types of Risk
+
+* Inherent Risk is the risk linked to a particular activity itself.
+  * Complex regulations
+  * Poor management
+* Control Risk comes from a failure of the controls to properly mitigate risk.
+  * Failure of firewall to block malicious traffic
+* Residual Risk is the combination of the inherent and the control risk; it is what remains after the controls have been applied to mitigate risk.
+  * Eliminating risk is not possible IF you have chosen to expose yourself to it.
+  * Residual risk must be accepted by management.
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
