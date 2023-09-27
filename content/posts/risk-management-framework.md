@@ -162,3 +162,28 @@ tags:
 * Step 2: Evaluate Recommended Control Options
   * Feasibility (e.g., compatibility, user acceptance) and effectiveness (e.g., degree of protection and level of risk mitigation) of the recommended control options are analyzed.
   * Objective is to select the most appropriate control option for minimizing risk.
+
+#### Risk Mitigation – Steps 3, 4, and 5
+
+* Step 3: Conduct Cost-Benefit Analysis
+  * If the cost of controls exceed the benefit, the organization may choose to accept the risk instead.
+  * Usually a trade-off between security and business operations.
+* Step 4: Select Controls
+  * On the basis of the results of the cost-benefit analysis, management determines the most cost-effective control(s) for reducing risk to the organization’s mission.
+* Step 5: Assign Responsibility
+  * Appropriate persons (in-house personnel or external contracting staff) who have the appropriate expertise and skill-sets to implement the selected controls are identified and responsibility is assigned.
+
+### Risk Mitigation – Steps 6 and 7
+
+* Step 6: Develop a Safeguard Implementation Plan
+  * The plan should, at a minimum, contain the following information.
+    * Risks (vulnerability/threat pairs) and associated risk levels (output from risk assessment report)
+    * Recommended controls (output from risk assessment report)
+    * Prioritized actions (with priority given to Very High and High risk)
+    * Selected planned controls (determined on the basis of feasibility, effectiveness, benefits to the organization, and cost)
+    * Required resources for implementing the selected planned controls
+    * Lists of responsible teams and staff
+    * Start date for implementation
+    * Target completion date for implementation
+    * Maintenance requirements
+* Step 7: Implement Selected Control(s)
