@@ -167,6 +167,16 @@ toc: true
 * Output
   * Threat Statement
 
+##### Step 3: Vulnerability Identification
+
+* Input
+  * Reports from prior risk assessments
+  * Prior audits
+  * Security requirements
+  * Security test results
+* Output
+  * List of potential vulnerabilities
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
