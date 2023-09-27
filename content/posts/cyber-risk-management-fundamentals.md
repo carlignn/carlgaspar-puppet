@@ -76,6 +76,11 @@ toc: true
   * Eliminating risk is not possible IF you have chosen to expose yourself to it.
   * Residual risk must be accepted by management.
 
+##### Operational Resilience
+
+* Resilience: The physical property of a material when it can return to its original shape or position after deformation that does not exceed its elastic limit
+* Operational resilience: The emergent property of an organization that can continue to carry out its mission in the presence of operational stress and disruption that does not exceed its limit
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
