@@ -148,6 +148,21 @@ IT Operations (Information Assurance, Network Security) + Security
 * Step 8: Control Recommendations
 * Step 9: Results Documentation
 
+##### Step 1: System Characterization
+
+* Input
+  * Hardware
+  * Software
+  * System Interfaces
+  * Data and Information
+  * People
+  * System Mission
+* Output
+  * System Boundary
+  * System Functions
+  * System and Data Criticality
+  * System and Data Sensitivity
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
