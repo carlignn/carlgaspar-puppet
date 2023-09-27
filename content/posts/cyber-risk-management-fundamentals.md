@@ -150,7 +150,7 @@ toc: true
   * Hardware
   * Software
   * System Interfaces
-  * Data and Information
+  * Data and Information (Need to categorize how sensitive are these data)
   * People
   * System Mission
 * Output
@@ -158,6 +158,14 @@ toc: true
   * System Functions
   * System and Data Criticality
   * System and Data Sensitivity
+
+##### Step 2: Threat Identification
+
+* Input
+  * History of system attack
+  * Data from intelligence agencies, mass media, or gov CERT
+* Output
+  * Threat Statement
 
 ## References
 
