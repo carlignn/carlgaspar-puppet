@@ -93,14 +93,10 @@ toc: true
 #### Elements of Resilience …
 
 * You should focus on all three; do not ignore one for the others. (Venn Diagram)
-
-Security (Mostly Physical Security, Life & Limb) + Business Continuity
-
-Business Continuity (COOP, Redundancy, Back-ups) + IT Operations
-
-IT Operations (Information Assurance, Network Security) + Security 
-
-\= RESILIENCE
+  * Security (Mostly Physical Security, Life & Limb) + Business Continuity
+  * Business Continuity (COOP, Redundancy, Back-ups) + IT Operations
+  * IT Operations (Information Assurance, Network Security) + Security 
+  * \= RESILIENCE
 
 #### Risk Management in a Nutshell
 
