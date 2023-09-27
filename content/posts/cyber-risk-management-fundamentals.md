@@ -44,17 +44,17 @@ toc: true
   * Business Impact Analysis (BIA)
   * Business Continuity Planning (BCP)
 
-##### The Risk Equation
+#### The Risk Equation
 
 * Risk = Threat x (Likelihood x Vulnerability) x Impact
 
-##### Risk Assessment
+#### Risk Assessment
 
 * A study of vulnerabilities, threats, likelihood, loss or impact, and theoretical effectiveness of security measures
 
-##### Business Continuity
+#### Business Continuity
 
-##### Risk and Business Impact Analysis
+#### Risk and Business Impact Analysis
 
 * Know what is important to you.
   * What are your critical business functions?
@@ -65,7 +65,7 @@ toc: true
   * Risk = Threat x (Likelihood x Vulnerability) x Impact
 * Decide what to do about the risks.
 
-##### Types of Risk
+#### Types of Risk
 
 * Inherent Risk is the risk linked to a particular activity itself.
   * Complex regulations
@@ -76,12 +76,12 @@ toc: true
   * Eliminating risk is not possible IF you have chosen to expose yourself to it.
   * Residual risk must be accepted by management.
 
-##### Operational Resilience
+#### Operational Resilience
 
 * Resilience: The physical property of a material when it can return to its original shape or position after deformation that does not exceed its elastic limit
 * Operational resilience: The emergent property of an organization that can continue to carry out its mission in the presence of operational stress and disruption that does not exceed its limit
 
-##### Operational Resilience and Risk
+#### Operational Resilience and Risk
 
 * Operational resilience emerges from effective operational risk management.
 * Operational risk categories
@@ -90,7 +90,7 @@ toc: true
   * Failed internal processes
   * External events
 
-##### Elements of Resilience …
+#### Elements of Resilience …
 
 * You should focus on all three; do not ignore one for the others. (Venn Diagram)
 
@@ -102,14 +102,14 @@ IT Operations (Information Assurance, Network Security) + Security
 
 \= RESILIENCE
 
-##### Risk Management in a Nutshell
+#### Risk Management in a Nutshell
 
 * Identify assets, threats, and vulnerabilities
 * Determine “likely” threat scenarios
 * Create and implement an appropriate response to reduce exposure
 * Continually monitor, review, assess, evaluate, and update
 
-##### Outcomes of Risk Management
+#### Outcomes of Risk Management
 
 * An understanding of
   * The organization’s threat, vulnerability and risk profile
@@ -131,7 +131,7 @@ IT Operations (Information Assurance, Network Security) + Security
   * Contains the definitions and the practical guidance for assessing and mitigating risks
   * Provides information on the selection of cost-effective security controls
 
-##### NIST SP 800-30: Risk Management
+#### NIST SP 800-30: Risk Management
 
 * At a high level, risk management encompasses three processes.
   *  \> Evaluation and Assessment > Risk Assessment > Risk Mitigation >
