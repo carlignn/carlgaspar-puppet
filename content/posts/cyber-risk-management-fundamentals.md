@@ -4,7 +4,22 @@ subtitle: Write-up from FedVTE’s Fundamentals of Cyber Risk Management
 date: 2023-09-26T16:00:00.000Z
 ---
 
-ff
+## Fundamentals of Cyber Risk Management
+
+### Fundamentals of Cyber Risk Management Course Introduction
+
+#### Course Agenda
+
+* Risk Management Overview
+* Risk Management Frameworks
+* Critical Assets and Operations
+* Threats and Vulnerabilities
+* Risk Analysis and Mitigation
+* Security Controls
+* Mitigation Strategy Maintenance
+* Response and Recovery
+
+### Risk Management Overview
 
 ## References
 
