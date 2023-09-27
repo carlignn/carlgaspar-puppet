@@ -241,6 +241,15 @@ toc: true
   * Risks and risk levels
   * The final determination of risk is derived by multiplying the ratings assigned for threat likelihood (e.g., probability) and threat impact.
 
+##### Step 8: Control Recommendations
+
+* To minimize identified risks, consider the following factors when recommending control solutions
+  * Effectiveness of options
+  * Legal/regulatory
+  * Organizational policy
+  * Impact to operations
+  * Safety/reliability
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
