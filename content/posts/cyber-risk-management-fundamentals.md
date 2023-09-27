@@ -201,6 +201,22 @@ toc: true
 * Medium - The threat-source is motivated and capable, but controls are in place that may impede successful exercise of the vulnerability.
 * Low - The threat-source lacks motivation or capability, or controls are in place to prevent, or at least significantly impede, the vulnerability from being exercised.
 
+###### Another Way to Think About Likelihood Ratings Quantitative and Functional Risk Appetite Statement
+
+* Executive Attention - Risk is between 75 - 99% likely to occur. Alternatively, this risk has come to fruition within the industry within the past year.
+* Management Attention - Risk is between 30 - 74% likely to occur. Alternatively, this risk has come to fruition within the industry within the past two years.
+* Front Line Attention - This risk is between 1 - 29% likely to occur. Alternatively, the risk has come to fruition within the industry within the past 5 years.
+
+##### Step 6: Impact Analysis
+
+* Input
+  * Mission impact analysis
+  * Asset criticality assessment
+  * Data criticality
+  * Data sensitivity
+* Output
+  * Impact rating
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
