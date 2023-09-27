@@ -120,6 +120,22 @@ IT Operations (Information Assurance, Network Security) + Security
 * Organizational acceptance/deference based on an understanding of potential consequences of residual risk
 * Integration as “business as usual”
 
+## Risk Management Framework
+
+### Standards for Risk Management
+
+#### NIST SP 800-30
+
+* Risk Management Guide for Information Technology Systems
+  * Provides a foundation for the development of an effective risk management program
+  * Contains the definitions and the practical guidance for assessing and mitigating risks
+  * Provides information on the selection of cost-effective security controls
+
+##### NIST SP 800-30: Risk Management
+
+* At a high level, risk management encompasses three processes.
+  *  \> Evaluation and Assessment > Risk Assessment > Risk Mitigation >
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
