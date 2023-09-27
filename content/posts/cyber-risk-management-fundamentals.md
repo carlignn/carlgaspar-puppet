@@ -3,6 +3,7 @@ title: Cyber Risk Management Fundamentals
 subtitle: Write-up from FedVTE’s Fundamentals of Cyber Risk Management
 date: 2023-09-26T16:00:00.000Z
 tags:
+  - security
   - write-up
 toc: true
 ---
@@ -115,6 +116,8 @@ toc: true
 * A risk mitigation strategy sufficient to achieve an acceptable level of residual risk
 * Organizational acceptance/deference based on an understanding of potential consequences of residual risk
 * Integration as “business as usual”
+
+Next up: **[Risk Management Framework](https://carlgaspar.com/posts/risk-management-framework/)**
 
 ## References
 
