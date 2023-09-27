@@ -81,6 +81,27 @@ toc: true
 * Resilience: The physical property of a material when it can return to its original shape or position after deformation that does not exceed its elastic limit
 * Operational resilience: The emergent property of an organization that can continue to carry out its mission in the presence of operational stress and disruption that does not exceed its limit
 
+##### Operational Resilience and Risk
+
+* Operational resilience emerges from effective operational risk management.
+* Operational risk categories
+  * Actions of people
+  * Systems and technology failures
+  * Failed internal processes
+  * External events
+
+##### Elements of Resilience …
+
+* You should focus on all three; do not ignore one for the others. (Venn Diagram)
+
+Security (Mostly Physical Security, Life & Limb) + Business Continuity
+
+Business Continuity (COOP, Redundancy, Back-ups) + IT Operations
+
+IT Operations (Information Assurance, Network Security) + Security 
+
+\= RESILIENCE
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
