@@ -323,6 +323,16 @@ description: >-
   * Activity 7 - Determine the security requirements for confidentiality, integrity, and availability.
   * Activity 8 - Identify the most important security requirement for the information asset.
 
+#### OCTAVE Allegro – Steps 3 and 4
+
+* Step 3 – Identify Information Asset Containers
+  * Activity 1 - Identify and document the containers in which your information asset is stored, transported, or processed as follows
+    * Technical containers under the direct control of the organization (internal) or those managed outside of the organization (external)
+    * Physical locations where the information asset may exist either inside or outside of the organization
+    * People internal or external to the organization who may have a detailed knowledge of the information asset
+* Step 4 – Identify Areas of Concern
+  * Activity 1 - Identify areas of concern.
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
