@@ -276,16 +276,30 @@ description: >-
 #### OCTAVE − Phase 1
 
 * Build Asset-Based Threat Profiles
-  1. Process 1: Identify Senior Management Knowledge
-     * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from a representative set of senior managers.
-  2. Process 2: Identify Operational Area Knowledge
-     * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from managers of selected operational areas.
-  3. Process 3: Identify Staff Knowledge
-     * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from general staff and IT staff members of the selected operational areas.
-  4. Process 4: Create Threat Profiles
-     * Select three to five critical information-related assets and define the threat profiles for those assets.
+  * Process 1: Identify Senior Management Knowledge
+    * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from a representative set of senior managers.
+  * Process 2: Identify Operational Area Knowledge
+    * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from managers of selected operational areas.
+  * Process 3: Identify Staff Knowledge
+    * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from general staff and IT staff members of the selected operational areas.
+  * Process 4: Create Threat Profiles
+    * Select three to five critical information-related assets and define the threat profiles for those assets.
 
+#### OCTAVE − Phase 2
 
+* Identify Infrastructure Vulnerabilities
+  * Process 5: Identify Key Components
+    * Identify a representative set of key components from the systems that support or process the critical information-related assets, and define an approach for evaluating them.
+  * Process 6: Evaluate Selected Components
+    * Run tools to evaluate the selected components, and analyze the results to refine the threat profiles for the critical assets.
+
+#### OCTAVE − Phase 3
+
+* Develop Security Strategy and Plans
+  * Process 7: Conduct Risk Analysis
+    * Define an organizational set of impact evaluation criteria to establish the impact value.
+  * Process 8: Develop Protection Strategy
+    * Develop an organization-wide protection strategy to improve the organization’s security practices.
 
 ## References
 
