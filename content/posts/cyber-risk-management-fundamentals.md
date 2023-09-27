@@ -231,6 +231,8 @@ toc: true
   * May result in loss of some tangible assets or resources
   * May noticeably affect an organization’s mission, reputation, or interest
 
+###### Another Way to Think About Impact Ratings Quantitative and Functional Risk Appetite Statement![](</img//Another Way to Think About Impact Ratings Quantitative and Functional Risk.png>)
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
