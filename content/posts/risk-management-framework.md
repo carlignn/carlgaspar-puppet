@@ -263,6 +263,13 @@ tags:
 * Focused on organizational risk
   * Balance of organizational strategy, security practices, and technology
 
+#### OCTAVE – Overview
+
+* Three Phases
+  1. Build Asset-Based Threat Profiles - For critical assets, what are the threats?
+  2. Identify Infrastructure Vulnerabilities - For the assets, evaluate to find vulnerabilities.
+  3. Develop Security Strategy and Plans - Risk analysis and mitigation
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
