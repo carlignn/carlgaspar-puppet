@@ -254,6 +254,14 @@ toc: true
   * Impact to operations
   * Safety/reliability
 
+##### Step 9: Results Documentation
+
+* Risk assessment reports may include
+  * Threat-sources
+  * Vulnerabilities identified
+  * Risks assessed
+  * Recommended controls provided
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
