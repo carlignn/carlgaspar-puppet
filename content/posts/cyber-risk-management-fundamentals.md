@@ -177,6 +177,14 @@ toc: true
 * Output
   * List of potential vulnerabilities
 
+##### Step 4: Control Analysis
+
+* Input
+  * Current controls
+  * Planned controls
+* Output
+  * List of current and planned controls
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
