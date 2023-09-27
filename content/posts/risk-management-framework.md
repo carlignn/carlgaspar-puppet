@@ -155,7 +155,7 @@ tags:
 #### Risk Mitigation – Steps 1 and 2
 
 * Step 1: Prioritize Actions
-  *  Based on risk levels presented in the risk assessment report, implementation actions are prioritized.
+  * Based on risk levels presented in the risk assessment report, implementation actions are prioritized.
   * Top priority should be given to highest risk.
 * Step 2: Evaluate Recommended Control Options
   * Feasibility (e.g., compatibility, user acceptance) and effectiveness (e.g., degree of protection and level of risk mitigation) of the recommended control options are analyzed.
@@ -194,6 +194,31 @@ tags:
   * Determine effectiveness of existing controls
 * Continuous evaluation and assessment of risks is an important component of the risk management life cycle.
 * The result/status needs to be documented and reported to senior
+
+### NIST SP 800-39
+
+* Managing Risk from Information Systems
+  * Provides guidelines for managing risk to organizational operations and assets
+  * Provides a structured yet flexible approach for managing risk
+  * A flagship document in the series of FISMA-related publications
+
+#### NIST SP 800-39: Tiers of Risk Management
+
+* Risk management can be viewed as a holistic activity fully integrated into every aspect of the organization.
+  1. The organization level
+  2. The mission and business process level
+  3. The information system level
+
+#### NIST SP 800-39: Process Applied
+
+#### ![](</img//NIST SP 800-39 Process Applied.png>)NIST SP 800-39: Risk Framing
+
+* Establishes the context and provides a common perspective on how organizations manage risk
+* Produces a risk management strategy that addresses how organizations intend to
+  * Assess risk
+  * Respond to risk, and
+  * Monitor risk
+* The risk management strategy makes explicit the specific assumptions, constraints, risk tolerances, and priorities/trade-offs used within organizations for making investment and operational decisions.
 
 ## References
 
