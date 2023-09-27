@@ -217,6 +217,20 @@ toc: true
 * Output
   * Impact rating
 
+###### Impact Rating Qualitative Ratings
+
+* High
+  * May result in high costly loss of major tangible assets or resources
+  * May significantly violate, harm, or impede an organization’s mission, reputation, or interest
+  * May result in human death or serious injury
+* Medium
+  * May result in costly loss of tangible assets or resources
+  * May violate, harm, or impede an organization’s mission, reputation, or interest
+  * May result in human injury
+* Low
+  * May result in loss of some tangible assets or resources
+  * May noticeably affect an organization’s mission, reputation, or interest
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
