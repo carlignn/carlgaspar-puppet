@@ -232,6 +232,25 @@ tags:
   * Highlight the need to revisit other steps in the risk management process
   * Initiate process improvement activities as needed
 
+#### NIST SP 800-39: Risk Response
+
+* When organizations experience a breach/compromise to their information systems or environments of operation requiring an immediate response to address the incident and reduce additional risk resulting from the event
+* The risk response step can receive inputs from the risk framing step.
+  * When the organization is required to deploy new safeguards and countermeasures in their information systems based on security requirements in new legislation or OMB policies
+  * Shapes the resource constraints associated with selecting an appropriate course of action
+* The risk response step can receive inputs from the risk monitoring step.
+
+### NIST SP 800-37
+
+* Guide for Applying the Risk Management Framework to Federal Information Systems: A Security Life Cycle Approach
+* Guidelines developed to ensure that
+  * Managing information system security risks is consistent with the organization’s objectives and overall risk strategy
+  * Information security requirements are integrated into the organization’s enterprise architecture and SDLC
+
+## Risk Management Framework
+
+![](</img//Risk Management Framework.png>)
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
