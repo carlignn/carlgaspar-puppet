@@ -231,7 +231,15 @@ toc: true
   * May result in loss of some tangible assets or resources
   * May noticeably affect an organization’s mission, reputation, or interest
 
-###### Another Way to Think About Impact Ratings Quantitative and Functional Risk Appetite Statement![](</img//Another Way to Think About Impact Ratings Quantitative and Functional Risk.png>)
+###### Another Way to Think About Impact Ratings Quantitative and Functional Risk Appetite Statement![](</img//Another Way to Think About Impact Ratings Quantitative and Functional Risk.png>)Step 7: Risk Determination
+
+* Input
+  * Likelihood of threat exploitation
+  * Magnitude of impact
+  * Adequacy of planned or current controls
+* Output
+  * Risks and risk levels
+  * The final determination of risk is derived by multiplying the ratings assigned for threat likelihood (e.g., probability) and threat impact.
 
 ## References
 
