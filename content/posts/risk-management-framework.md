@@ -341,6 +341,20 @@ description: >-
 * Step 6 – Identify Risks
   * Activity 1 - Determine how the threat scenarios recorded could impact your organization.
 
+#### OCTAVE Allegro – Steps 7 and 8
+
+* Step 7 – Analyze Risks
+  * Activity 1 - Evaluate the consequence relative to each of the impact areas and score as “high,” “medium,” or “low”.
+  * Activity 2 - Give impact score based on impact area ranking and impact value.
+* Step 8 – Select Mitigation Approach
+  * Activity 1 - Sort each of the risks identified by their risk score.
+  * Activity 2 - Assign a mitigation approach to each of the risks (mitigate, defer, accept, etc.).
+  * Activity 3 - Develop a mitigation strategy for all of the risk profiles determined to be mitigated.
+
+### Updating OCTAVE Allegro to OCTAVE FORTE
+
+![](</img//Updating OCTAVE Allegro to OCTAVE FORTE.png>)
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
