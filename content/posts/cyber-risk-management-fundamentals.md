@@ -109,6 +109,17 @@ IT Operations (Information Assurance, Network Security) + Security
 * Create and implement an appropriate response to reduce exposure
 * Continually monitor, review, assess, evaluate, and update
 
+##### Outcomes of Risk Management
+
+* An understanding of
+  * The organization’s threat, vulnerability and risk profile
+  * Risk exposure
+  * Potential consequences of compromise
+    * Awareness of risk management priorities based on potential consequences
+* A risk mitigation strategy sufficient to achieve an acceptable level of residual risk
+* Organizational acceptance/deference based on an understanding of potential consequences of residual risk
+* Integration as “business as usual”
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
