@@ -136,6 +136,18 @@ IT Operations (Information Assurance, Network Security) + Security
 * At a high level, risk management encompasses three processes.
   *  \> Evaluation and Assessment > Risk Assessment > Risk Mitigation >
 
+#### Risk Assessment Steps Abstracted from SP 800-30
+
+* Step 1: System Characterization
+* Step 2: Threat Identification
+* Step 3: Vulnerability Identification
+* Step 4: Control Analysis
+* Step 5: Likelihood Determination
+* Step 6: Impact Analysis
+* Step 7: Risk Determination
+* Step 8: Control Recommendations
+* Step 9: Results Documentation
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
