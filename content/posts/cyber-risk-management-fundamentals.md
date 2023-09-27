@@ -52,6 +52,19 @@ toc: true
 
 * A study of vulnerabilities, threats, likelihood, loss or impact, and theoretical effectiveness of security measures
 
+##### Business Continuity
+
+##### Risk and Business Impact Analysis
+
+* Know what is important to you.
+  * What are your critical business functions?
+* Know what threats you have.
+* Know your vulnerabilities and the likelihood they get exploited.
+* Know the impact to your business if the threat occurred.
+* Analyze your risks.
+  * Risk = Threat x (Likelihood x Vulnerability) x Impact
+* Decide what to do about the risks.
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
