@@ -270,6 +270,20 @@ tags:
   2. Identify Infrastructure Vulnerabilities - For the assets, evaluate to find vulnerabilities.
   3. Develop Security Strategy and Plans - Risk analysis and mitigation
 
+#### OCTAVE − Phase 1
+
+* Build Asset-Based Threat Profiles
+  1. Process 1: Identify Senior Management Knowledge
+     * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from a representative set of senior managers.
+  2. Process 2: Identify Operational Area Knowledge
+     * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from managers of selected operational areas.
+  3. Process 3: Identify Staff Knowledge
+     * Collect information about important assets, security requirements, threats, and current organizational strengths and vulnerabilities from general staff and IT staff members of the selected operational areas.
+  4. Process 4: Create Threat Profiles
+     * Select three to five critical information-related assets and define the threat profiles for those assets.
+
+
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://carlgaspar.com/posts/cyber-risk-management-fundamentals/)
