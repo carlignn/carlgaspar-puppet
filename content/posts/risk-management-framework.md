@@ -20,7 +20,7 @@ tags:
 #### NIST SP 800-30: Risk Management
 
 * At a high level, risk management encompasses three processes.
-  * \> Evaluation and Assessment > Risk Assessment > Risk Mitigation >
+  * \> Evaluation and Assessment > [Risk Assessment](https://carlgaspar.com/posts/risk-management-framework/#step-1-system-characterization) > [Risk Mitigation](https://carlgaspar.com/posts/risk-management-framework/#risk-mitigation--steps-1-and-2) >
 
 #### Risk Assessment Steps Abstracted from SP 800-30
 
@@ -173,7 +173,7 @@ tags:
 * Step 5: Assign Responsibility
   * Appropriate persons (in-house personnel or external contracting staff) who have the appropriate expertise and skill-sets to implement the selected controls are identified and responsibility is assigned.
 
-### Risk Mitigation – Steps 6 and 7
+#### Risk Mitigation – Steps 6 and 7
 
 * Step 6: Develop a Safeguard Implementation Plan
   * The plan should, at a minimum, contain the following information.
