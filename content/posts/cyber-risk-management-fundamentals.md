@@ -195,6 +195,12 @@ toc: true
 * Output
   * Likelihood rating
 
+###### Likelihood Rating Qualitative Ratings
+
+* High - The threat-source is highly motivated and sufficiently capable, and controls to prevent the vulnerability from being exercised are ineffective.
+* Medium - The threat-source is motivated and capable, but controls are in place that may impede successful exercise of the vulnerability.
+* Low - The threat-source lacks motivation or capability, or controls are in place to prevent, or at least significantly impede, the vulnerability from being exercised.
+
 ## References
 
 * [Cyber Risk Management Fundamentals](https://www.reddit.com/r/cybersecurity/comments/15p7lgz/cyber_risk_management_fundamentals/)
