@@ -22,6 +22,16 @@ tags:
 * Good "Vibe": eye contact, facial expression, body language, and tone
 * Public speaking, storytelling, and persuasion
 
+## Interpersonal Skills
+
+* Listening well
+* Positive attitude
+* Friendly and courteous
+* Rapport, empathy, and humor
+* Assertive but not aggressive
+* Diplomatic when disagreeing
+* Giving and receiving criticism well
+
 ## References
 
 * What Are Soft Skills? Top 8
