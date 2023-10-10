@@ -61,7 +61,7 @@ tags:
 * Have good self-awareness
 * Respond well to uncertainty
 * Be open and trainable
-* Work well under deadlines and presssure
+* Work well under deadlines and pressure
 
 ## References
 
