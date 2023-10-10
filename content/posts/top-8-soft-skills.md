@@ -54,6 +54,15 @@ tags:
 * Make good, informed decisions
 * Prepare and take systematic and resourceful approach
 
+## Flexibility and Adaptability
+
+* Be open to change
+* Find new ways to do things
+* Have good self-awareness
+* Respond well to uncertainty
+* Be open and trainable
+* Work well under deadlines and presssure
+
 ## References
 
 * What Are Soft Skills? Top 8
