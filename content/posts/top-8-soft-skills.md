@@ -74,4 +74,4 @@ tags:
 
 ## References
 
-* What Are Soft Skills? Top 8
+* [What Are Soft Skills? Top 8](https://youtu.be/hZSARM4VaVs?feature=shared)
