@@ -63,6 +63,15 @@ tags:
 * Be open and trainable
 * Work well under deadlines and pressure
 
+## Conflict Management
+
+* Don't cause conflict
+* Don't create "drama"
+* Avoid a win-lose philosophy
+* Deal with conflict appropriately and productively
+* Look for common ground and helpful solutions
+* Use a win-win philosophy
+
 ## References
 
 * What Are Soft Skills? Top 8
