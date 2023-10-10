@@ -39,6 +39,20 @@ tags:
 * Show self-direction
 * Meet deadline, attendance, and time management expectations
 
+## Teamwork
+
+* Collaborate and cooperate
+* Connect well with members on the team and with other stakeholders
+* Take a team-based, collectivistic view
+* Contribute to discussions that are outside of personal area of expertise
+
+## Problem Solving
+
+* Find a way to move forward
+* Use critical thinking and logical reasoning
+* Make good, informed decisions
+* Prepare and take systematic and resourceful approach
+
 ## References
 
 * What Are Soft Skills? Top 8
