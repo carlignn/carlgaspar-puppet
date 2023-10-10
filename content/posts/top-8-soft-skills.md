@@ -32,6 +32,13 @@ tags:
 * Diplomatic when disagreeing
 * Giving and receiving criticism well
 
+## Work Ethic and Self-Motivation
+
+* Take responsibility
+* Take initiative
+* Show self-direction
+* Meet deadline, attendance, and time management expectations
+
 ## References
 
 * What Are Soft Skills? Top 8
