@@ -11,7 +11,7 @@ date: 2021-11-30T16:00:00.000Z
 
 Valorant is a free-to play 5 versus 5 FPS (first-person tactical hero shooter) game developed and published by Riot Games on 2020. Simply put, it's like CS:GO but with abilities.
 
-I played this game because I don't have anything to play at that time and the system requirements is pretty low and my computer can easily handle it. It is not my first FPS game but I can confidently say that it is the first FPS game that I seriously played.
+I played this game because I don't have anything to play at that time, the system requirements is pretty low, and my computer can easily handle it. It is not my first FPS game but I can confidently say that it is the first FPS game that I seriously played.
 
 ## Experience
 
