@@ -27,19 +27,19 @@ Here's the Valorant Ranks: (If you don't care about the game, move forward.)
 
 Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWITCH STREAMERS)
 
-* Iron 1-2 -  Pick Reyna, buy Odin, use ult, GG
-* Iron 3 - Started watching YouTube videos about how to play **THE GAME**
+* Iron 1-2 -  Pick Reyna, buy Odin, use ult, GG.
+* Iron 3 - Started watching YouTube videos about how to play **THE GAME**.
   * Played Aim Labs training
   * At this time, I understand that it is possible to tap people heads and not just body shot them
   * Got impatient and always getting tilted and got back to Odin
-* Bronze - Gold 1 - Went so fast (Yes, I reached Gold 1 with Odin)
+* Bronze - Gold 1 - Went so fast (Yes, I reached Gold 1 with Odin).
   * Hard-stuck at Gold 1, always getting 1 tapped by the enemy
   * Got back to my ass and started trying to hit heads with the Vandal
   * Started hitting heads but still stuck at Gold 1
   * Got back to YouTube and learn the mechanics, I found out that you need to also move to avoid the enemy bullets. Learned counter strafing and different kinds of peeking which is also part of the mechanics
-* Gold 3 - I don't know how did I get here but I'm having a hard time getting to Platinum
-  * Learned about the 3 most important things in the game, mechanics, game sense and communication. These things apply in real life as well.
-    * **Mechanics** - Understanding the mechanics of the game.
+* Gold 3 - I don't know how did I get here but I'm having a hard time getting to Platinum.
+  * Learned about the 3 most important things in the game, mechanics, game sense and communication. These things apply in real life as well
+    * **Mechanics** - Understanding the mechanics of the game
       * Easy - I shoot people - they die - we win
         * Plant the bomb - it explodes - we win
         * Enemy planted the bomb - I defuse it - we win
@@ -48,7 +48,7 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
         * Use flash - enemy blind - enemy can't shoot
       * Hard - Shoot them in the head - don't just shoot them anywhere - **shoot them in their head**
         * Move after or before shooting - enemy will find it hard to hit
-    * **Game Sense** - Now that I've understand the game mechanics it's now easier for me to deduce what's going on
+    * **Game Sense** - Now that I've understand the game mechanics it's now easier for me to deduce what's going on.
       * Easy - Enemy not in A - they're probably in B
         * Use abilities to figure out where the enemies are
       * Medium - There are 3 people in A - there's probably 2 people in B
@@ -64,7 +64,8 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
 * Platinum 3 - Hard stuck. I understand the game sense and communication properly, but always inconsistent with the mechanics. Always getting 1 tapped.
   * No cover, always picking the losing angle, always ending up in the middle of the field
   * You don't have to always make flashy plays
-* Diamond 1-Immortal - 
+* Diamond 1-Immortal - This is just a matter of time once I got the mechanics, game sense, and communication figured out.
+* Immortal-Radiant - Hitting the Radiant rank will require so much time and effort. I don't have those things so I gave up. I just want to prove to myself that I now understand the game.
 
 ## Takeaways
 
