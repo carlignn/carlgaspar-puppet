@@ -38,7 +38,7 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
   * Started hitting heads but still stuck at Gold 1
   * Got back to YouTube and learn the mechanics, I found out that you need to also move to avoid the enemy bullets. Learned counter strafing and different kinds of peeking which is also part of the mechanics
 * Gold 3 - I don't know how did I get here but I'm having a hard time getting to Platinum
-  * Learned about the 3 most important things in the game, **mechanics**, **game sense** and **communication**. These things apply in real life as well.
+  * Learned about the 3 most important things in the game, mechanics, game sense and communication. These things apply in real life as well.
   * **Mechanics** - Understanding the mechanics of the game.
     * Easy - I shoot people - they die - we win
       * Plant the bomb - it explodes - we win
