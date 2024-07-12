@@ -59,15 +59,14 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
       * Easy - Talk to team
       * Medium - Talk to team
       * Hard - Talk to team
-  * Watched Twitch streamers (especially sinatraa - clearing angles, zombs, noted - counter strafing)
+  * Watched Twitch streamers (specially [sinatraa](https://www.twitch.tv/sinatraa) - clearing angles, [zombs](https://www.twitch.tv/zombs) - different way to play the game, [noted](https://www.youtube.com/@noted) - counter strafing)
   * Learned double counter strafing, where I strafe, shoot; strafe, shoot; strafe, crouch, spray
-* Hard stuck plat 3, I understand the game sense and communication, but always getting inconsistent with the mechanics. Always getting 1 tapped.
+* Platinum 3 - Hard stuck. I understand the game sense and communication properly, but always inconsistent with the mechanics. Always getting 1 tapped.
+  * No cover, always picking the losing angle, always ending up in the middle of the field
+  * You don't have to always make flashy plays
+* Diamond 1-Immortal - 
 
-No cover, always picking the losing angle, always ending up in the middle of the field
-
-You don't have to always make flashy plays
-
-What I learned in this game
+## Takeaways
 
 The higher your rank is, the more toxic, prideful, and troll the most players are.
 
