@@ -1,11 +1,12 @@
 ---
 title: Being Part of the Top 1.1% - How Valorant Helped Me Think Critically
-subtitle: You're given multiple chances to solve a problem
+subtitle: (Draft) You're given multiple chances to solve a problem
 description: >-
   I can't believe it took me 3 years to post this. This post is just being
   posted and finalized in 2024, you know "procrastination".
 date: 2021-11-30T16:00:00.000Z
 tags:
+  - draft
   - game
 ---
 
@@ -67,7 +68,7 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
   * No cover, always picking the losing angle, always ending up in the middle of the field
   * You don't have to always make flashy plays
 * Diamond 1-Immortal - This is just a matter of time once I got the mechanics, game sense, and communication figured out.
-* Immortal-Radiant - Hitting the Radiant rank will require so much time and effort. I don't have those things so I gave up. I just want to prove to myself that I now understand the game.
+* Immortal-Radiant - Hitting the Radiant rank will require so much time and effort. I don't have those things so I gave up. I just want to prove to myself that I now finally understand the game.
 
 ## Takeaways
 
@@ -85,3 +86,4 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
     * Settings - EDPI 312, 2400 - 0.13, 2000 - 0.156, 800 - 0.39
 * Food I eat
 * Addiction
+* The progress made it easier because of solving the problem part
