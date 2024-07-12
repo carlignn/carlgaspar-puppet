@@ -21,9 +21,7 @@ I got hooked because of the satisfying head-shot sounds in-game.
 
 ### My Progress
 
-(If you don't care about the game, move forward.)
-
-Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWITCH STREAMERS)
+(If you don't care about the game, move forward.)![](</img/Valorant Ranks.png>)Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWITCH STREAMERS)
 
 * Iron 1-2 -  Pick Reyna, buy Odin, use ult, GG
 * Iron 3 - Started watching YouTube videos about how to play **THE GAME**
