@@ -1,7 +1,7 @@
 ---
 title: Being Part of the Top 1.1% - How Valorant Helped Me Think Critically
 subtitle: You're given multiple chances to solve a problem
-description: You're given multiple chances to solve a problem
+description: ''
 date: 2021-11-30T16:00:00.000Z
 ---
 
@@ -11,7 +11,7 @@ Valorant is a free-to play FPS (first-person tactical hero shooter) game develop
 
 I played this game because I don't have anything to play at that time and the system requirements is pretty low and my computer can easily handle it. It is not my first FPS game but I can confidently say that it is the first FPS game that I seriously played.
 
-Experience
+## Experience
 
 6 months from now, I started playing Valorant (June 2021), and today I reached Immortal 1. Now I'm part of the top 1.1% of players playing the game.
 
