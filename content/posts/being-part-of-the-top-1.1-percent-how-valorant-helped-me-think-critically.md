@@ -21,7 +21,7 @@ I got hooked because of the satisfying head-shot sounds in-game.
 
 ### My Progress
 
-Here's the Valorant Ranks: (If you don't care about the game, move forward.)
+Here are the Valorant Ranks: (If you don't care about the game, move forward.)
 
 ![](</img/Valorant Ranks.png>)
 
