@@ -1,7 +1,9 @@
 ---
 title: Being Part of the Top 1.1% - How Valorant Helped Me Think Critically
 subtitle: You're given multiple chances to solve a problem
-description: ''
+description: >-
+  I can't believe it took me 3 years to post this. This post is just being
+  posted and finalized in 2024, you know "procrastination".
 date: 2021-11-30T16:00:00.000Z
 ---
 
