@@ -35,9 +35,12 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
   * Got back to my ass and started trying to hit heads with the Vandal
   * Started hitting heads but still stuck at Gold 1
   * Got back to YouTube and learn the mechanics, I found out that you need to also move to avoid the enemy bullets. Learned counter strafing and different kinds of peeking which is also part of the mechanics
-* Gold 3 - Still having a hard time getting to plat
-
-Learned about the 3 most important things, mechanics, game sense and communication
+* Gold 3 - I don't know how did I get here but I'm having a hard time getting to Platinum
+  * Learned about the 3 most important things in the game, **mechanics**, **game sense** and **communication**. These things apply in real life as well.
+  * **Mechanics** - Understanding the mechanics of the game.
+    * Basics - You shoot people - they die - you win.
+      * Plant the bomb - it explodes - you win.
+      * Enemy planted the bomb -you defuse it - you win.
 
 Watched Twitch streamers(especially sinatraa - clearing angles, zombs, noted - counter strafing)
 
