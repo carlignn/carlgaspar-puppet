@@ -5,6 +5,8 @@ description: >-
   I can't believe it took me 3 years to post this. This post is just being
   posted and finalized in 2024, you know "procrastination".
 date: 2021-11-30T16:00:00.000Z
+tags:
+  - game
 ---
 
 ## Introduction
@@ -69,32 +71,17 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
 
 ## Takeaways
 
-The higher your rank is, the more toxic, prideful, and troll the most players are.
-
-Everything has its mechanics. When you know the mechanics you'll tilt less.
-
-I started playing csgo again and the mechanics is the same.
-
-When I developed my game sense, I learned how to critically think in real life.
-
-I started playing Dota 2 again and started owning.
-
-How Valorant helped me to think critically
-
-Mechanics also applies how to live your own life. The way I live my life now is very different because of playing this game. I learned that almost everything has it's own pattern. I'm now always trying to be conscious living my everyday life instead of living the ordinary repetitive unconscious everyday life. I have the sense of critical thinking,
-
-Settings
-
-edpi 312.0
-
-2400 - 0.13
-
-2000 - 0.156
-
-800 - 0.39
-
-Gears
-
-Monitor Primary
-
-Secondary
+* The higher your rank is, the more toxic, prideful, and troll the most players will be.
+* Everything in life has its mechanics.
+* When you know the mechanics you'll understand the game better.
+* When I developed my game sense, I learned how to critically think in real life. Apparently, game sense is just common sense applied in a game.
+* I started playing CS:GO again and the mechanics is the same.
+* I started playing DotA 2 again and started owning.
+* Mechanics also applies on how to live your own life. The way I live my life now is very different because of playing this game. I learned that almost everything has it's own pattern. I'm now always trying to be conscious living my everyday life instead of living the ordinary repetitive unconscious life. I've got the sense of critical thinking.
+* Gears matter, too:
+  * 140hz ASUS Monitor
+  * Anne Pro 2 Keyboard - Not really a ground breaking keyboard, it just feels premium, like something has changed.
+  * Logitech Mouse - How you hold a mouse and grip it matters as well, me personally uses fingertip grip.
+    * Settings - EDPI 312, 2400 - 0.13, 2000 - 0.156, 800 - 0.39
+* Food I eat
+* Addiction
