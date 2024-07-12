@@ -17,31 +17,25 @@ I played this game because I don't have anything to play at that time and the sy
 
 6 months from now, I started playing Valorant (June 2021), and today I reached Immortal 1. Now I'm part of the top 1.1% of players playing the game.
 
-I got hooked because of the satisfying headshot sounds in-game.
+I got hooked because of the satisfying head-shot sounds in-game.
+
+### My Progress
+
+(If you don't care about the game, move forward.)
 
 Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWITCH STREAMERS)
 
-Iron 1-2 -  Pick Reyna, buy Odin, use ult, GG
-
-Iron 3 - Started watching youtube videos about how to play THE GAME
-
-Played Aim Labs training
-
-At this time, I understand that it is possible to tap people heads and not just body shot them
-
-Got impatient and always tilted and started coming back to odin
-
-Bronze - Gold 1 - Went so fast(Yes, I reached g1 with odin)
-
-Hardstuck at Gold 1, always getting 1 tapped by the enemy
-
-Getback to my ass and started trying to hit heads with the Vandal
-
-Hitting heads but still stuck at gold 1
-
-Got back to youtube and learn the mechanics, just found out that you need to also move to avoid the enemy bullets. Learned counter strafing and different kinds of peeking which is also part of the mechanics
-
-Reached Gold 3 - Still having a hard time getting to plat
+* Iron 1-2 -  Pick Reyna, buy Odin, use ult, GG
+* Iron 3 - Started watching YouTube videos about how to play **THE GAME**
+  * Played Aim Labs training
+  * At this time, I understand that it is possible to tap people heads and not just body shot them
+  * Got impatient and always getting tilted and got back to Odin
+* Bronze - Gold 1 - Went so fast (Yes, I reached Gold 1 with Odin)
+  * Hard-stuck at Gold 1, always getting 1 tapped by the enemy
+  * Got back to my ass and started trying to hit heads with the Vandal
+  * Started hitting heads but still stuck at Gold 1
+  * Got back to YouTube and learn the mechanics, I found out that you need to also move to avoid the enemy bullets. Learned counter strafing and different kinds of peeking which is also part of the mechanics
+* Gold 3 - Still having a hard time getting to plat
 
 Learned about the 3 most important things, mechanics, game sense and communication
 
