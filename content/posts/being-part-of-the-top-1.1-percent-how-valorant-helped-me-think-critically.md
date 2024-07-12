@@ -9,7 +9,7 @@ date: 2021-11-30T16:00:00.000Z
 
 ## Introduction
 
-Valorant is a free-to play FPS (first-person tactical hero shooter) game developed and published by Riot Games on 2020. Simply put, it's like CS:GO but with abilities.
+Valorant is a free-to play 5 versus 5 FPS (first-person tactical hero shooter) game developed and published by Riot Games on 2020. Simply put, it's like CS:GO but with abilities.
 
 I played this game because I don't have anything to play at that time and the system requirements is pretty low and my computer can easily handle it. It is not my first FPS game but I can confidently say that it is the first FPS game that I seriously played.
 
@@ -38,9 +38,21 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
 * Gold 3 - I don't know how did I get here but I'm having a hard time getting to Platinum
   * Learned about the 3 most important things in the game, **mechanics**, **game sense** and **communication**. These things apply in real life as well.
   * **Mechanics** - Understanding the mechanics of the game.
-    * Basics - You shoot people - they die - you win.
-      * Plant the bomb - it explodes - you win.
-      * Enemy planted the bomb -you defuse it - you win.
+    * Easy - I shoot people - they die - we win
+      * Plant the bomb - it explodes - we win
+      * Enemy planted the bomb - I defuse it - we win
+    * Medium - Each character has their own skills - use it to make the easy mechanics easier to achieve
+      * Use smoke - enemy could be on the other side of the smoke - people won't cross
+      * Use flash - enemy blind - enemy can't shoot
+    * Hard - Shoot them in the head - I don't just shoot them anywhere - **shoot them in their head**
+      * Move after or before shooting - enemy will find it hard to hit me
+    * **Game Sense** - Now that I've understand the game mechanics it's now easier for me to deduce what's going on
+      * Easy - Enemy not in A - they're probably in B
+        * Use abilities to figure out where the enemies are
+      * Medium - There are 3 people in A - there's probably 2 people in B
+        * Enemy used all their smokes - they don't have smokes now
+      * Hard - We got B site but the 3 people in A hasn't helped them yet - they're probably in flank
+        * Abilities have cool downs - how long until the next ability
 
 Watched Twitch streamers(especially sinatraa - clearing angles, zombs, noted - counter strafing)
 
