@@ -48,13 +48,13 @@ Experience (PUT EXPERIENCE WITH TEAMMATES, PUT AGENTS USE ON EVERY MAP, ALSO TWI
       * Use flash - enemy blind - enemy can't shoot
     * Hard - Shoot them in the head - I don't just shoot them anywhere - **shoot them in their head**
       * Move after or before shooting - enemy will find it hard to hit me
-    * **Game Sense** - Now that I've understand the game mechanics it's now easier for me to deduce what's going on
-      * Easy - Enemy not in A - they're probably in B
-        * Use abilities to figure out where the enemies are
-      * Medium - There are 3 people in A - there's probably 2 people in B
-        * Enemy used all their smokes - they don't have smokes now
-      * Hard - We got B site but the 3 people in A hasn't helped them yet - they're probably in flank
-        * Abilities have cool downs - how long until the next ability
+  * **Game Sense** - Now that I've understand the game mechanics it's now easier for me to deduce what's going on
+    * Easy - Enemy not in A - they're probably in B
+      * Use abilities to figure out where the enemies are
+    * Medium - There are 3 people in A - there's probably 2 people in B
+      * Enemy used all their smokes - they don't have smokes now
+    * Hard - We got B site but the 3 people in A hasn't helped them yet - they're probably in flank
+      * Abilities have cool downs - how long until the next ability
 
 Watched Twitch streamers(especially sinatraa - clearing angles, zombs, noted - counter strafing)
 
