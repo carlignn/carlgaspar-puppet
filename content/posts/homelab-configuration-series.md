@@ -87,28 +87,24 @@ systemctl status isc-dhcp-server
 
 ### PC can't connect to router and server at the same time.
 
-Router is at `192.168.254.254/24` and the server is at `10.10.10.1/16` making both of them in a different network.\
-I've managed to change the configuration of the router to use `10.10.0.1/16`.
+* Router is at `192.168.254.254/24` and the server is at `10.10.10.1/16` making both of them in a different network.
+* I've managed to change the configuration of the router to use `10.10.0.1/16`.
 
 ### Proxmox cannot connect to the internet
 
-Added the DNS server using
+* Added the DNS server using
 
 ```shell
 nano / etc / resolv.conf
-```
 
-and adding the DNS servers
-
-```shell
 nameserver 1.1.1.1
 nameserver 8.8.8.8
 ```
 
-Don't forget to restart networking
+* Don't forget to restart networking
 
 ```shell
 systemctl restart networking
 ```
 
-Make sure that the gateway is the same as the router IP.
+* Make sure that the gateway is the same as the router IP.
