@@ -18,7 +18,8 @@ tags:
 
 ### IP Naming Convention
 
-* 10.location (starts with 10).VLAN number (starts with 10).0 /24
+* 10.location (10).VLAN (10).0 /24
+* Location and VLAN increases by 10.
 
 ## Proxmox Advanced Configuration
 
