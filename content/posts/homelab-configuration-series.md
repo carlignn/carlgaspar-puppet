@@ -27,6 +27,69 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-i
 
 Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
 
+When creating a VM make sure to check discard on the hard disk tab when using an SSD for better performance.
+
+### VLAN Documentation
+
+Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
+
+Assign VLAN to VMs - just tag with 10, 20, 30, etc.
+
+### DHCP Documentation
+
+Create VLANs in the Node > System > Network > Create > Linux VLAN
+
+Assign VLAN to VMs - just tag with 10, 20, 30, etc.
+
+Install the dhcp server (isc-dhcp-server)
+
+```shell
+apt update
+apt install isc-dhcp-server
+```
+
+Configure DHCP Server config file and add the following code
+
+```shell
+nano /etc/dhcp/dhcpd.conf
+
+subnet 10.10.10.0 netmask 255.255.255.0 {
+    range 10.10.10.2 10.10.10.254;
+    option routers 10.10.10.1;
+    option domain-name-servers 8.8.8.8, 8.8.4.4;
+}
+
+subnet 10.10.20.0 netmask 255.255.255.0 {
+    range 10.10.20.2 10.10.20.254;
+    option routers 10.10.20.1;
+    option domain-name-servers 8.8.8.8, 8.8.4.4;
+}
+```
+
+Bind DHCP to VLAN Interfaces, specify which interfaces the DHCP server should listen to. Edit the /etc/default/isc-dhcp-server file
+
+```shell
+nano /etc/default/isc-dhcp-server
+
+INTERFACESv4="vmbr0.10 vmbr0.20"
+INTERFACESv6=""
+```
+
+Enable and Start the DHCP Server
+
+```shell
+systemctl enable isc-dhcp-server
+systemctl start isc-dhcp-server
+```
+
+Restart if needed.
+
+Verify DHCP Configuration
+
+```shell
+systemctl status isc-dhcp-server
+```
+
 ## Roadblocks
 
 ### PC can't connect to router and server at the same time.
