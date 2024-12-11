@@ -35,16 +35,16 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-i
 
 ### DHCP Documentation
 
-1. Create VLANs in the Node > System > Network > Create > Linux VLAN
-2. Assign VLAN to VMs - just tag with 10, 20, 30, etc.
-3. Install the dhcp server (isc-dhcp-server)
+* Create VLANs in the Node > System > Network > Create > Linux VLAN
+* Assign VLAN to VMs - just tag with 10, 20, 30, etc.
+* Install the dhcp server (isc-dhcp-server)
 
 ```shell
 apt update
 apt install isc-dhcp-server
 ```
 
-Configure DHCP Server config file and add the following code
+* Configure DHCP Server config file and add the following code
 
 ```shell
 nano /etc/dhcp/dhcpd.conf
@@ -62,7 +62,7 @@ subnet 10.10.20.0 netmask 255.255.255.0 {
 }
 ```
 
-Bind DHCP to VLAN Interfaces, specify which interfaces the DHCP server should listen to. Edit the /etc/default/isc-dhcp-server file
+* Bind DHCP to VLAN Interfaces, specify which interfaces the DHCP server should listen to. Edit the /etc/default/isc-dhcp-server file
 
 ```shell
 nano /etc/default/isc-dhcp-server
@@ -71,16 +71,15 @@ INTERFACESv4="vmbr0.10 vmbr0.20"
 INTERFACESv6=""
 ```
 
-Enable and Start the DHCP Server
+* Enable and Start the DHCP Server
 
 ```shell
 systemctl enable isc-dhcp-server
 systemctl start isc-dhcp-server
 ```
 
-Restart if needed.
-
-Verify DHCP Configuration
+* Restart if needed using restart.
+* Verify DHCP Configuration
 
 ```shell
 systemctl status isc-dhcp-server
