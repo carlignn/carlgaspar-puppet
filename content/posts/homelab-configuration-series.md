@@ -9,13 +9,15 @@ tags:
   - security
 ---
 
-## Proxmox Configuration
+## Proxmox Basic Configuration
 
 IP `10.10.255.254`
 
-Gateway: `10.10.0.1` (Router IP)
+Gateway `10.10.0.1` (Router IP)
 
-DNS: `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
+DNS `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
+
+## Proxmox Advanced Configuration
 
 ## Roadblocks
 
@@ -26,23 +28,23 @@ I've managed to change the configuration of the router to use `10.10.0.1/16`.
 
 ### Proxmox cannot connect to the internet
 
-Added the DNS server using:
+Added the DNS server using
 
 ```shell
 nano / etc / resolv.conf
 ```
 
-and adding the servers
+and adding the DNS servers
 
 ```shell
 nameserver 1.1.1.1
 nameserver 8.8.8.8
 ```
 
-Don't forget to restart networking:
+Don't forget to restart networking
 
 ```shell
 systemctl restart networking
 ```
 
-Make sure that the gateway is the same as the router IP
+Make sure that the gateway is the same as the router IP.
