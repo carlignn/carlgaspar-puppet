@@ -1,9 +1,4 @@
 [[redirects]]
-  from = "/posts/johtomorrow/"
-  to = "https://forums.pokemmo.com/index.php?/topic/150498-heartgoldsoulsilver-coming-springish-2023/#comment-2019625"
-  force = true
-
-[[redirects]]
   from = "/posts/commands/"
   to = "https://streamelements.com/carlignn/commands"
   force = true
