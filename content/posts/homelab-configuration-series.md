@@ -11,11 +11,9 @@ tags:
 
 ## Proxmox Basic Configuration
 
-IP `10.10.255.254`
-
-Gateway `10.10.0.1` (Router IP)
-
-DNS `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
+* IP `10.10.255.254`
+* Gateway `10.10.0.1` (Router IP)
+* DNS `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
 
 ## Proxmox Advanced Configuration
 
@@ -30,8 +28,8 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-i
 
 ### VLAN Documentation
 
-1. Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
-2. Assign VLAN to VMs - just tag with 10, 20, 30, etc.
+* Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
+* Assign VLAN to VMs - just tag with 10, 20, 30, etc.
 
 ### DHCP Documentation
 
