@@ -19,29 +19,25 @@ DNS `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
 
 ## Proxmox Advanced Configuration
 
-[Helper scripts](https://tteck.github.io/Proxmox/) after installing Proxmox.
+* [Helper scripts](https://tteck.github.io/Proxmox/) after installing Proxmox.
 
 ```shell
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-install.sh)"
 ```
 
-Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
-
-When creating a VM make sure to check discard on the hard disk tab when using an SSD for better performance.
+* Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
+* When creating a VM make sure to check discard on the hard disk tab when using an SSD for better performance.
 
 ### VLAN Documentation
 
-Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
-
-Assign VLAN to VMs - just tag with 10, 20, 30, etc.
+1. Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
+2. Assign VLAN to VMs - just tag with 10, 20, 30, etc.
 
 ### DHCP Documentation
 
-Create VLANs in the Node > System > Network > Create > Linux VLAN
-
-Assign VLAN to VMs - just tag with 10, 20, 30, etc.
-
-Install the dhcp server (isc-dhcp-server)
+1. Create VLANs in the Node > System > Network > Create > Linux VLAN
+2. Assign VLAN to VMs - just tag with 10, 20, 30, etc.
+3. Install the dhcp server (isc-dhcp-server)
 
 ```shell
 apt update
