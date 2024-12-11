@@ -16,6 +16,10 @@ tags:
 * Gateway `10.10.0.1` (Router IP)
 * DNS `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
 
+### IP Naming Convention
+
+* 10.location (starts with 10).VLAN number (starts with 10).0/24
+
 ## Proxmox Advanced Configuration
 
 * [Helper scripts](https://tteck.github.io/Proxmox/) after installing Proxmox.
