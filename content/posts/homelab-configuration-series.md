@@ -19,7 +19,7 @@ tags:
 
 ### IP Naming Convention
 
-* 10.`L`.`V`.0 /24
+* 10.`Location`.`VLAN`.0 /24
 * `Location` and `VLAN` starts and increases by 10.
 
 ## Proxmox Advanced Configuration
