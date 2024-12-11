@@ -24,7 +24,6 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-i
 ```
 
 * Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
-* When creating a VM make sure to check discard on the hard disk tab when using an SSD for better performance.
 
 ### VLAN Documentation
 
@@ -81,6 +80,15 @@ systemctl start isc-dhcp-server
 
 ```shell
 systemctl status isc-dhcp-server
+```
+
+### VM Documentation
+
+* When creating a VM make sure to check discard on the hard disk tab when using SSD for better performance.
+* Install SSH to connect to the VM and navigate better
+
+```shell
+apt install openssh - server
 ```
 
 ## Roadblocks
