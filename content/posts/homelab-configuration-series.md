@@ -19,6 +19,8 @@ DNS `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
 
 ## Proxmox Advanced Configuration
 
+[Helper scripts](https://tteck.github.io/Proxmox/) after installing Proxmox 
+
 ## Roadblocks
 
 ### PC can't connect to router and server at the same time.
