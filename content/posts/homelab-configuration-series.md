@@ -77,7 +77,7 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-i
 
 * Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
 
-### VLAN Documentation
+### VLAN Documentation (VLAN and Routing Moved to OPNSense)
 
 * Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
 * Assign VLAN to VMs - just tag with 10, 20, 30, etc.
