@@ -172,6 +172,17 @@ sudo iptables -t nat -A POSTROUTING -s 192.168.20.0/24 -o eth0 -j MASQUERADE
 
 Get back to chatgpt with this prompt "Any way to do this via web interface?" [https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31](https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31)
 
+### Machine Tagging
+
+* Configure in Datacenter > Options > Tag Style Override
+  * Tree Shape: Full
+  * Ordering: Configuration
+* On the machine, add the tags on the top.
+
+#### Tagging Convention
+
+* \<PROD/DEV/TEST> \<OS>
+
 ## Roadblocks
 
 ### PC can't connect to router and server at the same time.
