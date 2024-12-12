@@ -45,8 +45,8 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 
 ### IP Naming Convention
 
-* 10.`Location`.`VLAN`.0 /24
-* `Location` and `VLAN` starts and increases by 10.
+* 10.**Location**.**VLAN**.0 /24
+* **Location **and **VLAN **starts and increases by 10.
 
 ### Server and Machine Naming Convention
 
