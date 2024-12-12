@@ -10,6 +10,12 @@ tags:
   - security
 ---
 
+## Something
+
+I started this homelab journey because I already exhausted my 1 TB external SSD. I looked for options and I found NAS as the best one. I've been trying to justify buying/creating a server for years, it will help with upskilling they (I) said, but that reason is just not enough. Cloud options are always available and some are also free. But now that I have a NAS requirement, I figured that relying in the cloud for storage will really be costly. That's why I'm here writing the documentation so that when I got lost midway, I have something I can get back to.
+
+I'm a software person, but I really enjoyed building the hardware on stream. Thank you all for the support and let's get to the documentation.
+
 ## Tech Specs
 
 ### Storage
