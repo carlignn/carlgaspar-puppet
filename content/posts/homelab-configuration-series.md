@@ -55,7 +55,7 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 Name the servers of their function. Add the OS as a tag afterwards.
 
 * HL1PROXMOX1 - First Proxmox instance
-* HL1WEBSERVER1 - First homelab webserver
+* HL1WEBSERVER1 - First homelab web server
 * HL1MEDIASERVER2 - Second media server
 
 #### Machines
