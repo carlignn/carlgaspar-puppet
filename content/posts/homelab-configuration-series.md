@@ -32,7 +32,7 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 * GPU - NVIDIA GTX 1050 TI
 * HBA - LSI 9208-8I
 * PSU - Seasonic Focus SGX 500 650 80+ Gold Full Modular
-* CPU FAN - Noctua NH-L9a-AM4
+* CPU FAN - 4 \* Noctua NH-L9a-AM4
 * Case - Sagittarius Chassis NAS 8 Discs
 * Case FANS - 4 \* Noctua NF-A12x15
 
@@ -47,6 +47,10 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 
 * 10.`Location`.`VLAN`.0 /24
 * `Location` and `VLAN` starts and increases by 10.
+
+### Machine Naming Convention
+
+* HL
 
 ## Proxmox Advanced Configuration
 
