@@ -14,18 +14,20 @@ tags:
 
 ### Storage
 
-* 2 \* 256 GB NVME - Proxmox setup in RAID 1 
-* 1 TB SSD - VM and other stuff
-* 4 \* 12 TB HDD - NAS
+* 2 \* 256 GB Kingston NVME - Proxmox setup in RAID 1 
+* 1 TB Samsung SSD - VM and other stuff
+* 4 \* 12 TB HGST WD Ultrastar DC HC520 HDD - NAS
 
 ### More
 
 * Motherboard - ASUS TUF B550M Motherboard
 * CPU - AMD Ryzen 5 3600
+* RAM - 4 \* 8 GB TEAMGROUP TForce DARK ZA
 * GPU - NVIDIA GTX 1050 TI
 * HBA - LSI 9208-8I
-* PSU - Seasonic Focus SGX 500 650 80+ Gold Full Modular 
+* PSU - Seasonic Focus SGX 500 650 80+ Gold Full Modular
 * CPU FAN - Noctua NH-L9a-AM4
+* Case - Sagittarius Chassis NAS 8 Discs
 * Case FANS - 4 \* Noctua NF-A12x15
 
 ## Proxmox Basic Configuration
