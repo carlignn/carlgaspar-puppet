@@ -20,8 +20,8 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 
 ### Storage
 
-* 2 \* 256 GB Kingston NVME - \*\*Proxmox \*\*setup in RAID 1
-* 1 TB Samsung SSD - \*\*VM \*\*and other stuff
+* 2 \* 256 GB Kingston NVME - **Proxmox** setup in RAID 1
+* 1 TB Samsung SSD - **VM** and other stuff
 * 4 \* 12 TB HGST WD Ultrastar DC HC520 HDD - **NAS**
 
 ### More
@@ -39,7 +39,7 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 ## Proxmox Basic Configuration
 
 * IP **10.10.0.2 /16**
-* Gateway \`10.10.0.1 /16\*\* (Router IP)
+* Gateway **10.10.0.1 /16** (Router IP)
 * DNS **1.1.1.3** and **1.0.0.3** (Cloudflare's DNS for Malware and Adult Content)
 * DNS **1.1.1.1** and **8.8.8.8** (Cloudflare and Google DNS if needed)
 
