@@ -124,6 +124,37 @@ systemctl status isc-dhcp-server
 apt install openssh - server
 ```
 
+### Unofficial NAT Documentation
+
+So that the VLANs can access the internet.
+
+* Create the VLANs and tag the VMs with VLAN tag
+* Set up IP Forwarding (NAT) - in Proxmox shell, edit the sysctl configuration file
+
+```shell
+sudo nano /etc/sysctl.conf
+```
+
+* Uncomment or add
+
+```shell
+net.ipv4.ip_forward=1
+```
+
+* Apply changes
+
+```shell
+sudo sysctl - p
+```
+
+* Configure NAT - this will allow Proxmox to route traffic from VLAN 20 to the internet via the main network interface. Replace eth0 with the external interface
+
+```shell
+sudo iptables -t nat -A POSTROUTING -s 192.168.20.0/24 -o eth0 -j MASQUERADE
+```
+
+Get back to chatgpt with this prompt "Any way to do this via web interface?" [https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31](https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31)
+
 ## Roadblocks
 
 ### PC can't connect to router and server at the same time.
