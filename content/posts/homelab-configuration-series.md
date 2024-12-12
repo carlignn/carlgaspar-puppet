@@ -22,7 +22,7 @@ tags:
 
 * Motherboard - ASUS TUF B550M Motherboard
 * CPU - AMD Ryzen 5 3600
-* RAM - 4 \* 8 GB TEAMGROUP TForce DARK ZA
+* RAM - 4 \* 8 GB TEAMGROUP TForce DARK ZA 3600Mhz DDR4
 * GPU - NVIDIA GTX 1050 TI
 * HBA - LSI 9208-8I
 * PSU - Seasonic Focus SGX 500 650 80+ Gold Full Modular
