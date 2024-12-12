@@ -48,9 +48,21 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 * 10.`Location`.`VLAN`.0 /24
 * `Location` and `VLAN` starts and increases by 10.
 
-### Machine Naming Convention
+### Server and Machine Naming Convention
 
-* HL
+#### Servers
+
+Name the servers of their function. Add the OS as a tag afterwards.
+
+* HL1PROXMOX1 - First Proxmox instance
+* HL1WEBSERVER1 - First homelab webserver
+* HL1MEDIASERVER2 - Second media server
+
+#### Machines
+
+Also starts with HL1 since I don't think I'm in an office to be using OF1.
+
+* HL1PC1 - First PC in the homelab
 
 ## Proxmox Advanced Configuration
 
