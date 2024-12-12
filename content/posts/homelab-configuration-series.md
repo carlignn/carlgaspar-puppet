@@ -77,6 +77,17 @@ bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-i
 
 * Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
 
+### OPNSense Documentation
+
+#### Creating VLANs
+
+* Go to Interfaces > Other Types > VLAN
+  * Add the **VLAN tag** and the **Description** as the name of the VLAN
+* Go to Assignments
+  * Add the VLANs to the Interfaces
+* Tag the VMs in Proxmox with the VLAN ID that was set in OPNSense
+* To practice routing, head over to Firewall > Rules
+
 ### VLAN Documentation (VLAN and Routing Moved to OPNSense)
 
 * Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
