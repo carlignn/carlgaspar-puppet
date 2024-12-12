@@ -20,33 +20,33 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 
 ### Storage
 
-* 2 \* 256 GB Kingston NVME - Proxmox setup in RAID 1 
-* 1 TB Samsung SSD - VM and other stuff
-* 4 \* 12 TB HGST WD Ultrastar DC HC520 HDD - NAS
+* 2 \* 256 GB Kingston NVME - \*\*Proxmox \*\*setup in RAID 1
+* 1 TB Samsung SSD - \*\*VM \*\*and other stuff
+* 4 \* 12 TB HGST WD Ultrastar DC HC520 HDD - **NAS**
 
 ### More
 
-* Motherboard - ASUS TUF B550M Motherboard
-* CPU - AMD Ryzen 5 3600
-* RAM - 4 \* 8 GB TEAMGROUP TForce DARK ZA 3600Mhz DDR4
-* GPU - NVIDIA GTX 1050 TI
-* HBA - LSI 9208-8I
-* PSU - Seasonic Focus SGX 500 650 80+ Gold Full Modular
-* CPU FAN - Noctua NH-L9a-AM4
-* Case - Sagittarius Chassis NAS 8 Discs
-* Case FANS - 4 \* Noctua NF-A12x15
+* **Motherboard** - ASUS TUF B550M Motherboard
+* **CPU** - AMD Ryzen 5 3600
+* **RAM** - 4 \* 8 GB TEAMGROUP TForce DARK ZA 3600Mhz DDR4
+* **GPU** - NVIDIA GTX 1050 TI
+* **HBA** - LSI 9208-8I
+* **PSU** - Seasonic Focus SGX 500 650 80+ Gold Full Modular
+* **CPU FAN** - Noctua NH-L9a-AM4
+* **Case** - Sagittarius Chassis NAS 8 Discs
+* **Case FANS** - 4 \* Noctua NF-A12x15
 
 ## Proxmox Basic Configuration
 
-* IP `10.10.0.2` /16
-* Gateway `10.10.0.1` /16 (Router IP)
-* DNS `1.1.1.3` and `1.0.0.3` (Cloudflare's DNS for Malware and Adult Content)
-* DNS `1.1.1.1` and `8.8.8.8` (Cloudflare and Google DNS if needed)
+* IP **10.10.0.2 /16**
+* Gateway \`10.10.0.1 /16\*\* (Router IP)
+* DNS **1.1.1.3** and **1.0.0.3** (Cloudflare's DNS for Malware and Adult Content)
+* DNS **1.1.1.1** and **8.8.8.8** (Cloudflare and Google DNS if needed)
 
 ### IP Naming Convention
 
 * 10.**Location**.**VLAN**.0 /24
-* **Location **and **VLAN **starts and increases by 10.
+* **Location** and **VLAN** starts and increases by 10.
 
 ### Server and Machine Naming Convention
 
@@ -54,21 +54,21 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 
 Name the servers of their function. Add the OS as a tag afterwards.
 
-* HL1PROXMOX1 - First Proxmox instance
-* HL1WEBSERVER1 - First homelab web server
-* HL1MEDIASERVER2 - Second media server
+* **HL1PROXMOX1** - First Proxmox instance
+* **HL1WEBSERVER1** - First homelab web server
+* **HL1MEDIASERVER2** - Second media server
 
 #### Machines
 
 Also starts with HL1 since I don't think I'm in an office to be using OF1.
 
-* HL1PC1 - First PC in the homelab
+* **HL1PC1** - First PC in the homelab
 
 ## Proxmox Advanced Configuration
 
 * [Helper scripts](https://tteck.github.io/Proxmox/) after installing Proxmox.
 
-bash -c "$(wget -qLO - https\://github.com/tteck/Proxmox/raw/main/misc/post-pve-install.sh)"
+`bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-install.sh)"`
 
 * Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
 
