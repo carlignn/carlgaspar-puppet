@@ -180,6 +180,7 @@ Get back to chatgpt with this prompt "Any way to do this via web interface?" [ht
   * Tree Shape: Full
   * Ordering: Configuration
 * On the machine, add the tags on the top.
+* [Guide](https://www.reddit.com/r/homelab/comments/14siou2/how_do_you_manage_your_ubuntu_vms/)
 
 #### Tagging Convention
 
