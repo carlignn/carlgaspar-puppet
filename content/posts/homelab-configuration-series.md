@@ -63,6 +63,9 @@ Name the servers of their function. Add the OS as a tag afterwards.
 Also starts with HL1 since I don't think I'm in an office to be using OF1.
 
 * **HL1PC1** - First PC in the homelab
+* **HL1LAPTOP1** - First laptop in the homelab
+* **HL1WS1** - First workstation in the homelab
+* **HL1VM1** - First virtual machine in the homelab
 
 ## Proxmox Advanced Configuration
 
