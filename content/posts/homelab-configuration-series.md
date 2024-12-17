@@ -97,6 +97,17 @@ OPNSense was setup to use the router-on-a-stick configuration.
 * Tag the VMs in Proxmox with the VLAN ID that was set in OPNSense
 * To practice routing, head over to Firewall > Rules
 
+### VLAN Segmentation
+
+* VLAN10 - MGMT
+* VLAN20 - DATA
+* VLAN30 - MEDIA
+* VLAN40 - IOT
+* VLAN50 - TEST
+* VLAN60 - USER
+* VLAN70 - SERVER
+* VLAN80 - DMZ
+
 ### VLAN Documentation (VLAN and Routing Moved to OPNSense)
 
 * Make the main bridge VLAN aware. The main bridge is usually named vmbr0.
