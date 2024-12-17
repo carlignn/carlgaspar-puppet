@@ -80,6 +80,8 @@ bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/m
 
 ### OPNSense Documentation
 
+OPNSense was setup to use the router-on-a-stick configuration.
+
 * IP: 10.10.10.2/16
 * Hostname: HL1OPNSENSE1
 * Domain: carlgaspar.local
