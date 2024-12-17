@@ -73,7 +73,7 @@ Also starts with HL1 since I don't think I'm in an office to be using OF1.
 * [Helper scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=post-pve-install) after installing Proxmox.
 
 ```shell
-bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-install.sh)"
+bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/misc/post-pve-install.sh)"
 ```
 
 * Create a Directory for storage ([guide](https://youtu.be/xD9Xyt2mdSI?si=vYLbN19b0KBlsnBC)).
