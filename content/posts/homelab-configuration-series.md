@@ -80,6 +80,8 @@ bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/m
 
 ### OPNSense Documentation
 
+* IP: 10.10.10.1/24
+
 #### Creating VLANs
 
 * Go to Interfaces > Other Types > VLAN
