@@ -93,8 +93,9 @@ OPNSense was setup to use the router-on-a-stick configuration.
 * Go to Interfaces > Other Types > VLAN
   * Add the **VLAN tag** and the **Description** as the name of the VLAN
 * Go to Assignments
-  * Add the VLANs to the Interfaces
+  * Assign the VLANs to the Interface
 * Tag the VMs in Proxmox with the VLAN ID that was set in OPNSense
+* Head to ISC DHCPv4 > VLAN to configure DHCP on the VLAN
 * To practice routing, head over to Firewall > Rules
 
 ### VLAN Segmentation
