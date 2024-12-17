@@ -70,7 +70,7 @@ Also starts with HL1 since I don't think I'm in an office to be using OF1.
 
 ## Proxmox Advanced Configuration
 
-* [Helper scripts](https://tteck.github.io/Proxmox/) after installing Proxmox.
+* [Helper scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=post-pve-install) after installing Proxmox.
 
 ```shell
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/post-pve-install.sh)"
