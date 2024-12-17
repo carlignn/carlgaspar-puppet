@@ -82,11 +82,11 @@ bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/m
 
 OPNSense was setup to use the router-on-a-stick configuration.
 
-* IP: 10.10.10.2/16
-* Hostname: HL1OPNSENSE1
-* Domain: carlgaspar.local
-* Primary DNS Server: 1.1.1.3
-* Secondary DNS Server: 1.0.0.3
+* **IP**: 10.10.10.2/16
+* **Hostname**: HL1OPNSENSE1
+* **Domain**: carlgaspar.local
+* **Primary DNS Server**: 1.1.1.3
+* **Secondary DNS Server**: 1.0.0.3
 
 #### Creating VLANs
 
