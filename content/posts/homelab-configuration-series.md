@@ -200,10 +200,10 @@ net.ipv4.ip_forward=1
 sudo sysctl -p
 ```
 
-* Configure NAT - this will allow Proxmox to route traffic from VLAN 20 to the internet via the main network interface. Replace eth0 with the external interface
+* Configure NAT - this will allow Proxmox to route traffic from VLAN 20 to the internet via the main network interface. Replace eth0 with the external interface. Use ip link show to show all interfaces. enp7s0
 
 ```shell
-sudo iptables -t nat -A POSTROUTING -s 10.10.10.0/24 -o eth0 -j MASQUERADE
+sudo iptables -t nat -A POSTROUTING -s 10.10.10.0/24 -o enp7s0 -j MASQUERADE
 ```
 
 To ensure the iptables rules persist after reboot, install iptables-persistent:
