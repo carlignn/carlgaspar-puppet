@@ -87,6 +87,8 @@ OPNSense was setup to use the router-on-a-stick configuration.
 * **Domain**: carlgaspar.local
 * **Primary DNS Server**: 1.1.1.3
 * **Secondary DNS Server**: 1.0.0.3
+* LAN: 10.10.0.3/16
+* WAN: 10.10.0.5/30: WAN is used so that OPNSense can connect to the router
 
 #### Creating VLANs
 
@@ -195,7 +197,7 @@ net.ipv4.ip_forward=1
 * Apply changes
 
 ```shell
-sudo sysctl - p
+sudo sysctl -p
 ```
 
 * Configure NAT - this will allow Proxmox to route traffic from VLAN 20 to the internet via the main network interface. Replace eth0 with the external interface
