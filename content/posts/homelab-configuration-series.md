@@ -206,6 +206,10 @@ sudo sysctl -p
 sudo iptables -t nat -A POSTROUTING -s 10.10.10.0/24 -o eth0 -j MASQUERADE
 ```
 
+To ensure the iptables rules persist after reboot, install iptables-persistent:
+
+sudo apt install iptables-persistent
+
 Get back to chatgpt with this prompt "Any way to do this via web interface?" [https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31](https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31)
 
 ### Machine Tagging
