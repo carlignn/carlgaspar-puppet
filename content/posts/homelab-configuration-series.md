@@ -212,6 +212,10 @@ sudo apt install iptables-persistent
 
 Get back to chatgpt with this prompt "Any way to do this via web interface?" [https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31](https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31)
 
+### From Templates, this is How to Change the Hostname
+
+[https://linuxize.com/post/how-to-change-hostname-on-ubuntu-22-04/](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-22-04/)
+
 ### Machine Tagging
 
 * Configure in Datacenter > Options > Tag Style Override
