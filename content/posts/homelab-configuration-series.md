@@ -227,6 +227,10 @@ Get back to chatgpt with this prompt "Any way to do this via web interface?" [ht
 
 * \<PROD/DEV/TEST> \<OS>
 
+### Local DNS
+
+Local DNS is the server that translates IP addresses to domain names. It is also just another client at the network that is being query every time someone requests for it.
+
 ## Roadblocks
 
 ### PC can't connect to router and server at the same time.
