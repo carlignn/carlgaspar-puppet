@@ -231,6 +231,14 @@ Get back to chatgpt with this prompt "Any way to do this via web interface?" [ht
 
 Local DNS is the server that translates IP addresses to domain names. It is also just another client at the network that is being query every time someone requests for it.
 
+### GPU Passthrough
+
+Guide - [https://www.youtube.com/watch?v=TWX3iWcka\_0](https://www.youtube.com/watch?v=TWX3iWcka_0\&list=TLPQMjIxMjIwMjTwDjRhQDA6mg\&index=3)
+
+Go to Datacenter > Resource Mappings > Add the GPU group
+
+On the VM of your choice, go to Hardware > Add PCI Device > Raw Device > Add the GPU group > Tick All Functions > Tick Primary GPU if needed
+
 ## Roadblocks
 
 ### PC can't connect to router and server at the same time.
