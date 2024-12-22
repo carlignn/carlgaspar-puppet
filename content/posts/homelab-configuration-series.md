@@ -239,6 +239,10 @@ Go to Datacenter > Resource Mappings > Add the GPU group
 
 On the VM of your choice, go to Hardware > Add PCI Device > Raw Device > Add the GPU group > Tick All Functions > Tick Primary GPU if needed
 
+#### Mouse and Keyboard Passthrough
+
+In the VM, go to Hardware > Add USB Device > Use USB Port > Tick the USB Device you want to add
+
 ## Roadblocks
 
 ### PC can't connect to router and server at the same time.
