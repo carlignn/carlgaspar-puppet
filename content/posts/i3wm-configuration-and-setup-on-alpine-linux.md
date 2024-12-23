@@ -8,4 +8,12 @@ tags:
   - homelab
 ---
 
-We're deep deep deep
+On Alpine download page, you can choose the **Standard** or the **VM** version. I used the **VM** version in this setup since I will be installing it in Proxmox. Standard will work, too. I am really not sure what is the difference, aside from the slimmed down kernel as stated in their [WEBSITE](https://alpinelinux.org/downloads/).
+
+Once installed login using:
+
+```shell
+root
+```
+
+ffff
