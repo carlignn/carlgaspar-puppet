@@ -39,7 +39,7 @@ This would ...
 You can now add the apps that you need. For starters:
 
 ```shell
-apk add i3wm i3status sakura xrandr feh dbys chromium font-dejavu thunar picom
+apk add i3wm i3status alacritty xrandr feh dbus chromium font-dejavu thunar picom
 ```
 
 Enable dbus:
