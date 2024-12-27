@@ -39,14 +39,27 @@ This would ...
 You can now add the apps that you need. For starters:
 
 ```shell
-apk add i3wm i3status alacritty xrandr feh dbus chromium font-dejavu thunar picom
+apk add i3wm i3status alacritty xrandr feh dbus firefox font-dejavu thunar picom
 ```
+
+* i3wm:
+* i3status:
+* alacritty:
+* xrandr:
+* feh:
+* dbus:
+* firefox:
+* font-dejavu: to have a font in i3wm. The configuration will not work without this.
+* thunar: XFCE based file manager
+* picom:
 
 Enable dbus:
 
 ```shell
 rc-update add dbus
 ```
+
+* dbus: is
 
 Guide I'm following - \
 [https://www.youtube.com/watch?v=BRBuH-1dM3g](https://www.youtube.com/watch?v=BRBuH-1dM3g)\
