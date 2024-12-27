@@ -48,4 +48,4 @@ Enable dbus:
 rc-update add dbus
 ```
 
-I added dmenu as well.
+I added dmenu, i3lock as well.
