@@ -60,9 +60,14 @@ rc-update add dbus
 ```
 
 Guide I'm following - \
-[https://www.youtube.com/watch?v=BRBuH-1dM3g](https://www.youtube.com/watch?v=BRBuH-1dM3g)\
-[https://www.youtube.com/watch?v=j1I63wGcvU4](https://www.youtube.com/watch?v=j1I63wGcvU4\&list=PL0rXAycsylvXxyPDT5kGQ5MiHcqrZWv69\&index=1)
+
 
 I added dmenu, i3lock, arandr as well.
 
 * arandr: is the GUI version of xrandr
+
+## Reference
+
+* Alpine Linux: Installation and Setup Guide for i3wm - [https://www.youtube.com/watch?v=BRBuH-1dM3g](https://www.youtube.com/watch?v=BRBuH-1dM3g)
+* i3wm: Jump Start (1/3) - [https://www.youtube.com/watch?v=j1I63wGcvU4](https://www.youtube.com/watch?v=j1I63wGcvU4\&list=PL0rXAycsylvXxyPDT5kGQ5MiHcqrZWv69\&index=1)
+* How to change IP in Alpine Linux - [https://wiki.alpinelinux.org/wiki/Configure\_Networking](https://wiki.alpinelinux.org/wiki/Configure_Networking)
