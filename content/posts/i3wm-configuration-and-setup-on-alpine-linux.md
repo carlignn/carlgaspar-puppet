@@ -8,6 +8,8 @@ tags:
   - homelab
 ---
 
+I was looking for a lightweight operating system to host my dashboard and a few static movies/videos that I can play in the background and I landed on..
+
 ## Alpine
 
 On Alpine download page, you can choose the **Standard** or the **VM** version. I used the **VM** version in this setup since I will be installing it in Proxmox. Standard will work, too. I am really not sure what is the difference, aside from the slimmed down kernel as stated in their [WEBSITE](https://alpinelinux.org/downloads/).
