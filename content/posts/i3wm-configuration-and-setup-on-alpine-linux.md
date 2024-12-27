@@ -34,7 +34,7 @@ For basics, start with:
 setup-xorg-base
 ```
 
-This would ...
+This is a convenient script that sets up the basic components required to run the X Window System (X11) on Alpine Linux
 
 You can now add the apps that you need. For starters:
 
@@ -42,16 +42,16 @@ You can now add the apps that you need. For starters:
 apk add i3wm i3status alacritty xrandr feh dbus firefox font-dejavu thunar picom
 ```
 
-* i3wm: the tiling window manager
-* i3status: status bar generator for i3wm
-* alacritty: cross-platform, GPU-accelerated terminal emulator
-* xrandr: tool for managing screen resolutions, rotation, and multi-monitor setups on X11
-* feh: tool for managing wallpapers
-* dbus: message bus system for communication between applications and the system
-* firefox: browser
-* font-dejavu: commong font. The configuration will not work without this.
-* thunar: XFCE based file manager
-* picom: lightweight compositor for transparency, shadows, and VSync on X11
+* **i3wm**: the tiling window manager
+* **i3status**: status bar generator for i3wm
+* **alacritty**: cross-platform, GPU-accelerated terminal emulator
+* **xrandr**: tool for managing screen resolutions, rotation, and multi-monitor setups on X11
+* **feh**: tool for managing wallpapers
+* **dbus**: message bus system for communication between applications and the system
+* **firefox**: browser
+* **font-dejavu**: commong font. The configuration will not work without this.
+* **thunar**: XFCE based file manager
+* **picom**: lightweight compositor for transparency, shadows, and VSync on X11
 
 Enable dbus:
 
