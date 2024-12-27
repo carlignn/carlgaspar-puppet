@@ -50,6 +50,6 @@ rc-update add dbus
 
 Guide I'm following - \
 [https://www.youtube.com/watch?v=BRBuH-1dM3g](https://www.youtube.com/watch?v=BRBuH-1dM3g)\
-[https://www.youtube.com/watch?v=j1I63wGcvU4\&list=PL0rXAycsylvXxyPDT5kGQ5MiHcqrZWv69\&index=1](https://www.youtube.com/watch?v=j1I63wGcvU4\&list=PL0rXAycsylvXxyPDT5kGQ5MiHcqrZWv69\&index=1)
+[https://www.youtube.com/watch?v=j1I63wGcvU4](https://www.youtube.com/watch?v=j1I63wGcvU4\&list=PL0rXAycsylvXxyPDT5kGQ5MiHcqrZWv69\&index=1)
 
 I added dmenu, i3lock as well.
