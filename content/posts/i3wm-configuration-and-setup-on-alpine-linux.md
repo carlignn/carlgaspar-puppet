@@ -47,3 +47,5 @@ Enable dbus:
 ```shell
 rc-update add dbus
 ```
+
+I added dmenu as well.
