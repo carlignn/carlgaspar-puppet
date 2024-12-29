@@ -245,10 +245,16 @@ In the VM, go to Hardware > Add USB Device > Use USB Port > Tick the USB Device 
 
 ## Roadblocks
 
-### PC can't connect to router and server at the same time.
+### PC can't connect to router and server at the same time
 
 * Router is at `192.168.254.254/24` and the server is at `10.10.10.1/16` making both of them in a different network.
 * I've managed to change the configuration of the router to use `10.10.0.1/16`.
+
+### Get a new IP from the DHCP server without restarting the whole machine
+
+```shell
+rc-service networking restart
+```
 
 ### Proxmox cannot connect to the internet
 
