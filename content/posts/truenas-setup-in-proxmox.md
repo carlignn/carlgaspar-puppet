@@ -21,3 +21,5 @@ blacklist mpt3sas
 Then
 
 Full grub line: GRUB\_CMDLINE\_LINUX\_DEFAULT="vfio-pci.ids=1000:0087 pcie\_acs\_override=downstream,multifunction"
+
+Guide: here [https://www.reddit.com/r/truenas/comments/x0tgub/scale\_drive\_resets\_with\_lsi\_93008i\_looking\_for/](https://www.reddit.com/r/truenas/comments/x0tgub/scale_drive_resets_with_lsi_93008i_looking_for/)
