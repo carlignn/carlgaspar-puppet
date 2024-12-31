@@ -268,6 +268,10 @@ reboot
 
 ```
 
+### TrueNAS Scale won't boot in Proxmox saying no boot device available
+
+* Disable ROM-bar when passing through the HBA
+
 ### Proxmox cannot connect to the internet
 
 * Added the DNS server using
