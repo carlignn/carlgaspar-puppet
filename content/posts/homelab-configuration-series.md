@@ -256,6 +256,18 @@ In the VM, go to Hardware > Add USB Device > Use USB Port > Tick the USB Device 
 rc-service networking restart
 ```
 
+### PCIE and other components sharing the same IOMMU group
+
+```shell
+nano /etc/default/grub
+Add the following to GRUB_CMDLINE_LINUX_DEFAULT:
+pcie_acs_override=downstream,multifunction
+Update Grub and reboot
+update-grub
+reboot
+
+```
+
 ### Proxmox cannot connect to the internet
 
 * Added the DNS server using
