@@ -272,6 +272,29 @@ reboot
 
 * Disable ROM-bar when passing through the HBA
 
+### TrueNAS has a lot of logs in the Proxmox console when starting up the VM
+
+Edit /etc/default/grub in the VM
+
+nano /etc/default/grub
+
+GRUB\_CMDLINE\_LINUX\_DEFAULT="quiet loglevel=3"
+
+update-grub
+reboot
+
+and
+
+Adjust Proxmox Host Logging SettingsEdit /etc/sysctl.conf to reduce kernel verbosity:
+
+nano /etc/sysctl.conf
+
+Add the following line:
+
+kernel.printk = 3 3 3 3
+
+sysctl -p
+
 ### Proxmox cannot connect to the internet
 
 * Added the DNS server using
