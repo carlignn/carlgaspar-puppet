@@ -13,3 +13,11 @@ This video is really really the top of the iceberg. A few crucial thing is missi
 \- disabling "hardware" acceleration of virtIO as this is known to cause problems
 \- doing smart configuration (like APM, idle times) on the host side as the guest won't have access to smart data and alerts
 \- optionally moving the system dataset to the boot disk
+
+Drives were disconnecting randomly. Add this on Your host: cat /etc/modprobe.d/mpt3sas.conf
+
+blacklist mpt3sas
+
+Then
+
+Full grub line: GRUB\_CMDLINE\_LINUX\_DEFAULT="vfio-pci.ids=1000:0087 pcie\_acs\_override=downstream,multifunction"
