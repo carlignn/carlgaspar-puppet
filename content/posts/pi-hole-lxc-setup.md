@@ -15,6 +15,8 @@ After the installation, make sure to change the hostname to your preference. Jus
 
 Add the blacklists to improve adblocking [https://firebog.net/](https://firebog.net/)
 
+For NSFW, try [https://github.com/blocklistproject/Lists](https://github.com/blocklistproject/Lists)
+
 ### Unbound
 
 [GUIDE](https://docs.pi-hole.net/guides/dns/unbound/?h=unbound)
