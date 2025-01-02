@@ -61,12 +61,15 @@ Enable dbus:
 rc-update add dbus
 ```
 
-Guide I'm following - \
+Guide I'm following - \\
 
-
-I added dmenu, i3lock, arandr as well.
+I added dmenu, i3lock, arandr, vim as well.
 
 * arandr: is the GUI version of xrandr
+
+Add exec i3 to .xinitrc file
+
+startx to start
 
 ## Reference
 
