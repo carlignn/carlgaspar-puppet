@@ -10,3 +10,9 @@ Pi-hole [helper script](https://community-scripts.github.io/ProxmoxVE/scripts?id
 ```shell
 bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/ct/pihole.sh)"
 ```
+
+After the installation, make sure to change the hostname to your preference. Just edit /etc/hosts and /etc/hostname and you're good to go.
+
+### Unbound
+
+[GUIDE](https://docs.pi-hole.net/guides/dns/unbound/?h=unbound)
