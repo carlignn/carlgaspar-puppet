@@ -324,6 +324,8 @@ sysctl -p
 hostnamectl
 ```
 
+* This will pull the hostname form /etc/hostname
+
 ### Proxmox cannot connect to the internet
 
 * Added the DNS server using
