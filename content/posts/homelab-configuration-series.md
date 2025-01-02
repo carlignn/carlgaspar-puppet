@@ -230,23 +230,25 @@ Get back to chatgpt with this prompt "Any way to do this via web interface?" [ht
 
 #### Tagging Convention
 
-* \<PROD/DEV/TEST> \<OS>
+* \<OS>\<>
 
 ### Local DNS
 
 Local DNS is the server that translates IP addresses to domain names. It is also just another client at the network that is being query every time someone requests for it.
 
-### GPU Passthrough
+### Passthrough
 
-Guide - [https://www.youtube.com/watch?v=TWX3iWcka\_0](https://www.youtube.com/watch?v=TWX3iWcka_0\&list=TLPQMjIxMjIwMjTwDjRhQDA6mg\&index=3)
+#### GPU
 
-Go to Datacenter > Resource Mappings > Add the GPU group
+[GUIDE](https://www.youtube.com/watch?v=TWX3iWcka_0)
 
-On the VM of your choice, go to Hardware > Add PCI Device > Raw Device > Add the GPU group > Tick All Functions > Tick Primary GPU if needed
+* Go to Datacenter > Resource Mappings > Add the GPU group
+* On the VM go to Hardware > Add PCI Device > Tick Primary GPU if needed
 
 #### Mouse and Keyboard Passthrough
 
-In the VM, go to Hardware > Add USB Device > Use USB Port > Tick the USB Device you want to add
+* Go to Datacenter > Resource Mappings > Add the USB device
+* In the VM, go to Hardware > Add USB Device > Add Mapped Device > Tick the USB Device you want to add
 
 ## Roadblocks
 
