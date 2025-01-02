@@ -317,7 +317,7 @@ sysctl -p
 
 ### Hostname is wrong
 
-How to change the hostname in Linux [GUIDE](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-22-04/).
+* Update /etc/hosts and /etc/hostname
 
 ### Proxmox cannot connect to the internet
 
