@@ -317,7 +317,12 @@ sysctl -p
 
 ### Hostname is wrong
 
-* Update /etc/hosts and /etc/hostname
+* Update /etc/hosts and /etc/hostname.
+* To view hostname, type
+
+```shell
+hostnamectl
+```
 
 ### Proxmox cannot connect to the internet
 
