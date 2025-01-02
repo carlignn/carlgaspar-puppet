@@ -51,6 +51,14 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 
 ### Server and Machine Naming Convention
 
+#### Location
+
+* HL2PROXMOX1 - Second instance of the Homelab
+
+#### Clusters
+
+* **HL1PROXMOX2** - Second Proxmox instance
+
 #### Servers
 
 Name the servers of their function. Add the OS as a tag afterwards.
