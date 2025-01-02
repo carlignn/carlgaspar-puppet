@@ -88,6 +88,8 @@ bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/m
 
 ### OPNSense Documentation
 
+OPNSense configuration has been postponed. I've decided to move it to a dedicated machine.
+
 OPNSense was setup to use the router-on-a-stick configuration.
 
 * **IP**: 10.10.10.2/16
@@ -114,10 +116,9 @@ OPNSense was setup to use the router-on-a-stick configuration.
 * VLAN20 - 10.10.20.0/24 - DATA
 * VLAN30 - 10.10.30.0/24 - MEDIA
 * VLAN40 - 10.10.40.0/24 - IOT
-* VLAN50 - 10.10.50.0/24 - TEST
-* VLAN60 - 10.10.60.0/24 - USER
-* VLAN70 - 10.10.70.0/24 - SERVER
-* VLAN80 - 10.10.80.0/24 - DMZ
+* VLAN50 - 10.10.50.0/24 - SERVER
+* VLAN60 - 10.10.60.0/24 - CLIENT
+* VLAN80 - 10.10.70.0/24 - DMZ
 
 ### VLAN Documentation (VLAN and Routing Moved to OPNSense)
 
@@ -220,10 +221,6 @@ sudo apt install iptables-persistent
 
 Get back to chatgpt with this prompt "Any way to do this via web interface?" [https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31](https://chatgpt.com/c/6758b4c3-4bb0-800a-bc11-115f2718ca31)
 
-### From Templates, this is How to Change the Hostname
-
-[https://linuxize.com/post/how-to-change-hostname-on-ubuntu-22-04/](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-22-04/)
-
 ### Machine Tagging
 
 * Configure in Datacenter > Options > Tag Style Override
@@ -266,6 +263,8 @@ rc-service networking restart
 
 ### PCIE and other components sharing the same IOMMU group
 
+* To separate and assign a separate group to each component
+
 ```shell
 nano /etc/default/grub
 Add the following to GRUB_CMDLINE_LINUX_DEFAULT:
@@ -282,26 +281,34 @@ reboot
 
 ### TrueNAS has a lot of logs in the Proxmox console when starting up the VM
 
-Edit /etc/default/grub in the VM
+* Edit /etc/default/grub in the VM and add
 
-nano /etc/default/grub
+```shell
+GRUB_CMDLINE_LINUX_DEFAULT = "quiet loglevel=3"
+```
 
-GRUB\_CMDLINE\_LINUX\_DEFAULT="quiet loglevel=3"
+* Update and reboot
 
+```shell
 update-grub
 reboot
+```
 
-and
+* And adjust Proxmox Host Logging Settings. Edit /etc/sysctl.conf to reduce kernel verbosity. Add the following line:
 
-Adjust Proxmox Host Logging SettingsEdit /etc/sysctl.conf to reduce kernel verbosity:
-
-nano /etc/sysctl.conf
-
-Add the following line:
-
+```shell
 kernel.printk = 3 3 3 3
+```
 
+* Update
+
+```shell
 sysctl -p
+```
+
+### Hostname is wrong
+
+How to change the hostname in Linux [GUIDE](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-22-04/).
 
 ### Proxmox cannot connect to the internet
 
