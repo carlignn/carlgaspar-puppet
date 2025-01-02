@@ -13,7 +13,7 @@ bash -c "$(wget -qLO - https://github.com/community-scripts/ProxmoxVE/raw/main/c
 
 After the installation, make sure to change the hostname to your preference. Just edit /etc/hosts and /etc/hostname and you're good to go.
 
-Blacklists [https://firebog.net/](https://firebog.net/)
+Add the blacklists to improve adblocking [https://firebog.net/](https://firebog.net/)
 
 ### Unbound
 
