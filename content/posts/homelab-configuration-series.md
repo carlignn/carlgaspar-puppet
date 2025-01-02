@@ -97,8 +97,8 @@ OPNSense was setup to use the router-on-a-stick configuration.
 * **Domain**: carlgaspar.local
 * **Primary DNS Server**: 1.1.1.3
 * **Secondary DNS Server**: 1.0.0.3
-* LAN: 10.10.0.3/16
-* WAN: 10.10.0.5/30: WAN is used so that OPNSense can connect to the router
+* **LAN**: 10.10.0.3/16
+* **WAN**: 10.10.0.5/30: WAN is used so that OPNSense can connect to the router
 
 #### Creating VLANs
 
@@ -234,7 +234,7 @@ Get back to chatgpt with this prompt "Any way to do this via web interface?" [ht
 
 ### Local DNS
 
-Local DNS is the server that translates IP addresses to domain names. It is also just another client at the network that is being query every time someone requests for it.
+Local DNS is the server that translates IP addresses to domain names. It is also just another client at the network that is being query every time someone requests for it. I will be using Unbound for this one.
 
 ### Passthrough
 
