@@ -269,12 +269,19 @@ rc-service networking restart
 
 ```shell
 nano /etc/default/grub
-Add the following to GRUB_CMDLINE_LINUX_DEFAULT:
+```
+
+* Add the following to GRUB\_CMDLINE\_LINUX\_DEFAULT:
+
+```shell
 pcie_acs_override=downstream,multifunction
-Update Grub and reboot
+```
+
+* Update Grub and reboot
+
+```shell
 update-grub
 reboot
-
 ```
 
 ### TrueNAS Scale won't boot in Proxmox saying no boot device available
