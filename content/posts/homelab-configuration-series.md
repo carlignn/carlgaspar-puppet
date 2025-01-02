@@ -53,7 +53,7 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 
 #### Location
 
-* HL2PROXMOX1 - Second instance of the Homelab
+* **HL2PROXMOX1** - Second instance of the Homelab
 
 #### Clusters
 
