@@ -130,3 +130,7 @@ sudo apt autoremove
 Clean up downloaded package files (to free up space):
 
 sudo apt clean
+
+How to copy the configuration from one user to another, in this case, user to cgaspar
+
+cp /root/.config/i3/config /home/username/.config/i3/config
