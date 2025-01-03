@@ -85,3 +85,48 @@ sudo update-initramfs -u
 ```
 
 reboot
+
+### Configuring i3 config
+
+I will be creating users here, I need to make sure that all users will have a default setup aside from their setup. On the default location of i3 config, add to the very top (before any other config)
+
+```shell
+include /etc/i3/config
+```
+
+This tells i3 to load /etc/i3/config in addition to the user's personal config file. With this setup, you can have a common set of configurations defined in /etc/i3/config, and user-specific customizations can be added in the user-specific file.
+
+Copy the config to /etc/i3/config (so that it's readable by all users)
+
+```shell
+sudo cp ~/.config/i3/config /etc/i3/config
+```
+
+Make sure the configuration file has the correct permissions:
+
+```shell
+sudo chmod 644 /etc/i3/config
+sudo chown root:root /etc/i3/config
+```
+
+This ensures that the configuration file is readable by all users, but only writable by root.
+
+#### I have to remove the default terminal and nano. I want to use alacritty and vim
+
+### How to remove packages in debian
+
+Remove a package (but keep configuration files):
+
+sudo apt remove \<package-name>
+
+Remove a package and its configuration files:
+
+sudo apt purge \<package-name>
+
+Remove unused dependencies that were installed automatically:
+
+sudo apt autoremove
+
+Clean up downloaded package files (to free up space):
+
+sudo apt clean
