@@ -58,3 +58,30 @@ apt update
 apt install nvidia-driver
 
 reboot
+
+Verify installation
+
+```shell
+nvidia-smi
+```
+
+(Optional) I received an error about conflicting nouveau kernel module. Even though the NVIDIA driver installation went smoothly, blacklist the nouveau driver to avoid conflicts in the future. Upon checking the file, NVIDIA already blacklisted the nouveau driver for me.
+
+```shell
+nano /etc/modprobe.d/blacklist-nouveau.conf
+```
+
+ss
+
+```shell
+blacklist nouveau
+options nouveau modeset=0
+```
+
+Update the intramfs (initial RAM filesystem) so that changes take effect:
+
+```shell
+sudo update-initramfs -u
+```
+
+reboot
