@@ -5,6 +5,8 @@ date: 2025-01-02T16:00:00.000Z
 
 I was looking for a lightweight operating system to host my dashboard and a few static movies/videos that I can play in the background and I landed on Alpine Linux. But apparently, NVIDIA drivers are hard to install in Alpine so I moved to Debian.
 
+This VM will passthrough my 1050TI so that I can watch movies, use the browser, and use software that requires hardware transcoding with ease. The other software will be in this VM because once you passthrough a GPU, it's hard to create a vGPU out of it.
+
 Install a headless Debian by following the instructions in the installer.
 
 apt install xorg (equivalent to setup-xorg-base in Alpine Linux)
