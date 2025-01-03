@@ -134,3 +134,16 @@ sudo apt clean
 How to copy the configuration from one user to another, in this case, user to cgaspar
 
 cp /root/.config/i3/config /home/username/.config/i3/config
+
+How to remove ipv6
+
+Update and add nano /etc/sysctl.conf
+
+```shell
+net.ipv6.conf.all.disable_ipv6 = 1
+net.ipv6.conf.default.disable_ipv6 = 1
+```
+
+apply changes
+
+sysctl -p
