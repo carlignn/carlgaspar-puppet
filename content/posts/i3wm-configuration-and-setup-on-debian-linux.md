@@ -149,3 +149,11 @@ net.ipv6.conf.default.disable_ipv6 = 1
 apply changes
 
 sysctl -p
+
+### Configuring i3status
+
+Make the config file mkdir -p \~/.config/i3status
+
+Copy the default config to the config folder cp /etc/i3status.conf \~/.config/i3status/config
+
+alt shift r to refresh i3
