@@ -131,11 +131,13 @@ Clean up downloaded package files (to free up space):
 
 sudo apt clean
 
-How to copy the configuration from one user to another, in this case, user to cgaspar
+#### How to copy the configuration from one user to another, in this case, user to cgaspar
 
 cp /root/.config/i3/config /home/username/.config/i3/config
 
-How to remove ipv6
+If there are config changes, do it in the root then copy to the user
+
+#### How to remove ipv6
 
 Update and add nano /etc/sysctl.conf
 
