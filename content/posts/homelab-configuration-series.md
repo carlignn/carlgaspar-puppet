@@ -359,3 +359,10 @@ systemctl restart networking
 ```
 
 * Make sure that the gateway is the same as the router IP.
+
+TrueNAS SAS Error (MSIX PBA outside of specified BAR)
+
+Solution: [https://forum.proxmox.com/threads/pci-passtrough-a100.143838/](https://forum.proxmox.com/threads/pci-passtrough-a100.143838/)
+
+Add args: -set device.hostpci0.x-msix-relocation=bar2
+to the VM config
