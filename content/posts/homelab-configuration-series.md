@@ -335,7 +335,13 @@ hostnamectl
 
 * nano /etc/motd
 
-### Proxmox cannot connect to the internet
+#### Update the IP of a VM
+
+```shell
+vi /etc/network/interfaces
+```
+
+### Proxmox cannot connect to the internet (make sure DNS is set)
 
 * Added the DNS server using
 
