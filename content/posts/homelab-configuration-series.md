@@ -331,6 +331,10 @@ hostnamectl
 
 * This will pull the hostname form /etc/hostname
 
+### Update the MOTD (The console stats after logging in)
+
+* nano /etc/motd
+
 ### Proxmox cannot connect to the internet
 
 * Added the DNS server using
