@@ -44,7 +44,7 @@ I'm a software person, but I really enjoyed building the hardware on stream. Tha
 * DNS **1.1.1.3** and **1.0.0.3** (Cloudflare's DNS for Malware and Adult Content)
 * DNS **1.1.1.1** and **8.8.8.8** (Cloudflare and Google DNS if needed)
 
-### IP Naming Convention
+### IP and Naming Convention
 
 * 10.**Location**.**VLAN**.0 /24
 * **Location** and **VLAN** starts and increases by 10.
@@ -75,6 +75,11 @@ Also starts with HL1 since I don't think I'm in an office to be using OF1.
 * **HL1LAPTOP1** - First laptop in the homelab
 * **HL1WS1** - First workstation in the homelab
 * **HL1VM1** - First virtual machine in the homelab
+
+#### Users
+
+* Full Name - Carl Christian Gaspar
+* Username - cgaspar \<first letter of first name>\<surname>
 
 ## Proxmox Advanced Configuration
 
