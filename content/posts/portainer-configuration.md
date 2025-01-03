@@ -9,5 +9,4 @@ Install docker: [https://docs.docker.com/engine/install/debian/](https://docs.do
 
 Install portainer: [https://docs.portainer.io/start/install-ce/server/docker/linux](https://docs.portainer.io/start/install-ce/server/docker/linux)
 
-```shell
-```
+Or just use the docker LXC: [https://community-scripts.github.io/ProxmoxVE/scripts?id=docker](https://community-scripts.github.io/ProxmoxVE/scripts?id=docker)
