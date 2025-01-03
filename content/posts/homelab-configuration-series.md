@@ -78,8 +78,8 @@ Also starts with HL1 since I don't think I'm in an office to be using OF1.
 
 #### Users
 
-* Full Name - Carl Christian Gaspar
-* Username - cgaspar \<first letter of first name>\<surname>
+* **Full Name** - Carl Christian Gaspar
+* **Username** - cgaspar \<first letter of first name>\<surname>
 
 ## Proxmox Advanced Configuration
 
