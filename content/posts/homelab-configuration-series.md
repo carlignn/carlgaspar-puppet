@@ -237,10 +237,6 @@ Get back to chatgpt with this prompt "Any way to do this via web interface?" [ht
 
 * \<os>\<if docker>\<if cs (community script)>
 
-### Local DNS
-
-Local DNS is the server that translates IP addresses to domain names. It is also just another client at the network that is being query every time someone requests for it. I will be using Unbound for this one.
-
 ### Passthrough
 
 #### GPU
@@ -254,6 +250,20 @@ Local DNS is the server that translates IP addresses to domain names. It is also
 
 * Go to Datacenter > Resource Mappings > Add the USB device
 * In the VM, go to Hardware > Add USB Device > Add Mapped Device > Tick the USB Device you want to add
+
+## For your Information
+
+### Local DNS
+
+Local DNS is the server that translates IP addresses to domain names. It is also just another client at the network that is being query every time someone requests for it. I will be using Unbound for this one.
+
+### Storage Types
+
+VZDump - VM/CT backups for restore/migration. - dump subdirectory.
+
+Snippets - Automation scripts/templates. - snippets subdirectory.
+
+Import - For importing external disk images. - import subdirectory.
 
 ## Roadblocks
 
@@ -359,17 +369,3 @@ systemctl restart networking
 ```
 
 * Make sure that the gateway is the same as the router IP.
-
-## JFYI
-
-In Proxmox
-
-VZDump - VM/CT backups for restore/migration. - dump subdirectory.
-
-Snippets - Automation scripts/templates. - snippets subdirectory.
-
-Import - For importing external disk images. - import subdirectory.
-
-## Backups
-
-VM Configs - in Datacenter > Backup - 
