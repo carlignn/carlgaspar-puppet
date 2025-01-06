@@ -369,3 +369,7 @@ VZDump - VM/CT backups for restore/migration. - dump subdirectory.
 Snippets - Automation scripts/templates. - snippets subdirectory.
 
 Import - For importing external disk images. - import subdirectory.
+
+## Backups
+
+VM Configs - in Datacenter > Backup - 
