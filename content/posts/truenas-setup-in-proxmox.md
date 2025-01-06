@@ -52,3 +52,13 @@ That there is an NFS share\
 Network is set\
 Maproot User is set to root\
 Maproot Group is set to wheel
+
+## Roadblocks
+
+### LXCs can't be backed up (permission denied)
+
+The LXCs that were created are unprivileged therefore there was a conflict.
+
+[https://blog.doussan.info/posts/container-backup-permission-denied-nfs/](https://blog.doussan.info/posts/container-backup-permission-denied-nfs/)
+
+[https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252)
