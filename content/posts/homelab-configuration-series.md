@@ -235,7 +235,7 @@ Get back to chatgpt with this prompt "Any way to do this via web interface?" [ht
 
 #### Tagging Convention
 
-* \<OS>\<>
+* \<os>\<if docker>\<if cs (community script)>
 
 ### Local DNS
 
