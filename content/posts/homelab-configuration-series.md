@@ -359,3 +359,7 @@ systemctl restart networking
 ```
 
 * Make sure that the gateway is the same as the router IP.
+
+## JFYI
+
+In Proxmox, VZDump is the backup location of the VM configs. This is used to restore VMs.
