@@ -31,3 +31,7 @@ Things to do:
 Update the fields in Network > Global Settings
 
 To get internet connection in TrueNAS, go to Network > Global Settings > Fill out the gateway and the DNS Servers.
+
+Best practices for datasets
+
+[https://www.truenas.com/community/threads/path-to-success-for-structuring-datasets-in-your-pool.85460/](https://www.truenas.com/community/threads/path-to-success-for-structuring-datasets-in-your-pool.85460/)
