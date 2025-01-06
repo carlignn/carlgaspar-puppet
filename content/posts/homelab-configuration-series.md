@@ -362,7 +362,7 @@ systemctl restart networking
 
 ## JFYI
 
-In Proxmox, VZDump is the backup location of the VM configs. This is used to restore VMs.
+In Proxmox
 
 VZDump - VM/CT backups for restore/migration. - dump subdirectory.
 
