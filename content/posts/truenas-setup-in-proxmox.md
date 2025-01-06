@@ -64,3 +64,7 @@ The LXCs that were created are unprivileged therefore there was a conflict.
 [https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252)
 
 Try this one if still error: [https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-462646](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-462646)
+
+### Plex
+
+Can't attach NFS to LXC in Proxmox [https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/](https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/)
