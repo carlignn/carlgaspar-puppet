@@ -41,3 +41,14 @@ Naming convention
 datasets - dataset\_name
 
 folders within datasets - folder\_name?
+
+To give access to TrueNAS NFS share to Proxmox
+
+Datacenter > Storage > Add NFS > Fill the fields
+
+Make sure in TrueNAS:
+
+That there is an NFS share\
+Network is set\
+Maproot User is set to root\
+Maproot Group is set to wheel
