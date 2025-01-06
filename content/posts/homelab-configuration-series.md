@@ -341,6 +341,10 @@ hostnamectl
 
 * This will pull the hostname form /etc/hostname
 
+### How to convert LXC from unprivilege to privilege
+
+[https://forum.proxmox.com/threads/change-lxc-from-unprivileged-back-to-privileged.65552/](https://forum.proxmox.com/threads/change-lxc-from-unprivileged-back-to-privileged.65552/)
+
 ### Update the MOTD (The console stats after logging in)
 
 * nano /etc/motd
