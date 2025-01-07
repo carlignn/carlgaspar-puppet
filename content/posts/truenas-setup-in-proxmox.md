@@ -68,3 +68,7 @@ Try this one if still error: [https://forum.proxmox.com/threads/tmp-cannot-open-
 ### Plex
 
 Can't attach NFS to LXC in Proxmox [https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/](https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/)
+
+### Can't see files in TrueNAS when queried by Plex
+
+The files are being created by a user in TrueNAS but when passed as a shared NFS/SMB, it is being read as a different user, therefore not having access anymore. Make sure that the reader is root so it can see everything.
