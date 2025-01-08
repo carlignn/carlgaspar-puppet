@@ -76,3 +76,7 @@ The files are being created by a user in TrueNAS but when passed as a shared NFS
 ### Standby mode to save electricity
 
 [https://www.youtube.com/watch?v=WvCURgT151c](https://www.youtube.com/watch?v=WvCURgT151c)
+
+### Best practices
+
+[https://www.youtube.com/watch?v=WvCURgT151c](https://www.youtube.com/watch?v=WvCURgT151c)
