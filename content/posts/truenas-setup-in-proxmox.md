@@ -26,7 +26,7 @@ Full grub line: GRUB\_CMDLINE\_LINUX\_DEFAULT="vfio-pci.ids=1000:0087 pcie\_acs\
 
 Guide: here [https://www.reddit.com/r/truenas/comments/x0tgub/scale\_drive\_resets\_with\_lsi\_93008i\_looking\_for/](https://www.reddit.com/r/truenas/comments/x0tgub/scale_drive_resets_with_lsi_93008i_looking_for/)
 
-Things to do:
+Things to do inside TrueNAS:
 
 Update the fields in Network > Global Settings
 
@@ -40,7 +40,7 @@ Naming convention
 
 datasets - dataset\_name
 
-folders within datasets - folder\_name?
+folders within datasets - Whatever
 
 To give access to TrueNAS NFS share to Proxmox
 
@@ -72,3 +72,7 @@ Can't attach NFS to LXC in Proxmox [https://harish2k01.in/mounting-an-nfs-share-
 ### Can't see files in TrueNAS when queried by Plex
 
 The files are being created by a user in TrueNAS but when passed as a shared NFS/SMB, it is being read as a different user, therefore not having access anymore. Make sure that the reader is root so it can see everything.
+
+### Standby mode to save electricity
+
+[https://www.youtube.com/watch?v=WvCURgT151c](https://www.youtube.com/watch?v=WvCURgT151c)
