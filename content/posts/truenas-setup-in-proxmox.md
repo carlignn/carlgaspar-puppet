@@ -83,10 +83,11 @@ apt install nfs-common
 You'd want to mount the NFS to the LXC on boot, so edit /etc/fstab then add 
 
 ```shell
+# UNCONFIGURED FSTAB FOR BASE SYSTEM
 IP:/mnt/NFS/NFS /home/admin/NFS nfs defaults 0 0
 
 # In my case, this is how it looked like
-hl1truenas1.carlgaspar.local:/mnt/critical/media /home/admin/truenas1_media nfs defaults 0 0
+hl1truenas1.carlgaspar.local:/mnt/hdd/critical/media /home/admin/truenas1_media nfs defaults 0 0
 ```
 
 Reboot to mount (there is a command to mount manually)
