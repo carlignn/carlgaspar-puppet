@@ -57,13 +57,14 @@ Datacenter > Storage > Add NFS > Fill the fields
 
 ### LXCs can't be backed up (permission denied)
 
-The LXCs that were created are unprivileged therefore there was a conflict.
+The [post](https://blog.doussan.info/posts/container-backup-permission-denied-nfs/) to the guide, the [thread](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-462646) if the error still persists, direct [link ](https://www.bachmann-lan.de/proxmox-unprivileged-container-backup-failed-permission-denied/)to the guide (this is the one that worked).
 
-[https://blog.doussan.info/posts/container-backup-permission-denied-nfs/](https://blog.doussan.info/posts/container-backup-permission-denied-nfs/)
+Basically, you can't backup LXCs that are unprivileged. If you really need the LXCs to be unprivileged, edit /etc/vzdump.conf in Proxmox and add tmpdir: / tmp
 
-[https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252)
-
-Try this [thread](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-462646) if the error still persists, direct [link](https://www.bachmann-lan.de/proxmox-unprivileged-container-backup-failed-permission-denied/) to the guide.
+```shell
+nano /etc/vzdump.conf
+tmpdir: / tmp
+```
 
 ### Use TrueNAS on LXCs
 
