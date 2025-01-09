@@ -66,9 +66,38 @@ nano /etc/vzdump.conf
 tmpdir: / tmp
 ```
 
-### Use TrueNAS on LXCs
+### Use TrueNAS on LXCs (only available on privileged LXCs)
 
-Can't attach NFS to LXC in Proxmox [https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/](https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/)
+What this will do is mount the NFS to the LXC
+
+Enable NFS in TrueNAS
+
+On the LXC, go to Options > Features > Check the NFS
+
+Install NFS client packages on the LXC
+
+```shell
+apt install nfs-common
+```
+
+You'd want to mount the NFS to the LXC on boot, so edit /etc/fstab then add 
+
+```shell
+IP:/mnt/NFS/NFS /home/admin/NFS nfs defaults 0 0
+
+# In my case, this is how it looked like
+hl1truenas1.carlgaspar.local:/mnt/critical/media /home/admin/truenas1_media nfs defaults 0 0
+```
+
+Reboot to mount (there is a command to mount manually)
+
+To check if it's mounted, type
+
+```shell
+df -h
+```
+
+[Full guide](https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/)
 
 ### Can't see files in TrueNAS when queried by Plex
 
