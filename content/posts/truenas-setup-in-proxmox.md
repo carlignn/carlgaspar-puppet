@@ -26,32 +26,32 @@ Full grub line: GRUB\_CMDLINE\_LINUX\_DEFAULT="vfio-pci.ids=1000:0087 pcie\_acs\
 
 Guide: here [https://www.reddit.com/r/truenas/comments/x0tgub/scale\_drive\_resets\_with\_lsi\_93008i\_looking\_for/](https://www.reddit.com/r/truenas/comments/x0tgub/scale_drive_resets_with_lsi_93008i_looking_for/)
 
-Things to do inside TrueNAS:
+## Things to do in TrueNAS
 
 Update the fields in Network > Global Settings
 
 To get internet connection in TrueNAS, go to Network > Global Settings > Fill out the gateway and the DNS Servers.
 
-Best practices for datasets
+## Best practices for datasets
 
 [https://www.truenas.com/community/threads/path-to-success-for-structuring-datasets-in-your-pool.85460/](https://www.truenas.com/community/threads/path-to-success-for-structuring-datasets-in-your-pool.85460/)
 
-Naming convention
+## Naming convention
 
 datasets - dataset\_name
 
 folders within datasets - Whatever
 
-To give access to TrueNAS NFS share to Proxmox
+## To give access to TrueNAS NFS share to Proxmox
 
 Datacenter > Storage > Add NFS > Fill the fields
 
-Make sure in TrueNAS:
+## Make sure in TrueNAS
 
-That there is an NFS share\
-Network is set\
-Maproot User is set to root\
-Maproot Group is set to wheel
+* That there is an NFS share
+* Network is set
+* Maproot User is set to root (this and the group below is the account that is used to modify the NFS share)
+* Maproot Group is set to wheel
 
 ## Roadblocks
 
@@ -63,9 +63,9 @@ The LXCs that were created are unprivileged therefore there was a conflict.
 
 [https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-492252)
 
-Try this one if still error: [https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-462646](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-462646)
+Try this [thread](https://forum.proxmox.com/threads/tmp-cannot-open-permission-denied.87730/post-462646) if the error still persists, direct [link](https://www.bachmann-lan.de/proxmox-unprivileged-container-backup-failed-permission-denied/) to the guide.
 
-### Plex
+### Use TrueNAS on LXCs
 
 Can't attach NFS to LXC in Proxmox [https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/](https://harish2k01.in/mounting-an-nfs-share-in-proxmox-lxc/)
 
