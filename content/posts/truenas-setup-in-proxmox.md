@@ -80,7 +80,7 @@ Install NFS client packages on the LXC
 apt install nfs-common
 ```
 
-You'd want to mount the NFS to the LXC on boot, so edit /etc/fstab then add 
+You'd want to mount the NFS to the LXC on boot, so edit /etc/fstab then add
 
 ```shell
 # UNCONFIGURED FSTAB FOR BASE SYSTEM
@@ -117,3 +117,10 @@ The files are being created by a user in TrueNAS but when passed as a shared NFS
 ### Best practices
 
 [https://www.youtube.com/watch?v=WvCURgT151c](https://www.youtube.com/watch?v=WvCURgT151c)
+
+TrueNAS has been moved to a separate server
+
+When connecting to iPad, I can see all the available datasets even if I don't have access to them.
+
+Go to Shares > SMB Share > Purpose > No Presets > Advanced Options > Enable 
+Access Based Share Enumeration
