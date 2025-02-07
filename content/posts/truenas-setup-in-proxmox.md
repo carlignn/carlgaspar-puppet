@@ -143,9 +143,9 @@ array (
     2 => 'localhost',
     3 => 'nextcloud',
   ),
-'overwrite.cli.url' => 'http://10.10.20.2:30028',
+'overwrite.cli.url' => 'https://10.10.20.2:30028',
 'overwritehost' => '10.10.20.2:30028',
-'overwriteprotocol' => 'http',
+'overwriteprotocol' => 'https',
 ```
 
 1. overwrite.cli.url
@@ -157,3 +157,5 @@ array (
 3. overwriteprotocol
    * Defines whether Nextcloud should use HTTP or HTTPS for URLs.
    * If https is set, Nextcloud will force secure connections, even if accessed over http.
+
+Only use HTTP if you're not using HTTPS or if HTTPS is breaking things.
