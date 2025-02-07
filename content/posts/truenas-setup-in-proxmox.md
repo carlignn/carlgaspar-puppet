@@ -130,3 +130,30 @@ Access Based Share Enumeration
 Enable auto permissions under db
 
 [https://forums.truenas.com/t/ee-install-of-nextcloud-fails-failed-up-action/14788/5](https://forums.truenas.com/t/ee-install-of-nextcloud-fails-failed-up-action/14788/5)
+
+### Error (nextcloud) Access through untrusted domain docker
+
+Add this to the end of the config/config.php file
+
+```php
+'trusted_domains' => 
+array (
+    0 => '10.10.20.2:30028',
+    1 => '127.0.0.1',
+    2 => 'localhost',
+    3 => 'nextcloud',
+  ),
+'overwrite.cli.url' => 'http://10.10.20.2:30028',
+'overwritehost' => '10.10.20.2:30028',
+'overwriteprotocol' => 'http',
+```
+
+1. overwrite.cli.url
+   * Defines the base URL Nextcloud uses for command-line operations (e.g., occ commands).
+   * If not set correctly, CLI commands may generate incorrect URLs.
+2. overwritehost
+   * Forces Nextcloud to use this hostname for all web requests, even if the request comes from a different hostname or IP.
+   * Useful when running behind a reverse proxy or when users access Nextcloud from multiple domains.
+3. overwriteprotocol
+   * Defines whether Nextcloud should use HTTP or HTTPS for URLs.
+   * If https is set, Nextcloud will force secure connections, even if accessed over http.
