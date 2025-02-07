@@ -133,6 +133,8 @@ Enable auto permissions under db
 
 ### Error (nextcloud) Access through untrusted domain docker
 
+Put the nextcloud domain: [https://forums.unraid.net/topic/77853-solved-nextcloud-access-through-untrusted-domain/](https://forums.unraid.net/topic/77853-solved-nextcloud-access-through-untrusted-domain/)
+
 Add this to the end of the config/config.php file
 
 ```php
