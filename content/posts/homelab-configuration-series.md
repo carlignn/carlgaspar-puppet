@@ -121,9 +121,10 @@ OPNSense was setup to use the router-on-a-stick configuration.
 * VLAN20 - 10.10.20.0/24 - DATA
 * VLAN30 - 10.10.30.0/24 - MEDIA
 * VLAN40 - 10.10.40.0/24 - IOT
-* VLAN50 - 10.10.50.0/24 - SERVER
-* VLAN60 - 10.10.60.0/24 - CLIENT
-* VLAN80 - 10.10.70.0/24 - DMZ
+* VLAN50 - 10.10.50.0/24 - AI
+* VLAN60 - 10.10.60.0/24 - SERVER
+* VLAN70 - 10.10.70.0/24 - CLIENT
+* VLAN80 - 10.10.80.0/24 - DMZ
 
 ### VLAN Documentation (VLAN and Routing Moved to OPNSense)
 
